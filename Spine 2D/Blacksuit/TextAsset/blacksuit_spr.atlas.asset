@@ -1,0 +1,104 @@
+
+blacksuit_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blacksuit_01
+  rotate: false
+  xy: 447, 344
+  size: 443, 675
+  orig: 443, 675
+  offset: 0, 0
+  index: -1
+blacksuit_02
+  rotate: false
+  xy: 2, 158
+  size: 443, 861
+  orig: 443, 861
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 8
+  size: 148, 197
+  orig: 148, 197
+  offset: 0, 0
+  index: -1
+face_Light_00
+  rotate: true
+  xy: 390, 15
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gas_1
+  rotate: true
+  xy: 597, 276
+  size: 66, 193
+  orig: 66, 193
+  offset: 0, 0
+  index: -1
+gas_2
+  rotate: true
+  xy: 201, 31
+  size: 125, 187
+  orig: 125, 187
+  offset: 0, 0
+  index: -1
+gas_3
+  rotate: true
+  xy: 390, 45
+  size: 111, 205
+  orig: 111, 205
+  offset: 0, 0
+  index: -1
+gas_4
+  rotate: false
+  xy: 633, 153
+  size: 55, 121
+  orig: 55, 121
+  offset: 0, 0
+  index: -1
+gas_5
+  rotate: false
+  xy: 447, 174
+  size: 94, 168
+  orig: 94, 168
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: true
+  xy: 543, 250
+  size: 92, 52
+  orig: 92, 52
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: true
+  xy: 543, 183
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+light_03
+  rotate: false
+  xy: 792, 243
+  size: 77, 99
+  orig: 77, 99
+  offset: 0, 0
+  index: -1
+light_04
+  rotate: true
+  xy: 201, 2
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+light_05
+  rotate: true
+  xy: 690, 223
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+akane_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_eyeclose
+  rotate: false
+  xy: 647, 174
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+02_nomal
+  rotate: false
+  xy: 647, 107
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 647, 107
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+03_respond
+  rotate: false
+  xy: 554, 126
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+04_smile
+  rotate: false
+  xy: 368, 28
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+05_embarassed
+  rotate: false
+  xy: 460, 56
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: -1
+06_serious
+  rotate: false
+  xy: 554, 57
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+07_depressed
+  rotate: false
+  xy: 2, 911
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 185, 911
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+akane
+  rotate: false
+  xy: 2, 3
+  size: 507, 985
+  orig: 507, 985
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 492, 232
+  size: 264, 756
+  orig: 264, 756
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 460, 16
+  size: 102, 38
+  orig: 102, 38
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 423, 127
+  size: 127, 151
+  orig: 127, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Automata_PMC1_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Automata_PMC1_spr
+  rotate: false
+  xy: 2, 361
+  size: 751, 616
+  orig: 752, 1222
+  offset: 0, 605
+  index: -1
+Automata_PMC1_spr2
+  rotate: 270
+  xy: 2, 3
+  size: 456, 704
+  orig: 752, 1222
+  offset: 290, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 793
+  size: 147, 70
+  orig: 147, 70
+  offset: 0, 0
+  index: -1

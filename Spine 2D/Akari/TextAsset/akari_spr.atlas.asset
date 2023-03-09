@@ -1,0 +1,97 @@
+
+akari_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 2, 300
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 300
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 2, 214
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 596, 684
+  size: 123, 92
+  orig: 123, 92
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 150, 702
+  size: 123, 111
+  orig: 123, 134
+  offset: 0, 23
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 128
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 636, 932
+  size: 123, 89
+  orig: 123, 89
+  offset: 0, 0
+  index: -1
+06_drop shadow
+  rotate: false
+  xy: 572, 779
+  size: 124, 101
+  orig: 124, 101
+  offset: 0, 0
+  index: -1
+akari
+  rotate: true
+  xy: 409, 4
+  size: 583, 480
+  orig: 705, 1090
+  offset: 63, 610
+  index: -1
+akari0
+  rotate: false
+  xy: 2, 386
+  size: 705, 636
+  orig: 705, 1090
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 41
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 478, 881
+  size: 156, 141
+  orig: 156, 141
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 7, 806
+  size: 278, 216
+  orig: 278, 216
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+ako_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_respond
+  rotate: true
+  xy: 472, 187
+  size: 133, 108
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 596, 250
+  size: 133, 113
+  orig: 133, 168
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 731, 221
+  size: 132, 119
+  orig: 132, 166
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: 180
+  xy: 738, 119
+  size: 132, 116
+  orig: 132, 170
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 782, 846
+  size: 132, 176
+  orig: 132, 176
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 866, 207
+  size: 132, 113
+  orig: 132, 166
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 782, 510
+  size: 132, 166
+  orig: 132, 166
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 782, 341
+  size: 132, 166
+  orig: 132, 166
+  offset: 0, 0
+  index: -1
+10
+  rotate: 180
+  xy: 889, 112
+  size: 132, 125
+  orig: 132, 166
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 916, 887
+  size: 135, 92
+  orig: 135, 92
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 273, 121
+  size: 135, 93
+  orig: 135, 93
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 335, 215
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 596, 364
+  size: 133, 124
+  orig: 133, 124
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 131
+  size: 134, 102
+  orig: 134, 102
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 137, 139
+  size: 134, 95
+  orig: 134, 95
+  offset: 0, 0
+  index: -1
+ako
+  rotate: false
+  xy: 329, 490
+  size: 451, 533
+  orig: 451, 1293
+  offset: 0, 760
+  index: -1
+ako0
+  rotate: false
+  xy: 2, 235
+  size: 332, 788
+  orig: 451, 1293
+  offset: 0, 0
+  index: -1
+default
+  rotate: 180
+  xy: 596, 141
+  size: 133, 108
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: 180
+  xy: 596, 141
+  size: 133, 108
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 782, 678
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 333, 322
+  size: 262, 166
+  orig: 262, 166
+  offset: 0, 0
+  index: -1

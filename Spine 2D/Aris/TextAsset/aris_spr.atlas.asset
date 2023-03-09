@@ -1,0 +1,132 @@
+
+aris_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 124, 66
+  size: 121, 74
+  orig: 121, 74
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 480, 928
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 840, 845
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 769, 921
+  size: 121, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 143
+  size: 121, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 840, 769
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 124, 272
+  size: 121, 73
+  orig: 121, 73
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 718, 779
+  size: 120, 82
+  orig: 120, 82
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 310
+  size: 120, 83
+  orig: 120, 83
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 66
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 225
+  size: 118, 84
+  orig: 118, 84
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 125, 161
+  size: 110, 74
+  orig: 110, 74
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 395
+  size: 121, 114
+  orig: 121, 114
+  offset: 0, 0
+  index: -1
+aris
+  rotate: false
+  xy: 2, 3
+  size: 765, 1000
+  orig: 865, 1000
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 892, 931
+  size: 99, 71
+  orig: 119, 75
+  offset: 1, 1
+  index: -1
+halo
+  rotate: false
+  xy: 2, 511
+  size: 138, 128
+  orig: 142, 132
+  offset: 2, 2
+  index: -1
+weapon_00
+  rotate: 180
+  xy: 594, 350
+  size: 404, 427
+  orig: 404, 427
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 517, 74
+  size: 378, 462
+  orig: 378, 462
+  offset: 0, 0
+  index: -1

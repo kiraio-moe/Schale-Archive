@@ -1,0 +1,111 @@
+
+atsuko_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 419, 584
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 104, 785
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 336, 931
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+04_embrass
+  rotate: false
+  xy: 510, 638
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 581, 771
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 579, 845
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 649, 960
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+atsuko_0
+  rotate: 180
+  xy: 454, 88
+  size: 568, 576
+  orig: 826, 1176
+  offset: 16, 600
+  index: -1
+atsuko_1
+  rotate: false
+  xy: 2, 362
+  size: 826, 661
+  orig: 826, 1176
+  offset: 0, 0
+  index: -1
+default light
+  rotate: false
+  xy: 581, 718
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 490, 765
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 334, 753
+  size: 313, 227
+  orig: 313, 227
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: false
+  xy: 2, 754
+  size: 101, 130
+  orig: 101, 130
+  offset: 0, 0
+  index: -1
+oo_default
+  rotate: false
+  xy: 2, 885
+  size: 124, 139
+  orig: 141, 155
+  offset: 8, 9
+  index: -1
+oo_default_0
+  rotate: false
+  xy: 2, 885
+  size: 124, 139
+  orig: 141, 155
+  offset: 8, 9
+  index: -1

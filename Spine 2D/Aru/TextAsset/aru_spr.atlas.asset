@@ -1,0 +1,139 @@
+
+aru_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 569, 851
+  size: 114, 77
+  orig: 114, 77
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 685, 874
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 653, 531
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 569, 930
+  size: 109, 93
+  orig: 109, 93
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 762, 534
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 159, 586
+  size: 109, 90
+  orig: 109, 90
+  offset: 0, 0
+  index: -1
+07_respond2
+  rotate: false
+  xy: 653, 609
+  size: 108, 78
+  orig: 108, 78
+  offset: 0, 0
+  index: -1
+08_smile2
+  rotate: false
+  xy: 107, 774
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+09_smile3
+  rotate: false
+  xy: 458, 844
+  size: 109, 83
+  orig: 109, 83
+  offset: 0, 0
+  index: -1
+10_embarassed2
+  rotate: false
+  xy: 680, 948
+  size: 109, 74
+  orig: 109, 74
+  offset: 0, 0
+  index: -1
+11_embarassed3
+  rotate: false
+  xy: 134, 926
+  size: 109, 97
+  orig: 109, 97
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 128, 679
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 653, 769
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 456, 929
+  size: 111, 94
+  orig: 111, 94
+  offset: 0, 0
+  index: -1
+aru_00
+  rotate: false
+  xy: 2, 325
+  size: 649, 698
+  orig: 649, 767
+  offset: 0, 69
+  index: -1
+aru_01
+  rotate: 180
+  xy: 594, 44
+  size: 428, 410
+  orig: 428, 410
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 2, 875
+  size: 131, 148
+  orig: 131, 148
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 653, 690
+  size: 111, 77
+  orig: 111, 77
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 123
+  size: 417, 200
+  orig: 417, 200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+azusa_swimsuit_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 857, 897
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 857, 897
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: 270
+  xy: 697, 7
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: 270
+  xy: 2, 220
+  size: 97, 93
+  orig: 97, 93
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: 180
+  xy: 299, 3
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: 180
+  xy: 772, 446
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+06_embarrassed
+  rotate: false
+  xy: 103, 8
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+07_ashamed
+  rotate: false
+  xy: 2, 318
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+08_embarrass2
+  rotate: 180
+  xy: 203, 3
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+Diorama _BG
+  rotate: 180
+  xy: 791, 13
+  size: 779, 979
+  orig: 779, 979
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 763, 287
+  size: 146, 171
+  orig: 146, 290
+  offset: 0, 119
+  index: -1
+azusa_swimsuit
+  rotate: false
+  xy: 2, 86
+  size: 912, 907
+  orig: 912, 907
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: 180
+  xy: 2, 21
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1

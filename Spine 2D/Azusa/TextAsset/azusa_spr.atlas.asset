@@ -1,0 +1,111 @@
+
+azusa_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 108, 323
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 108, 323
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 322
+  size: 105, 76
+  orig: 105, 76
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 399
+  size: 105, 76
+  orig: 105, 76
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 148, 542
+  size: 105, 70
+  orig: 105, 70
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 109, 421
+  size: 104, 73
+  orig: 104, 73
+  offset: 0, 0
+  index: -1
+06_embarrassed
+  rotate: false
+  xy: 215, 473
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+07_embarrass 2
+  rotate: false
+  xy: 214, 402
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+08_smile 2
+  rotate: false
+  xy: 82, 241
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+Character Halo
+  rotate: false
+  xy: 2, 614
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+HairCover
+  rotate: false
+  xy: 215, 351
+  size: 110, 49
+  orig: 110, 49
+  offset: 0, 0
+  index: -1
+azusa_00
+  rotate: false
+  xy: 45, 3
+  size: 865, 629
+  orig: 865, 629
+  offset: 0, 0
+  index: -1
+azusa_01
+  rotate: false
+  xy: 2, 537
+  size: 776, 486
+  orig: 776, 486
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 183, 247
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+gas mask
+  rotate: false
+  xy: 2, 477
+  size: 145, 136
+  orig: 152, 136
+  offset: 7, 0
+  index: -1

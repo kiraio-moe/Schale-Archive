@@ -1,0 +1,174 @@
+
+CH0176_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defalt
+  rotate: false
+  xy: 2, 702
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 702
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+00_eye close
+  rotate: false
+  xy: 122, 823
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 123, 735
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 122, 3
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 245, 662
+  size: 118, 80
+  orig: 118, 80
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 244, 831
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 2, 496
+  size: 118, 80
+  orig: 118, 80
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 297, 918
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 779, 541
+  size: 116, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 1189, 753
+  size: 118, 80
+  orig: 118, 80
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 245, 744
+  size: 118, 84
+  orig: 118, 84
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 616
+  size: 118, 84
+  orig: 118, 84
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 790
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 123, 649
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 74
+  size: 118, 84
+  orig: 118, 84
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 727, 455
+  size: 118, 84
+  orig: 118, 84
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 176, 917
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+ayane
+  rotate: 180
+  xy: 1177, 365
+  size: 370, 638
+  orig: 457, 1124
+  offset: 80, 1
+  index: -1
+ayane_0
+  rotate: false
+  xy: 415, 483
+  size: 457, 520
+  orig: 457, 1124
+  offset: 0, 604
+  index: -1
+diorama
+  rotate: 180
+  xy: 2, 12
+  size: 1350, 991
+  orig: 1350, 991
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 365, 690
+  size: 121, 57
+  orig: 121, 57
+  offset: 0, 0
+  index: -1
+glasses_crooked
+  rotate: false
+  xy: 232, 10
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 910
+  size: 172, 93
+  orig: 172, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+aru_newyear_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 435, 509
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 904, 189
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 279
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 14
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 898, 673
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 789, 670
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 924, 9
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 372, 239
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 925, 279
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 100
+  size: 101, 87
+  orig: 101, 87
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 906, 567
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 370
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 188
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 570, 618
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 905, 773
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 800, 761
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 890, 479
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 936, 384
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+Hair_Cover
+  rotate: false
+  xy: 673, 754
+  size: 125, 127
+  orig: 125, 127
+  offset: 0, 0
+  index: -1
+aru_newyear
+  rotate: false
+  xy: 2, 216
+  size: 652, 667
+  orig: 724, 1230
+  offset: 72, 563
+  index: -1
+aru_newyear_copy
+  rotate: false
+  xy: 429, 75
+  size: 506, 600
+  orig: 724, 1230
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 906, 99
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+halo_1
+  rotate: 180
+  xy: 116, 3
+  size: 452, 231
+  orig: 452, 231
+  offset: 0, 0
+  index: -1
+halo_2
+  rotate: false
+  xy: 486, 713
+  size: 185, 168
+  orig: 185, 168
+  offset: 0, 0
+  index: -1

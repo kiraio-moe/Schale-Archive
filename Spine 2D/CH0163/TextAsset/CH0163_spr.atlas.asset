@@ -1,0 +1,146 @@
+
+CH0163_spr.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 1616, 1973
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 1616, 1973
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 237, 1971
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 123, 1896
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 124, 1973
+  size: 111, 73
+  orig: 111, 73
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 342, 1972
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 859, 1585
+  size: 96, 75
+  orig: 96, 75
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1914, 1974
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1511, 1973
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1809, 1973
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+CH0163
+  rotate: 180
+  xy: 1065, 675
+  size: 981, 620
+  orig: 981, 1144
+  offset: 0, 0
+  index: -1
+CH01635
+  rotate: 180
+  xy: 360, 488
+  size: 740, 567
+  orig: 981, 1144
+  offset: 94, 577
+  index: -1
+diorama_rock 1
+  rotate: 270
+  xy: 2, 602
+  size: 720, 551
+  orig: 720, 551
+  offset: 0, 0
+  index: -1
+diorama_rock 2
+  rotate: true
+  xy: 1700, 1405
+  size: 480, 346
+  orig: 480, 346
+  offset: 0, 0
+  index: -1
+diorama_water
+  rotate: false
+  xy: 2, 1021
+  size: 1783, 1026
+  orig: 1783, 1026
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 1876
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+galss
+  rotate: false
+  xy: 447, 2001
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 892, 812
+  size: 196, 308
+  orig: 197, 308
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: 180
+  xy: 1654, 1802
+  size: 298, 244
+  orig: 298, 244
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: false
+  xy: 2, 1951
+  size: 121, 96
+  orig: 122, 97
+  offset: 0, 1
+  index: -1

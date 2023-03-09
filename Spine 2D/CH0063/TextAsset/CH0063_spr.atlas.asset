@@ -1,0 +1,125 @@
+
+CH0063_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 833, 201
+  size: 123, 71
+  orig: 123, 71
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 759, 170
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 606, 35
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 758, 3
+  size: 123, 74
+  orig: 123, 74
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 940
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 834, 77
+  size: 123, 71
+  orig: 123, 71
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 690, 495
+  size: 120, 76
+  orig: 120, 76
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 856
+  size: 114, 83
+  orig: 114, 83
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 497, 945
+  size: 120, 78
+  orig: 120, 78
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 680, 401
+  size: 123, 75
+  orig: 123, 75
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 812, 496
+  size: 122, 72
+  orig: 122, 72
+  offset: 0, 0
+  index: -1
+CH0063
+  rotate: false
+  xy: 2, 66
+  size: 687, 956
+  orig: 687, 956
+  offset: 0, 0
+  index: -1
+diorama_BG
+  rotate: 270
+  xy: 624, 573
+  size: 449, 224
+  orig: 481, 247
+  offset: 0, 0
+  index: -1
+diorama_particle
+  rotate: 180
+  xy: 466, 3
+  size: 382, 396
+  orig: 382, 396
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: true
+  xy: 835, 903
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 118, 926
+  size: 64, 33
+  orig: 108, 33
+  offset: 44, 0
+  index: -1
+halo
+  rotate: true
+  xy: 2, 47
+  size: 349, 153
+  orig: 349, 153
+  offset: 0, 0
+  index: -1

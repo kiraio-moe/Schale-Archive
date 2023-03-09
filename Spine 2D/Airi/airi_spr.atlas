@@ -1,0 +1,83 @@
+
+airi_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_Normal
+  rotate: false
+  xy: 180, 893
+  size: 87, 79
+  orig: 87, 79
+  offset: 0, 0
+  index: -1
+02_Respond
+  rotate: false
+  xy: 621, 885
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+03_Smile
+  rotate: false
+  xy: 534, 887
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+04_Embarrass
+  rotate: false
+  xy: 710, 884
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+05_Serious
+  rotate: false
+  xy: 2, 896
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+06_Depressed
+  rotate: false
+  xy: 91, 895
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+07_Pero
+  rotate: false
+  xy: 269, 893
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+airi
+  rotate: true
+  xy: 2, 376
+  size: 478, 966
+  orig: 478, 966
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 445, 891
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 357, 893
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 834, 856
+  size: 138, 116
+  orig: 138, 116
+  offset: 0, 0
+  index: -1
