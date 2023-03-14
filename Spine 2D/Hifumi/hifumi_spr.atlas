@@ -1,0 +1,125 @@
+
+hifumi_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 464
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 2, 204
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 288
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 374
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 635, 741
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 92, 41
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 635, 827
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 96, 266
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 29
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 635, 658
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 114
+  size: 85, 89
+  orig: 85, 236
+  offset: 0, 147
+  index: -1
+11_tears
+  rotate: false
+  xy: 178, 187
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+12_tears
+  rotate: false
+  xy: 2, 555
+  size: 106, 91
+  orig: 106, 240
+  offset: 0, 149
+  index: -1
+eyeclose
+  rotate: false
+  xy: 88, 121
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 635, 914
+  size: 269, 108
+  orig: 269, 108
+  offset: 0, 0
+  index: -1
+jehudiel
+  rotate: false
+  xy: 2, 349
+  size: 632, 675
+  orig: 632, 1257
+  offset: 0, 582
+  index: -1
+jehudiel00
+  rotate: 270
+  xy: 370, 3
+  size: 632, 617
+  orig: 632, 1257
+  offset: 0, 0
+  index: -1

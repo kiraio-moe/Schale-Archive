@@ -1,0 +1,83 @@
+
+shizuko_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 721, 316
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 721, 513
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 721, 221
+  size: 103, 94
+  orig: 103, 94
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 721, 130
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 721, 612
+  size: 110, 99
+  orig: 110, 99
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 824, 512
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 721, 46
+  size: 106, 81
+  orig: 106, 81
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: true
+  xy: 721, 713
+  size: 137, 126
+  orig: 137, 126
+  offset: 0, 0
+  index: -1
+Halo_Blur
+  rotate: true
+  xy: 721, 852
+  size: 143, 132
+  orig: 143, 132
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 721, 414
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+shizuko
+  rotate: false
+  xy: 2, 3
+  size: 718, 993
+  orig: 718, 993
+  offset: 0, 0
+  index: -1

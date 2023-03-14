@@ -1,0 +1,90 @@
+
+shiroko_robber_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 296, 951
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 296, 951
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 481, 950
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 199, 952
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 675, 948
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 102, 955
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 578, 949
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 393, 951
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 772, 914
+  size: 246, 104
+  orig: 246, 104
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: false
+  xy: 2, 977
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+object_mask
+  rotate: true
+  xy: 2, 809
+  size: 144, 166
+  orig: 144, 166
+  offset: 0, 0
+  index: -1
+shiroko_robber
+  rotate: true
+  xy: 2, 300
+  size: 507, 985
+  orig: 507, 985
+  offset: 0, 0
+  index: -1

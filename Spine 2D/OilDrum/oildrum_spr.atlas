@@ -1,0 +1,13 @@
+
+oildrum_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0018
+  rotate: false
+  xy: 2, 3
+  size: 529, 1013
+  orig: 529, 1013
+  offset: 0, 0
+  index: -1

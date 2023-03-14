@@ -1,0 +1,118 @@
+
+neru_wounded_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 565, 194
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+02_repond
+  rotate: false
+  xy: 2, 474
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 469, 53
+  size: 116, 69
+  orig: 116, 69
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 565, 262
+  size: 113, 63
+  orig: 113, 63
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 526, 124
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 586, 51
+  size: 108, 71
+  orig: 108, 71
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 354, 12
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 640, 124
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 62, 869
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 240, 12
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1
+NP0088
+  rotate: false
+  xy: 2, 431
+  size: 757, 515
+  orig: 757, 1047
+  offset: 0, 0
+  index: -1
+NP00881
+  rotate: 270
+  xy: 2, 4
+  size: 441, 562
+  orig: 757, 1047
+  offset: 160, 485
+  index: -1
+default
+  rotate: false
+  xy: 303, 870
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 452, 326
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 2, 552
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 677
+  size: 137, 121
+  orig: 137, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+ako_wounded_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 136, 320
+  size: 135, 119
+  orig: 135, 168
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 466, 404
+  size: 135, 114
+  orig: 135, 168
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 491, 52
+  size: 135, 106
+  orig: 135, 171
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 104, 35
+  size: 134, 104
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 629, 442
+  size: 134, 106
+  orig: 134, 173
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 595, 306
+  size: 134, 107
+  orig: 134, 179
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 627, 34
+  size: 134, 105
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 2, 68
+  size: 134, 101
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 138, 193
+  size: 124, 99
+  orig: 124, 166
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 629, 601
+  size: 125, 100
+  orig: 125, 166
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 622, 170
+  size: 134, 106
+  orig: 134, 223
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 486, 160
+  size: 134, 105
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 457, 265
+  size: 136, 120
+  orig: 136, 179
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 311
+  size: 132, 134
+  orig: 132, 219
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 586, 838
+  size: 134, 102
+  orig: 134, 102
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 629, 703
+  size: 134, 95
+  orig: 134, 95
+  offset: 0, 0
+  index: -1
+NP0019
+  rotate: false
+  xy: 2, 440
+  size: 455, 532
+  orig: 455, 1297
+  offset: 0, 764
+  index: -1
+NP0019_0
+  rotate: false
+  xy: 245, 4
+  size: 244, 779
+  orig: 455, 1297
+  offset: 66, 0
+  index: -1
+default
+  rotate: 180
+  xy: 2, 204
+  size: 135, 108
+  orig: 135, 168
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 449, 803
+  size: 135, 168
+  orig: 135, 168
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 457, 520
+  size: 264, 170
+  orig: 264, 170
+  offset: 0, 0
+  index: -1

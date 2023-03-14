@@ -1,0 +1,104 @@
+
+izumi_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 929, 144
+  size: 91, 80
+  orig: 91, 80
+  offset: 0, 0
+  index: -1
+01_eyeclose
+  rotate: false
+  xy: 841, 141
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+02_nomal
+  rotate: false
+  xy: 841, 614
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+03_respond
+  rotate: true
+  xy: 841, 237
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+04_smile
+  rotate: true
+  xy: 930, 239
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+05_embarrass
+  rotate: false
+  xy: 930, 21
+  size: 84, 121
+  orig: 84, 121
+  offset: 0, 0
+  index: -1
+06_serious
+  rotate: false
+  xy: 841, 423
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+07_depressed
+  rotate: false
+  xy: 841, 328
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+08_
+  rotate: false
+  xy: 841, 518
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+09_
+  rotate: false
+  xy: 841, 53
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 930, 321
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+Ipos
+  rotate: false
+  xy: 2, 2
+  size: 837, 1018
+  orig: 837, 1018
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 841, 829
+  size: 170, 191
+  orig: 170, 191
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: true
+  xy: 841, 710
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1

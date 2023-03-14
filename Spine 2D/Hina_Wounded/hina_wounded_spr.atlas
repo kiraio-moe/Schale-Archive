@@ -1,0 +1,104 @@
+
+hina_wounded_spr.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defalt
+  rotate: false
+  xy: 2, 1606
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 906, 1340
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+01_halo
+  rotate: false
+  xy: 958, 560
+  size: 766, 232
+  orig: 766, 232
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 1279
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+02_halo
+  rotate: false
+  xy: 800, 234
+  size: 267, 48
+  orig: 267, 48
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 1497
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 1064
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 1171
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 1388
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 946
+  size: 119, 115
+  orig: 119, 115
+  offset: 0, 0
+  index: -1
+hina_01
+  rotate: false
+  xy: 2, 550
+  size: 1288, 678
+  orig: 1288, 1446
+  offset: 0, 767
+  index: -1
+hina_01_copy
+  rotate: false
+  xy: 2, 1212
+  size: 1012, 822
+  orig: 1288, 1446
+  offset: 116, 0
+  index: -1
+hina_02
+  rotate: false
+  xy: 217, 4
+  size: 764, 886
+  orig: 765, 886
+  offset: 1, 0
+  index: -1
+hina_03
+  rotate: 270
+  xy: 865, 1178
+  size: 815, 823
+  orig: 817, 823
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+hasumi_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defalt
+  rotate: false
+  xy: 205, 954
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 205, 954
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 101, 807
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 117, 758
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 146, 709
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 165, 950
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 165, 803
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 205, 852
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 191, 754
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 165, 900
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 3, 856
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+hasumi_01
+  rotate: false
+  xy: 2, 51
+  size: 557, 948
+  orig: 557, 948
+  offset: 0, 0
+  index: -1
+hasumi_02
+  rotate: false
+  xy: 560, 140
+  size: 284, 860
+  orig: 284, 860
+  offset: 0, 0
+  index: -1
+hasumi_03
+  rotate: false
+  xy: 730, 398
+  size: 268, 598
+  orig: 268, 598
+  offset: 0, 0
+  index: -1
+hasumi_04
+  rotate: false
+  xy: 48, 699
+  size: 97, 156
+  orig: 103, 156
+  offset: 6, 0
+  index: -1

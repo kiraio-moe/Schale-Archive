@@ -1,0 +1,146 @@
+
+kaede_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_eyeclose_0
+  rotate: 270
+  xy: 539, 87
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 562, 435
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 496, 885
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 500, 8
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 506, 260
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 403, 3
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 564, 186
+  size: 87, 71
+  orig: 87, 71
+  offset: 0, 0
+  index: -1
+07_baka
+  rotate: true
+  xy: 609, 832
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+08_baka2
+  rotate: false
+  xy: 472, 171
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+09_doya
+  rotate: true
+  xy: 591, 23
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+10_embarrass2
+  rotate: false
+  xy: 341, 764
+  size: 135, 92
+  orig: 135, 92
+  offset: 0, 0
+  index: -1
+11_smile2
+  rotate: true
+  xy: 593, 914
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+12_embarrass3
+  rotate: true
+  xy: 603, 298
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+13_ex
+  rotate: true
+  xy: 523, 345
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+14_ex2
+  rotate: false
+  xy: 571, 679
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+15_ex3
+  rotate: true
+  xy: 597, 532
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 296, 857
+  size: 198, 137
+  orig: 202, 141
+  offset: 2, 2
+  index: -1
+Kaede
+  rotate: false
+  xy: 2, 45
+  size: 598, 950
+  orig: 598, 950
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 437, 87
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: true
+  xy: 496, 763
+  size: 120, 111
+  orig: 122, 121
+  offset: 1, 1
+  index: -1

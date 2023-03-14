@@ -1,0 +1,125 @@
+
+mutsuki_newyear_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 196
+  size: 131, 101
+  orig: 131, 101
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 518, 796
+  size: 131, 101
+  orig: 131, 101
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 591, 500
+  size: 131, 100
+  orig: 131, 100
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: 270
+  xy: 2, 71
+  size: 123, 100
+  orig: 123, 100
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 2, 298
+  size: 131, 100
+  orig: 131, 100
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 2, 510
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 644, 140
+  size: 131, 85
+  orig: 131, 85
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 515, 399
+  size: 133, 99
+  orig: 133, 99
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 599, 664
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 401
+  size: 131, 101
+  orig: 131, 101
+  offset: 0, 0
+  index: -1
+Hair_Cover
+  rotate: false
+  xy: 2, 8
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Halo_01
+  rotate: false
+  xy: 532, 763
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+Halo_02
+  rotate: true
+  xy: 2, 645
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+Halo_03
+  rotate: false
+  xy: 502, 898
+  size: 198, 99
+  orig: 198, 99
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 595, 273
+  size: 125, 101
+  orig: 125, 101
+  offset: 0, 0
+  index: -1
+mutsuki_newyear
+  rotate: false
+  xy: 2, 203
+  size: 595, 795
+  orig: 595, 1088
+  offset: 0, 293
+  index: -1
+mutsuki_newyear_copy
+  rotate: false
+  xy: 222, 4
+  size: 479, 397
+  orig: 595, 1088
+  offset: 29, 0
+  index: -1

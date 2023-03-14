@@ -1,0 +1,174 @@
+
+mina_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 404, 93
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 404, 93
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+00_eye close
+  rotate: true
+  xy: 738, 24
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+02_response
+  rotate: false
+  xy: 279, 90
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 155, 87
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+04_embrassed
+  rotate: false
+  xy: 2, 85
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 126, 9
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 7
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+07_etc
+  rotate: false
+  xy: 2, 759
+  size: 123, 104
+  orig: 123, 104
+  offset: 0, 0
+  index: -1
+08_etc
+  rotate: true
+  xy: 528, 126
+  size: 123, 83
+  orig: 123, 83
+  offset: 0, 0
+  index: -1
+09_etc
+  rotate: false
+  xy: 613, 69
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+10_etc
+  rotate: false
+  xy: 279, 10
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+11_etc
+  rotate: false
+  xy: 817, 68
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+12_etc
+  rotate: false
+  xy: 404, 12
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+13_etc
+  rotate: false
+  xy: 126, 779
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+14_etc
+  rotate: true
+  xy: 528, 31
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+15_etc
+  rotate: false
+  xy: 429, 717
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+16_etc
+  rotate: true
+  xy: 2, 666
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+CH0138
+  rotate: false
+  xy: 529, 247
+  size: 434, 617
+  orig: 638, 1286
+  offset: 79, 669
+  index: -1
+CH01389
+  rotate: false
+  xy: 2, 166
+  size: 638, 697
+  orig: 638, 1286
+  offset: 0, 0
+  index: -1
+hair cover
+  rotate: false
+  xy: 834, 149
+  size: 136, 195
+  orig: 136, 195
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: false
+  xy: 602, 3
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: false
+  xy: 613, 146
+  size: 216, 130
+  orig: 216, 130
+  offset: 0, 0
+  index: -1
+sunglasses
+  rotate: true
+  xy: 2, 271
+  size: 151, 65
+  orig: 151, 65
+  offset: 0, 0
+  index: -1

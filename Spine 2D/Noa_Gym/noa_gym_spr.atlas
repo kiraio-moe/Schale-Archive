@@ -1,0 +1,97 @@
+
+noa_gym_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07
+  rotate: false
+  xy: 564, 829
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1
+Halo_01
+  rotate: false
+  xy: 274, 743
+  size: 176, 99
+  orig: 176, 99
+  offset: 0, 0
+  index: -1
+Halo_02
+  rotate: false
+  xy: 674, 937
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+NP0043
+  rotate: false
+  xy: 2, 296
+  size: 685, 692
+  orig: 685, 1248
+  offset: 0, 1
+  index: -1
+NP00433
+  rotate: 180
+  xy: 520, 285
+  size: 466, 519
+  orig: 685, 1248
+  offset: 69, 670
+  index: -1
+default
+  rotate: false
+  xy: 432, 908
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 432, 908
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+depressed
+  rotate: false
+  xy: 564, 908
+  size: 108, 78
+  orig: 108, 78
+  offset: 0, 0
+  index: -1
+embarassed
+  rotate: false
+  xy: 2, 906
+  size: 111, 81
+  orig: 111, 81
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 319, 844
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+respond
+  rotate: false
+  xy: 33, 825
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 559, 754
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 452, 828
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1

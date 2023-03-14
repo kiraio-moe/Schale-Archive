@@ -1,0 +1,83 @@
+
+shimiko_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 normal
+  rotate: false
+  xy: 274, 847
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+0 Defalt
+  rotate: false
+  xy: 274, 847
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+2 respond
+  rotate: false
+  xy: 455, 846
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+3 smile
+  rotate: false
+  xy: 546, 845
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+4 embarrass
+  rotate: false
+  xy: 637, 845
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+5 serious
+  rotate: false
+  xy: 100, 854
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+6 shout
+  rotate: false
+  xy: 187, 849
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 365, 847
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 2, 892
+  size: 96, 34
+  orig: 96, 34
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 725, 838
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+shimiko
+  rotate: true
+  xy: 2, 199
+  size: 637, 924
+  orig: 637, 924
+  offset: 0, 0
+  index: -1

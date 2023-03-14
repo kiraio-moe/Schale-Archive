@@ -1,0 +1,251 @@
+
+hoshino_swimsuit_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 1648, 525
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+00_eyeclose
+  rotate: false
+  xy: 1648, 627
+  size: 97, 87
+  orig: 97, 87
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 1609, 265
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 1551, 443
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 839, 50
+  size: 95, 99
+  orig: 95, 99
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 346
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 1034, 4
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 1648, 443
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+07_difficult 1
+  rotate: false
+  xy: 798, 401
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+08_difficult 2
+  rotate: false
+  xy: 839, 151
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+09_difficult 3
+  rotate: false
+  xy: 1503, 84
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+10_shy 1
+  rotate: false
+  xy: 1034, 81
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+11_shy 2
+  rotate: false
+  xy: 1313, 80
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+12_shy 3
+  rotate: false
+  xy: 1601, 175
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+13_shout 1
+  rotate: false
+  xy: 1413, 75
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+14_shout 2
+  rotate: false
+  xy: 1510, 265
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+15_calm smile
+  rotate: false
+  xy: 1609, 354
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+16_trick 1
+  rotate: false
+  xy: 1601, 84
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+17_trick 2
+  rotate: false
+  xy: 101, 348
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+18_boring 1
+  rotate: false
+  xy: 818, 791
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+19_boring 2
+  rotate: false
+  xy: 741, 45
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1
+20_peaceful
+  rotate: false
+  xy: 1413, 175
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+21_sleep
+  rotate: false
+  xy: 936, 53
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+blush
+  rotate: false
+  xy: 699, 842
+  size: 116, 53
+  orig: 116, 53
+  offset: 0, 0
+  index: -1
+blush_plus
+  rotate: false
+  xy: 282, 518
+  size: 119, 58
+  orig: 119, 58
+  offset: 0, 0
+  index: -1
+diorama 1
+  rotate: false
+  xy: 2, 315
+  size: 855, 581
+  orig: 855, 581
+  offset: 0, 0
+  index: -1
+diorama 1_FX
+  rotate: true
+  xy: 806, 16
+  size: 729, 506
+  orig: 729, 506
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 220, 412
+  size: 132, 124
+  orig: 132, 124
+  offset: 0, 0
+  index: -1
+halo 1
+  rotate: false
+  xy: 2, 528
+  size: 72, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+halo 2
+  rotate: false
+  xy: 2, 833
+  size: 98, 63
+  orig: 98, 64
+  offset: 0, 1
+  index: -1
+halo 3
+  rotate: false
+  xy: 2, 450
+  size: 219, 103
+  orig: 219, 103
+  offset: 0, 0
+  index: -1
+hoshino_swim suit
+  rotate: 180
+  xy: 2, 4
+  size: 739, 479
+  orig: 739, 961
+  offset: 0, 482
+  index: -1
+hoshino_swim suit_0
+  rotate: 180
+  xy: 1030, 380
+  size: 727, 516
+  orig: 739, 961
+  offset: 12, 0
+  index: -1
+sunglasses_face
+  rotate: false
+  xy: 1304, 22
+  size: 127, 57
+  orig: 127, 57
+  offset: 0, 0
+  index: -1
+sunglasses_head
+  rotate: false
+  xy: 1562, 15
+  size: 144, 83
+  orig: 144, 83
+  offset: 0, 0
+  index: -1

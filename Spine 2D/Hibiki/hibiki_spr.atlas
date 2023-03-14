@@ -1,0 +1,139 @@
+
+hibiki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 612, 599
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 612, 599
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 564, 4
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 590, 516
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 695, 516
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: 270
+  xy: 2, 87
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 702, 403
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+07_respond
+  rotate: false
+  xy: 612, 715
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+08_groggy
+  rotate: true
+  xy: 590, 402
+  size: 111, 109
+  orig: 111, 109
+  offset: 0, 0
+  index: -1
+09_surprise
+  rotate: true
+  xy: 669, 299
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+10_surprise
+  rotate: true
+  xy: 674, 798
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+11_shy
+  rotate: true
+  xy: 670, 54
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: true
+  xy: 581, 797
+  size: 169, 91
+  orig: 169, 91
+  offset: 0, 0
+  index: -1
+Halo_Blur
+  rotate: true
+  xy: 564, 86
+  size: 173, 95
+  orig: 173, 95
+  offset: 0, 0
+  index: -1
+ear_2
+  rotate: true
+  xy: 414, 402
+  size: 240, 174
+  orig: 240, 174
+  offset: 0, 0
+  index: -1
+ear_defualt
+  rotate: false
+  xy: 452, 261
+  size: 215, 139
+  orig: 215, 139
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 661, 156
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+hibiki
+  rotate: false
+  xy: 2, 45
+  size: 610, 921
+  orig: 610, 921
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: true
+  xy: 320, 23
+  size: 171, 242
+  orig: 171, 242
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+moe_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 374, 929
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 374, 929
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 484, 929
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 924, 901
+  size: 104, 81
+  orig: 104, 81
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 594, 929
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 112, 768
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 814, 929
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 672, 847
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 782, 847
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 440, 849
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 556, 849
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 866
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 112, 855
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 222, 852
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 892, 819
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 223, 767
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 334, 765
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 2, 784
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 704, 929
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 331, 851
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 187, 933
+  size: 106, 72
+  orig: 106, 72
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 944
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+halo_1
+  rotate: false
+  xy: 445, 715
+  size: 140, 132
+  orig: 140, 132
+  offset: 0, 0
+  index: -1
+halo_2
+  rotate: false
+  xy: 114, 937
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+halo_light_01
+  rotate: false
+  xy: 587, 708
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+halo_light_02
+  rotate: false
+  xy: 295, 930
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+moe
+  rotate: true
+  xy: 2, 103
+  size: 603, 895
+  orig: 603, 895
+  offset: 0, 0
+  index: -1

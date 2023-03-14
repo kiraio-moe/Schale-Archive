@@ -1,0 +1,139 @@
+
+cherino_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 670, 278
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 670, 278
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+30_default
+  rotate: false
+  xy: 670, 278
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+31_normal
+  rotate: false
+  xy: 670, 278
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 721, 750
+  size: 104, 73
+  orig: 104, 73
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 752, 524
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+04_embrrassed
+  rotate: false
+  xy: 2, 434
+  size: 124, 90
+  orig: 124, 90
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 729, 444
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 537, 915
+  size: 124, 90
+  orig: 124, 90
+  offset: 0, 0
+  index: -1
+300_eyeclose
+  rotate: false
+  xy: 2, 527
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+00_eyeclose
+  rotate: false
+  xy: 2, 527
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+32_respond
+  rotate: false
+  xy: 663, 916
+  size: 104, 89
+  orig: 104, 89
+  offset: 0, 0
+  index: -1
+33_smile
+  rotate: false
+  xy: 2, 180
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+34_embrassed
+  rotate: false
+  xy: 647, 825
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+35_serious
+  rotate: false
+  xy: 700, 362
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+36_depressed
+  rotate: false
+  xy: 97, 913
+  size: 128, 92
+  orig: 128, 92
+  offset: 0, 0
+  index: -1
+cherino
+  rotate: false
+  xy: 2, 62
+  size: 770, 944
+  orig: 770, 945
+  offset: 0, 1
+  index: -1
+halo
+  rotate: true
+  xy: 640, 3
+  size: 273, 220
+  orig: 273, 220
+  offset: 0, 0
+  index: -1
+ss
+  rotate: false
+  xy: 2, 983
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1

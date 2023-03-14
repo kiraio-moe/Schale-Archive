@@ -1,0 +1,251 @@
+
+mika_wounded_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 941, 375
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 941, 375
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 752, 533
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 857, 641
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 883, 725
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 761, 146
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 74, 129
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 475, 197
+  size: 94, 77
+  orig: 94, 77
+  offset: 0, 0
+  index: -1
+08
+  rotate: 180
+  xy: 556, 516
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 752, 612
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 847, 293
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 910, 812
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 337
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 105, 279
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 419, 275
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 209, 302
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 648, 559
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 857, 561
+  size: 101, 79
+  orig: 101, 79
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 2, 464
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 97, 415
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 945, 272
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 281, 133
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 910, 916
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 208, 199
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 372, 202
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 842, 218
+  size: 101, 73
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 571, 129
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 945, 169
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+28
+  rotate: true
+  xy: 2, 158
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 2, 261
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: true
+  xy: 733, 721
+  size: 298, 175
+  orig: 298, 175
+  offset: 0, 0
+  index: -1
+NP0041
+  rotate: false
+  xy: 405, 193
+  size: 576, 319
+  orig: 743, 1060
+  offset: 142, 741
+  index: -1
+NP00411
+  rotate: false
+  xy: 2, 716
+  size: 743, 303
+  orig: 743, 1060
+  offset: 0, 471
+  index: -1
+NP004111
+  rotate: 180
+  xy: 28, 208
+  size: 743, 515
+  orig: 743, 1060
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 105, 200
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1

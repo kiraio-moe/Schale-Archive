@@ -1,0 +1,90 @@
+
+mashiro_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 673, 672
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 399, 927
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 538
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 640
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 270, 824
+  size: 108, 94
+  orig: 108, 94
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 148, 811
+  size: 120, 106
+  orig: 120, 106
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 210, 716
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 302
+  size: 112, 94
+  orig: 112, 94
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 127, 919
+  size: 270, 101
+  orig: 272, 103
+  offset: 1, 1
+  index: -1
+mashiro1
+  rotate: true
+  xy: 2, 213
+  size: 296, 485
+  orig: 296, 485
+  offset: 0, 0
+  index: -1
+mashiro2
+  rotate: false
+  xy: 488, 4
+  size: 516, 427
+  orig: 516, 427
+  offset: 0, 0
+  index: -1
+mashiro3
+  rotate: false
+  xy: 2, 371
+  size: 775, 650
+  orig: 775, 650
+  offset: 0, 0
+  index: -1

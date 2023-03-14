@@ -1,0 +1,125 @@
+
+wakamo_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 2, 132
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 752, 87
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 1707, 226
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+04_embrrassed
+  rotate: false
+  xy: 110, 65
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 919, 476
+  size: 193, 161
+  orig: 193, 161
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 1836, 363
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+07_tears 1
+  rotate: false
+  xy: 1847, 546
+  size: 128, 91
+  orig: 128, 91
+  offset: 0, 0
+  index: -1
+08_tears 2
+  rotate: false
+  xy: 1230, 526
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+09_flush 1
+  rotate: false
+  xy: 1232, 435
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+10_flush 2
+  rotate: false
+  xy: 1847, 453
+  size: 124, 92
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+11_heart
+  rotate: false
+  xy: 967, 386
+  size: 124, 88
+  orig: 124, 88
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 1672, 139
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 1808, 102
+  size: 237, 285
+  orig: 237, 285
+  offset: 0, 0
+  index: -1
+mask_01
+  rotate: true
+  xy: 1621, 309
+  size: 328, 224
+  orig: 329, 225
+  offset: 1, 0
+  index: -1
+mask_00
+  rotate: true
+  xy: 1621, 309
+  size: 328, 224
+  orig: 329, 225
+  offset: 1, 0
+  index: -1
+wakamo
+  rotate: false
+  xy: 2, 53
+  size: 1004, 584
+  orig: 1004, 1188
+  offset: 0, 604
+  index: -1
+wakamo_00
+  rotate: false
+  xy: 844, 3
+  size: 835, 634
+  orig: 1004, 1188
+  offset: 45, 0
+  index: -1

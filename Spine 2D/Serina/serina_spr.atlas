@@ -1,0 +1,76 @@
+
+serina_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 903
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 2, 903
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 403, 897
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 306, 899
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 509, 897
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 200, 901
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 615, 895
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+Selaphiel
+  rotate: true
+  xy: 2, 335
+  size: 504, 975
+  orig: 504, 975
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 108, 903
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 720, 841
+  size: 222, 136
+  orig: 222, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+izumi_swimsuit_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 829, 718
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+01_eyeclose
+  rotate: false
+  xy: 183, 331
+  size: 106, 88
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+02_nomal
+  rotate: false
+  xy: 800, 934
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+03_respond
+  rotate: true
+  xy: 94, 78
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+04_smile
+  rotate: true
+  xy: 2, 78
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+05_embarassed
+  rotate: false
+  xy: 2, 927
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+06_serious
+  rotate: true
+  xy: 798, 386
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+07_depressed
+  rotate: false
+  xy: 421, 413
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 683, 930
+  size: 115, 93
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 196
+  size: 115, 93
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 748, 836
+  size: 115, 93
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 829, 539
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+Diorama_BG
+  rotate: false
+  xy: 2, 389
+  size: 838, 634
+  orig: 838, 635
+  offset: 0, 1
+  index: -1
+front_hair
+  rotate: true
+  xy: 833, 264
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 290
+  size: 180, 142
+  orig: 180, 142
+  offset: 0, 0
+  index: -1
+izumi_swimsuit
+  rotate: 270
+  xy: 202, 3
+  size: 410, 701
+  orig: 410, 701
+  offset: 0, 0
+  index: -1

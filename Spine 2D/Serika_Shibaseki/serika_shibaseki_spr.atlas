@@ -1,0 +1,132 @@
+
+serika_shibaseki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 92, 948
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 762, 941
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 762, 941
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 595, 946
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 850, 940
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 176, 948
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 934, 938
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+07_1
+  rotate: false
+  xy: 306, 819
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+08_
+  rotate: false
+  xy: 679, 943
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+09_
+  rotate: false
+  xy: 196, 851
+  size: 108, 95
+  orig: 108, 95
+  offset: 0, 0
+  index: -1
+10_
+  rotate: false
+  xy: 437, 812
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1
+11_
+  rotate: false
+  xy: 426, 947
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+12_
+  rotate: false
+  xy: 258, 948
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+13_
+  rotate: false
+  xy: 510, 947
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 342, 948
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 863
+  size: 192, 83
+  orig: 192, 83
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: false
+  xy: 2, 978
+  size: 88, 36
+  orig: 88, 36
+  offset: 0, 0
+  index: -1
+serika_shibaseki
+  rotate: true
+  xy: 2, 404
+  size: 406, 974
+  orig: 406, 974
+  offset: 0, 0
+  index: -1

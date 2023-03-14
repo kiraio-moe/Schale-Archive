@@ -1,0 +1,125 @@
+
+haruka_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 101, 947
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 591, 943
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 789, 939
+  size: 97, 77
+  orig: 97, 77
+  offset: 0, 0
+  index: -1
+04_embarass
+  rotate: false
+  xy: 2, 867
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 950
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 101, 863
+  size: 97, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 379, 851
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 690, 943
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 200, 947
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 294, 947
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 888, 939
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 479, 849
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 582, 845
+  size: 96, 107
+  orig: 96, 107
+  offset: 0, 0
+  index: -1
+defalt
+  rotate: false
+  xy: 492, 945
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 393, 947
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 200, 862
+  size: 177, 83
+  orig: 177, 83
+  offset: 0, 0
+  index: -1
+haruka
+  rotate: true
+  xy: 2, 483
+  size: 360, 1014
+  orig: 360, 1014
+  offset: 0, 0
+  index: -1

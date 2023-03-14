@@ -1,0 +1,111 @@
+
+kirino_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 643, 81
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 419, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 654, 357
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 658, 456
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 646, 162
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 650, 250
+  size: 86, 106
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 495
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 657, 780
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 386
+  size: 149, 99
+  orig: 149, 99
+  offset: 0, 0
+  index: -1
+default
+  rotate: true
+  xy: 621, 878
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 655, 554
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 2, 238
+  size: 126, 147
+  orig: 127, 147
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 129, 261
+  size: 143, 141
+  orig: 144, 141
+  offset: 1, 0
+  index: -1
+kirino
+  rotate: 270
+  xy: 22, 3
+  size: 550, 635
+  orig: 667, 1237
+  offset: 51, 0
+  index: -1
+kirino_0
+  rotate: false
+  xy: 2, 401
+  size: 667, 575
+  orig: 667, 1237
+  offset: 0, 578
+  index: -1

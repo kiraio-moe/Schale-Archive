@@ -1,0 +1,111 @@
+
+citizen_robot1_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 460, 298
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 460, 298
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 324, 332
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 532, 469
+  size: 100, 27
+  orig: 100, 27
+  offset: 0, 0
+  index: -1
+04_embarassed 1
+  rotate: false
+  xy: 421, 429
+  size: 109, 67
+  orig: 109, 67
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 532, 445
+  size: 90, 22
+  orig: 90, 22
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 324, 422
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+06_depressed copy
+  rotate: false
+  xy: 421, 377
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+07_pain
+  rotate: false
+  xy: 324, 386
+  size: 95, 34
+  orig: 95, 34
+  offset: 0, 0
+  index: -1
+08_pain2
+  rotate: false
+  xy: 418, 337
+  size: 85, 38
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+09_embarassed 2
+  rotate: false
+  xy: 532, 421
+  size: 89, 22
+  orig: 89, 22
+  offset: 0, 0
+  index: -1
+citizen_borot1_01
+  rotate: true
+  xy: 324, 498
+  size: 304, 458
+  orig: 304, 458
+  offset: 0, 0
+  index: -1
+citizen_borot1_02
+  rotate: true
+  xy: 2, 2
+  size: 328, 456
+  orig: 328, 456
+  offset: 0, 0
+  index: -1
+citizen_borot1_03
+  rotate: false
+  xy: 2, 332
+  size: 320, 470
+  orig: 320, 470
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 324, 371
+  size: 92, 13
+  orig: 92, 13
+  offset: 0, 0
+  index: -1

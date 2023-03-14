@@ -1,0 +1,111 @@
+
+mashiro_gym_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: true
+  xy: 607, 141
+  size: 118, 98
+  orig: 118, 98
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 553, 19
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 432, 32
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+03_smile2
+  rotate: true
+  xy: 661, 32
+  size: 106, 68
+  orig: 106, 68
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 607, 500
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 304, 27
+  size: 125, 111
+  orig: 125, 111
+  offset: 0, 0
+  index: -1
+06_0
+  rotate: false
+  xy: 304, 10
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+06_2
+  rotate: false
+  xy: 607, 746
+  size: 82, 34
+  orig: 82, 34
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 607, 615
+  size: 130, 74
+  orig: 130, 74
+  offset: 0, 0
+  index: -1
+NP0062
+  rotate: false
+  xy: 304, 250
+  size: 301, 551
+  orig: 301, 1322
+  offset: 0, 771
+  index: -1
+NP006299
+  rotate: false
+  xy: 2, 3
+  size: 301, 799
+  orig: 301, 1322
+  offset: 0, 0
+  index: -1
+default
+  rotate: true
+  xy: 607, 261
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+default_0
+  rotate: true
+  xy: 683, 614
+  size: 82, 34
+  orig: 82, 34
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 607, 381
+  size: 116, 98
+  orig: 116, 98
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 304, 140
+  size: 281, 108
+  orig: 281, 108
+  offset: 0, 0
+  index: -1

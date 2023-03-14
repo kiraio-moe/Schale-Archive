@@ -1,0 +1,146 @@
+
+tsurugi_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 727, 921
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 760, 122
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 560, 901
+  size: 81, 109
+  orig: 81, 109
+  offset: 0, 0
+  index: -1
+04_embrassed
+  rotate: false
+  xy: 2, 101
+  size: 81, 95
+  orig: 81, 95
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 444, 688
+  size: 114, 102
+  orig: 114, 102
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 643, 911
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 677, 811
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 589, 798
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 198
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 297
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 721, 213
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 103, 824
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 86, 202
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 677, 119
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 764, 308
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 762, 830
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 84, 30
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 187, 840
+  size: 145, 170
+  orig: 145, 170
+  offset: 0, 0
+  index: -1
+halo_0
+  rotate: false
+  xy: 372, 791
+  size: 215, 220
+  orig: 215, 220
+  offset: 0, 0
+  index: -1
+tsurugi
+  rotate: false
+  xy: 2, 3
+  size: 851, 1007
+  orig: 851, 1007
+  offset: 0, 0
+  index: -1

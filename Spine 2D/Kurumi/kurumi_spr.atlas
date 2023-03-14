@@ -1,0 +1,111 @@
+
+kurumi_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_eyeclose
+  rotate: false
+  xy: 710, 367
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 610, 9
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+02_response
+  rotate: false
+  xy: 2, 254
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 664, 882
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 173
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 346, 721
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 116, 712
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+07_etc
+  rotate: false
+  xy: 2, 696
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+08_etc
+  rotate: true
+  xy: 352, 836
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+09_etc
+  rotate: true
+  xy: 116, 336
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+10_etc
+  rotate: false
+  xy: 2, 337
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+CH0174
+  rotate: false
+  xy: 2, 360
+  size: 805, 601
+  orig: 805, 1151
+  offset: 0, 0
+  index: -1
+CH01747
+  rotate: 270
+  xy: 145, 4
+  size: 456, 664
+  orig: 805, 1151
+  offset: 195, 487
+  index: -1
+HairCover
+  rotate: false
+  xy: 558, 835
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 2, 783
+  size: 189, 179
+  orig: 189, 179
+  offset: 0, 0
+  index: -1

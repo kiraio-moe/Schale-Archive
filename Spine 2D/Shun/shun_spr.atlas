@@ -1,0 +1,146 @@
+
+shun_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 238, 203
+  size: 115, 71
+  orig: 115, 71
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 120, 202
+  size: 115, 71
+  orig: 115, 71
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 238, 277
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 355, 277
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+04_embarass
+  rotate: false
+  xy: 584, 339
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 589, 189
+  size: 113, 63
+  orig: 113, 63
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 473, 187
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 708, 217
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1
+08_embrassed 2
+  rotate: false
+  xy: 2, 275
+  size: 116, 76
+  orig: 116, 76
+  offset: 0, 0
+  index: -1
+09_sigh
+  rotate: false
+  xy: 120, 276
+  size: 116, 76
+  orig: 116, 76
+  offset: 0, 0
+  index: -1
+10_exiting
+  rotate: false
+  xy: 878, 941
+  size: 116, 81
+  orig: 116, 81
+  offset: 0, 0
+  index: -1
+11_beg
+  rotate: false
+  xy: 355, 195
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: -1
+12_bitter smile
+  rotate: false
+  xy: 471, 264
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+13_surprised
+  rotate: false
+  xy: 589, 254
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+14_smile 2
+  rotate: true
+  xy: 945, 823
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: true
+  xy: 805, 221
+  size: 197, 217
+  orig: 199, 219
+  offset: 1, 1
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 202
+  size: 115, 71
+  orig: 115, 71
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 701, 328
+  size: 102, 90
+  orig: 103, 91
+  offset: 1, 0
+  index: -1
+shun_00
+  rotate: false
+  xy: 2, 353
+  size: 591, 670
+  orig: 591, 672
+  offset: 0, 1
+  index: -1
+shun_01
+  rotate: 180
+  xy: 488, 421
+  size: 533, 589
+  orig: 533, 590
+  offset: 0, 1
+  index: -1

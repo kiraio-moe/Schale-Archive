@@ -1,0 +1,132 @@
+
+sumire_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 318
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 639, 794
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 133, 22
+  size: 99, 71
+  orig: 99, 71
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 102, 95
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 583, 867
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 567, 688
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 143, 167
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 559, 945
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 538, 764
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 382, 843
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 483, 843
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 659, 951
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 179, 239
+  size: 105, 63
+  orig: 105, 63
+  offset: 0, 0
+  index: -1
+glass OFF
+  rotate: false
+  xy: 2, 711
+  size: 210, 311
+  orig: 210, 311
+  offset: 0, 0
+  index: -1
+glass ON
+  rotate: false
+  xy: 2, 33
+  size: 210, 357
+  orig: 210, 357
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 366, 923
+  size: 191, 99
+  orig: 191, 99
+  offset: 0, 0
+  index: -1
+sumire_00
+  rotate: true
+  xy: 430, 2
+  size: 690, 532
+  orig: 690, 532
+  offset: 0, 0
+  index: -1
+sumire_01
+  rotate: false
+  xy: 2, 391
+  size: 598, 632
+  orig: 598, 632
+  offset: 0, 0
+  index: -1

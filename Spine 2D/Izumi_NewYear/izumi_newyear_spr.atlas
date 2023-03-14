@@ -1,0 +1,118 @@
+
+izumi_newyear_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 485, 835
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+02_respod
+  rotate: false
+  xy: 189, 929
+  size: 112, 94
+  orig: 112, 94
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 482, 929
+  size: 112, 94
+  orig: 112, 94
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 353
+  size: 112, 91
+  orig: 112, 91
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 596, 933
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 264
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 599, 843
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 492, 648
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 77
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 602, 748
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+CH0197
+  rotate: false
+  xy: 2, 394
+  size: 804, 629
+  orig: 804, 1040
+  offset: 0, 0
+  index: -1
+CH01978
+  rotate: true
+  xy: 570, 3
+  size: 568, 434
+  orig: 804, 1040
+  offset: 91, 606
+  index: -1
+default
+  rotate: false
+  xy: 487, 740
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 169
+  size: 105, 93
+  orig: 105, 93
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 86, 668
+  size: 175, 193
+  orig: 175, 193
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 860
+  size: 186, 163
+  orig: 186, 163
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+serika_robber_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 100, 948
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 835, 939
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 835, 939
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 652, 945
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 930, 939
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 377, 947
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 2, 895
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+07_
+  rotate: false
+  xy: 92, 861
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+08_
+  rotate: false
+  xy: 744, 941
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+09_
+  rotate: false
+  xy: 460, 841
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+10_
+  rotate: false
+  xy: 581, 816
+  size: 173, 123
+  orig: 173, 123
+  offset: 0, 0
+  index: -1
+11_
+  rotate: false
+  xy: 467, 947
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+12_
+  rotate: false
+  xy: 192, 948
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+13_
+  rotate: false
+  xy: 559, 947
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 284, 948
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: false
+  xy: 222, 843
+  size: 236, 102
+  orig: 236, 102
+  offset: 0, 0
+  index: -1
+object_front hair
+  rotate: false
+  xy: 2, 981
+  size: 96, 39
+  orig: 96, 39
+  offset: 0, 0
+  index: -1
+object_mask
+  rotate: false
+  xy: 756, 649
+  size: 224, 288
+  orig: 224, 288
+  offset: 0, 0
+  index: -1
+serika_robber
+  rotate: true
+  xy: 2, 164
+  size: 483, 1014
+  orig: 483, 1014
+  offset: 0, 0
+  index: -1

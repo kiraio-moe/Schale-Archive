@@ -1,0 +1,160 @@
+
+koyuki_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: true
+  xy: 1581, 698
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 1476, 698
+  size: 119, 103
+  orig: 119, 103
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 351, 514
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 1491, 582
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 1605, 456
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 1638, 205
+  size: 109, 93
+  orig: 109, 93
+  offset: 0, 0
+  index: -1
+07_etc
+  rotate: false
+  xy: 2, 159
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+08_etc
+  rotate: false
+  xy: 215, 577
+  size: 220, 173
+  orig: 220, 173
+  offset: 0, 0
+  index: -1
+09_etc
+  rotate: true
+  xy: 1618, 325
+  size: 121, 88
+  orig: 121, 88
+  offset: 0, 0
+  index: -1
+10_etc
+  rotate: false
+  xy: 715, 695
+  size: 138, 121
+  orig: 138, 121
+  offset: 0, 0
+  index: -1
+11_etc
+  rotate: false
+  xy: 2, 52
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+12_etc
+  rotate: true
+  xy: 1523, 326
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+13_etc
+  rotate: true
+  xy: 1549, 79
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+14_etc
+  rotate: true
+  xy: 1507, 456
+  size: 125, 96
+  orig: 125, 96
+  offset: 0, 0
+  index: -1
+15_etc
+  rotate: true
+  xy: 1538, 205
+  size: 118, 98
+  orig: 118, 98
+  offset: 0, 0
+  index: -1
+CH0198
+  rotate: false
+  xy: 2, 3
+  size: 978, 814
+  orig: 1065, 1421
+  offset: 0, 0
+  index: -1
+CH01989
+  rotate: true
+  xy: 888, 25
+  size: 747, 659
+  orig: 1065, 1421
+  offset: 297, 721
+  index: -1
+default
+  rotate: false
+  xy: 437, 707
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 922, 34
+  size: 116, 106
+  orig: 118, 109
+  offset: 1, 1
+  index: -1
+eyeclose2
+  rotate: true
+  xy: 1605, 576
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: false
+  xy: 416, 392
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: false
+  xy: 2, 611
+  size: 216, 205
+  orig: 218, 205
+  offset: 1, 0
+  index: -1

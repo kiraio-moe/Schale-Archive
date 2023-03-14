@@ -1,0 +1,153 @@
+
+ayumu_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 535, 88
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 535, 88
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 85
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 429, 154
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 218, 154
+  size: 104, 94
+  orig: 104, 94
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 639, 3
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 218, 66
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 703, 652
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 703, 867
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 640, 85
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 324, 167
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 324, 79
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 107, 34
+  size: 105, 83
+  orig: 105, 83
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 532, 5
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 703, 759
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 114, 118
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+Face_01
+  rotate: 270
+  xy: 54, 173
+  size: 483, 714
+  orig: 633, 1241
+  offset: 150, 0
+  index: -1
+Face_02
+  rotate: false
+  xy: 2, 389
+  size: 618, 596
+  orig: 633, 1241
+  offset: 0, 645
+  index: -1
+Halo_01
+  rotate: true
+  xy: 2, 461
+  size: 141, 214
+  orig: 141, 214
+  offset: 0, 0
+  index: -1
+Halo_02
+  rotate: false
+  xy: 554, 696
+  size: 147, 226
+  orig: 147, 226
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 428, 66
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1

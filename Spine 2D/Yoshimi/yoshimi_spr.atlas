@@ -1,0 +1,111 @@
+
+yoshimi_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defalt
+  rotate: false
+  xy: 523, 4
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 523, 331
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+02_repond
+  rotate: false
+  xy: 523, 415
+  size: 91, 85
+  orig: 91, 85
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 615, 232
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 619, 158
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 523, 590
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 523, 677
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 523, 502
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 614, 68
+  size: 85, 89
+  orig: 135, 89
+  offset: 11, 0
+  index: -1
+09
+  rotate: false
+  xy: 523, 158
+  size: 95, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 616, 311
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+Jofiel
+  rotate: false
+  xy: 2, 2
+  size: 519, 968
+  orig: 519, 968
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 523, 248
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 523, 765
+  size: 203, 205
+  orig: 203, 205
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: false
+  xy: 523, 80
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1

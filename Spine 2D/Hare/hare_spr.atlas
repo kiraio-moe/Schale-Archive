@@ -1,0 +1,118 @@
+
+hare_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 236, 869
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 353, 869
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 353, 869
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 119, 888
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 891
+  size: 115, 97
+  orig: 115, 97
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 859, 920
+  size: 115, 96
+  orig: 115, 96
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 742, 924
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+boject_dron2
+  rotate: false
+  xy: 561, 958
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 470, 857
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+halo1
+  rotate: false
+  xy: 310, 970
+  size: 249, 46
+  orig: 249, 46
+  offset: 0, 0
+  index: -1
+halo2
+  rotate: false
+  xy: 139, 988
+  size: 169, 28
+  orig: 169, 28
+  offset: 0, 0
+  index: -1
+halo3
+  rotate: false
+  xy: 2, 990
+  size: 135, 26
+  orig: 135, 26
+  offset: 0, 0
+  index: -1
+hare
+  rotate: true
+  xy: 2, 335
+  size: 519, 1014
+  orig: 519, 1014
+  offset: 0, 0
+  index: -1
+object_dron
+  rotate: false
+  xy: 681, 957
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+object_dron1
+  rotate: false
+  xy: 621, 958
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: false
+  xy: 587, 856
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1

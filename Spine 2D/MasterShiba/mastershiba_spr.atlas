@@ -1,0 +1,13 @@
+
+mastershiba_spr.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shibasekimaster
+  rotate: false
+  xy: 2, 2
+  size: 322, 508
+  orig: 322, 508
+  offset: 0, 0
+  index: -1

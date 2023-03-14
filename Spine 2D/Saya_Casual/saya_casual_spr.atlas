@@ -1,0 +1,83 @@
+
+saya_casual_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 516, 911
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 613, 911
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 419, 912
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 805, 909
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 902, 903
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 197, 917
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 104, 921
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 710, 911
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 2, 930
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 292, 914
+  size: 125, 86
+  orig: 125, 86
+  offset: 0, 0
+  index: -1
+saya_casual
+  rotate: true
+  xy: 2, 150
+  size: 751, 943
+  orig: 751, 943
+  offset: 0, 0
+  index: -1

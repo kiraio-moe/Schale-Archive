@@ -1,0 +1,132 @@
+
+meru_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 356, 95
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 414, 12
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 298, 9
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 184, 87
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 581, 298
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 707, 9
+  size: 115, 85
+  orig: 115, 85
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 590, 22
+  size: 115, 85
+  orig: 115, 85
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 473, 101
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 885, 45
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 28
+  size: 115, 86
+  orig: 115, 86
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 590, 110
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 117
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+CH0124
+  rotate: false
+  xy: 2, 180
+  size: 628, 521
+  orig: 628, 989
+  offset: 0, 468
+  index: -1
+CH01242
+  rotate: 270
+  xy: 496, 95
+  size: 606, 507
+  orig: 628, 989
+  offset: 22, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 118, 3
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+glasses_defualt
+  rotate: false
+  xy: 630, 637
+  size: 128, 63
+  orig: 128, 63
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 2, 154
+  size: 199, 181
+  orig: 199, 181
+  offset: 0, 0
+  index: -1
+mask_defualt
+  rotate: false
+  xy: 597, 525
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1

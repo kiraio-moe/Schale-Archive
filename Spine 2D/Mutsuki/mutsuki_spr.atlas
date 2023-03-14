@@ -1,0 +1,125 @@
+
+mutsuki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 895, 926
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 204, 854
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 537, 849
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 761, 843
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 649, 848
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 223, 935
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 941
+  size: 107, 64
+  orig: 107, 64
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 111, 939
+  size: 110, 66
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 447, 931
+  size: 110, 74
+  orig: 110, 74
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 335, 933
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 783, 929
+  size: 110, 76
+  orig: 110, 76
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 671, 930
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 559, 931
+  size: 110, 74
+  orig: 110, 74
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 316, 852
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 428, 850
+  size: 107, 79
+  orig: 107, 79
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 861
+  size: 200, 76
+  orig: 200, 76
+  offset: 0, 0
+  index: -1
+mutsuki
+  rotate: true
+  xy: 2, 70
+  size: 771, 1003
+  orig: 771, 1003
+  offset: 0, 0
+  index: -1

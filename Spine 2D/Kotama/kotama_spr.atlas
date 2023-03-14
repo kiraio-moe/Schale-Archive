@@ -1,0 +1,83 @@
+
+kotama_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_Default
+  rotate: false
+  xy: 373, 957
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+01_Normal
+  rotate: false
+  xy: 373, 957
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+00_Eyeclose
+  rotate: false
+  xy: 292, 4
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 886
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+03_Smile
+  rotate: false
+  xy: 2, 954
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+04_Embarass
+  rotate: false
+  xy: 382, 4
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+05_Serious
+  rotate: false
+  xy: 386, 138
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+06_Shout
+  rotate: false
+  xy: 350, 70
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 92, 981
+  size: 91, 40
+  orig: 102, 45
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 369, 723
+  size: 176, 193
+  orig: 176, 193
+  offset: 0, 0
+  index: -1
+kotama
+  rotate: false
+  xy: 2, 3
+  size: 495, 1018
+  orig: 497, 1018
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+chinatsu_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: true
+  xy: 567, 498
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: true
+  xy: 567, 498
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 567, 676
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 638, 633
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 567, 587
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 567, 409
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 634, 504
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 638, 698
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+chinatsu
+  rotate: false
+  xy: 2, 2
+  size: 563, 981
+  orig: 563, 981
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 637, 568
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 567, 765
+  size: 218, 200
+  orig: 218, 200
+  offset: 0, 0
+  index: -1
+object_glasses
+  rotate: false
+  xy: 567, 368
+  size: 92, 39
+  orig: 92, 39
+  offset: 0, 0
+  index: -1

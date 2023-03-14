@@ -1,0 +1,104 @@
+
+izuna_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 839, 322
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 222, 251
+  size: 113, 90
+  orig: 113, 90
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 127, 896
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 641, 312
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 112, 250
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 254
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 450, 243
+  size: 113, 88
+  orig: 113, 88
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 243, 786
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: true
+  xy: 2, 847
+  size: 148, 124
+  orig: 148, 124
+  offset: 0, 0
+  index: -1
+Halo_glow
+  rotate: true
+  xy: 839, 420
+  size: 155, 131
+  orig: 155, 131
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 337, 246
+  size: 111, 90
+  orig: 111, 90
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 656, 411
+  size: 181, 130
+  orig: 181, 130
+  offset: 0, 0
+  index: -1
+izuna
+  rotate: false
+  xy: 390, 543
+  size: 604, 451
+  orig: 653, 1064
+  offset: 13, 613
+  index: -1
+izuna99
+  rotate: false
+  xy: 2, 332
+  size: 653, 663
+  orig: 653, 1064
+  offset: 0, 0
+  index: -1

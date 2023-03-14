@@ -1,0 +1,146 @@
+
+marina_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 313, 648
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 313, 648
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 310, 814
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 317, 196
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 115, 779
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 409, 11
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 310, 945
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 145, 706
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 299, 872
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 562
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 409, 72
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 622
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 409, 132
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 317, 706
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 318, 769
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1
+haro_01
+  rotate: false
+  xy: 276, 47
+  size: 131, 146
+  orig: 131, 146
+  offset: 0, 0
+  index: -1
+haro_02
+  rotate: false
+  xy: 78, 852
+  size: 134, 148
+  orig: 134, 148
+  offset: 0, 0
+  index: -1
+haro_03
+  rotate: false
+  xy: 322, 588
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+haro_04
+  rotate: false
+  xy: 173, 643
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+marina
+  rotate: false
+  xy: 2, 3
+  size: 513, 998
+  orig: 513, 998
+  offset: 0, 0
+  index: -1

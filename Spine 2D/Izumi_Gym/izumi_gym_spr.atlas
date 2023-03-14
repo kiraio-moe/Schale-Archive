@@ -1,0 +1,111 @@
+
+izumi_gym_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 641, 58
+  size: 125, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 524, 364
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 122, 93
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 768, 23
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 790, 431
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 729, 170
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 853, 134
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 756, 300
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 246, 94
+  size: 121, 118
+  orig: 121, 118
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 163, 215
+  size: 137, 115
+  orig: 137, 115
+  offset: 0, 0
+  index: -1
+NP0051
+  rotate: 180
+  xy: 559, 263
+  size: 445, 742
+  orig: 619, 1348
+  offset: 110, 0
+  index: -1
+NP00519999
+  rotate: false
+  xy: 2, 331
+  size: 619, 674
+  orig: 619, 1348
+  offset: 0, 674
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 133
+  size: 119, 130
+  orig: 119, 130
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 2, 264
+  size: 160, 149
+  orig: 160, 149
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 380, 131
+  size: 230, 259
+  orig: 230, 259
+  offset: 0, 0
+  index: -1

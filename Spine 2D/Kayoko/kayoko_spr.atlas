@@ -1,0 +1,90 @@
+
+kayoko_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 108, 51
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 768, 535
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 294, 50
+  size: 158, 104
+  orig: 158, 104
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 2, 103
+  size: 162, 104
+  orig: 162, 104
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 765, 637
+  size: 158, 106
+  orig: 158, 106
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 612, 64
+  size: 157, 90
+  orig: 157, 90
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 771, 66
+  size: 149, 88
+  orig: 149, 88
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 453, 60
+  size: 157, 95
+  orig: 157, 95
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 773, 431
+  size: 149, 101
+  orig: 149, 101
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 763, 744
+  size: 198, 238
+  orig: 198, 238
+  offset: 0, 0
+  index: -1
+kayoko_00
+  rotate: false
+  xy: 2, 153
+  size: 487, 830
+  orig: 557, 830
+  offset: 0, 0
+  index: -1
+kayoko_01
+  rotate: false
+  xy: 390, 157
+  size: 590, 800
+  orig: 590, 800
+  offset: 0, 0
+  index: -1

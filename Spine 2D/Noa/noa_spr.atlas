@@ -1,0 +1,97 @@
+
+noa_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 570, 809
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 570, 809
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 825
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 581, 729
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 907
+  size: 111, 81
+  orig: 111, 81
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 204
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 605, 910
+  size: 108, 79
+  orig: 108, 79
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 279
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1
+CH0095
+  rotate: false
+  xy: 2, 358
+  size: 685, 631
+  orig: 685, 1193
+  offset: 0, 0
+  index: -1
+CH009599
+  rotate: 180
+  xy: 401, 14
+  size: 587, 610
+  orig: 685, 1193
+  offset: 26, 583
+  index: -1
+Gun
+  rotate: false
+  xy: 282, 736
+  size: 173, 211
+  orig: 173, 211
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 456, 809
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 427, 889
+  size: 176, 99
+  orig: 176, 99
+  offset: 0, 0
+  index: -1

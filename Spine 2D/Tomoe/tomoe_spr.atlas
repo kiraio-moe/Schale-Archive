@@ -1,0 +1,90 @@
+
+tomoe_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defult
+  rotate: false
+  xy: 892, 465
+  size: 94, 61
+  orig: 94, 61
+  offset: 0, 0
+  index: -1
+depressed
+  rotate: false
+  xy: 892, 403
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+embarrass
+  rotate: false
+  xy: 2, 939
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 892, 340
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 703, 350
+  size: 186, 176
+  orig: 186, 176
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 892, 528
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+object_face skin
+  rotate: false
+  xy: 121, 827
+  size: 148, 177
+  orig: 191, 374
+  offset: 43, 197
+  index: -1
+respond
+  rotate: false
+  xy: 434, 845
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 420, 911
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 180, 761
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+tomoe 1
+  rotate: false
+  xy: 509, 527
+  size: 493, 476
+  orig: 493, 476
+  offset: 0, 0
+  index: -1
+tomoe 2
+  rotate: false
+  xy: 2, 313
+  size: 700, 690
+  orig: 700, 690
+  offset: 0, 0
+  index: -1

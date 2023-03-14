@@ -1,0 +1,83 @@
+
+iori_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 54, 952
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 54, 952
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 108, 951
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 287, 948
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 401, 938
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 344, 948
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 164, 951
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 231, 949
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 2, 955
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 480, 859
+  size: 143, 163
+  orig: 143, 163
+  offset: 0, 0
+  index: -1
+iori
+  rotate: true
+  xy: 2, 62
+  size: 795, 1000
+  orig: 795, 1000
+  offset: 0, 0
+  index: -1

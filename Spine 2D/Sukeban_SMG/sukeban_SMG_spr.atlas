@@ -1,0 +1,83 @@
+
+sukeban_SMG_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 238, 942
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 238, 942
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 444, 933
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 546, 932
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+04_embrassed
+  rotate: true
+  xy: 786, 900
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 34, 949
+  size: 101, 53
+  orig: 101, 53
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 341, 936
+  size: 101, 66
+  orig: 101, 66
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 137, 945
+  size: 99, 57
+  orig: 99, 57
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: true
+  xy: 2, 994
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 649, 913
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+sukeban_smg
+  rotate: true
+  xy: 2, 269
+  size: 629, 1000
+  orig: 629, 1000
+  offset: 0, 0
+  index: -1

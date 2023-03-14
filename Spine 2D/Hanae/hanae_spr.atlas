@@ -1,0 +1,76 @@
+
+hanae_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 698, 862
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 106, 871
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 500, 864
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 600, 862
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 304, 866
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 402, 866
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 886
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 206, 871
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 797, 818
+  size: 161, 140
+  orig: 163, 142
+  offset: 1, 1
+  index: -1
+hanae
+  rotate: true
+  xy: 2, 240
+  size: 576, 936
+  orig: 576, 936
+  offset: 0, 0
+  index: -1

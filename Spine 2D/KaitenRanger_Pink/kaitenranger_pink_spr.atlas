@@ -1,0 +1,20 @@
+
+kaitenranger_pink_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: false
+  xy: 2, 942
+  size: 214, 72
+  orig: 214, 72
+  offset: 0, 0
+  index: -1
+kaitenranger_pink
+  rotate: true
+  xy: 2, 138
+  size: 802, 1012
+  orig: 802, 1012
+  offset: 0, 0
+  index: -1

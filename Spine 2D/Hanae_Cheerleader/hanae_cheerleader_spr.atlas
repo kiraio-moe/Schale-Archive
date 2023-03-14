@@ -1,0 +1,125 @@
+
+hanae_cheerleader_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 876, 512
+  size: 127, 116
+  orig: 127, 116
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 651, 242
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 876, 395
+  size: 127, 114
+  orig: 127, 114
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 899, 276
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+04_embarrass_flush
+  rotate: false
+  xy: 738, 956
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+04_embarrass_sweat
+  rotate: false
+  xy: 133, 1004
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 701, 77
+  size: 127, 95
+  orig: 127, 95
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 830, 71
+  size: 127, 88
+  orig: 127, 88
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 779, 175
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 907, 161
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+07_flush
+  rotate: false
+  xy: 2, 950
+  size: 129, 67
+  orig: 129, 67
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 779, 278
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+NP0076
+  rotate: true
+  xy: 2, 63
+  size: 335, 579
+  orig: 872, 1211
+  offset: 238, 0
+  index: -1
+NP007699
+  rotate: false
+  xy: 2, 340
+  size: 872, 677
+  orig: 872, 1211
+  offset: 0, 534
+  index: -1
+eyeclose
+  rotate: false
+  xy: 582, 133
+  size: 117, 107
+  orig: 117, 107
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: true
+  xy: 876, 629
+  size: 157, 131
+  orig: 157, 131
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 876, 788
+  size: 230, 119
+  orig: 230, 119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Soldier_OnsenDev_RL_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 2, 762
+  size: 24, 25
+  orig: 24, 26
+  offset: 0, 1
+  index: -1
+00_default
+  rotate: false
+  xy: 2, 762
+  size: 24, 25
+  orig: 24, 26
+  offset: 0, 1
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 958
+  size: 28, 29
+  orig: 28, 30
+  offset: 0, 1
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 988
+  size: 33, 35
+  orig: 33, 36
+  offset: 0, 1
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 843
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 816
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 878
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 419, 768
+  size: 203, 103
+  orig: 203, 103
+  offset: 0, 0
+  index: -1
+Soldier_OnsenDev_RL
+  rotate: 270
+  xy: 506, 292
+  size: 572, 516
+  orig: 572, 1116
+  offset: 0, 600
+  index: -1
+Soldier_OnsenDev_RL2
+  rotate: false
+  xy: 2, 398
+  size: 524, 625
+  orig: 572, 1116
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 789
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1

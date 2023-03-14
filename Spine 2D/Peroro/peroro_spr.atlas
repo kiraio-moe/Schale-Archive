@@ -1,0 +1,13 @@
+
+peroro_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+peroro2
+  rotate: false
+  xy: 2, 3
+  size: 984, 1013
+  orig: 984, 1013
+  offset: 0, 0
+  index: -1

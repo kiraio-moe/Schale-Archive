@@ -1,0 +1,20 @@
+
+Maestro_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Maestro_00
+  rotate: false
+  xy: 2, 186
+  size: 544, 735
+  orig: 544, 735
+  offset: 0, 0
+  index: -1
+Maestro_01
+  rotate: false
+  xy: 548, 306
+  size: 373, 615
+  orig: 373, 615
+  offset: 0, 0
+  index: -1

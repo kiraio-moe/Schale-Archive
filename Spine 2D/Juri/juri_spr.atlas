@@ -1,0 +1,125 @@
+
+juri_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 775, 371
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 775, 371
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 698, 162
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 698, 626
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+12_status
+  rotate: true
+  xy: 698, 626
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 795, 204
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 853, 653
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 780, 486
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1
+07_normal2
+  rotate: false
+  xy: 775, 298
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+08_smile2
+  rotate: false
+  xy: 780, 554
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+09_smile3
+  rotate: true
+  xy: 698, 527
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+10_smile4
+  rotate: true
+  xy: 698, 444
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+11_shock
+  rotate: true
+  xy: 698, 347
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 780, 626
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: true
+  xy: 698, 237
+  size: 108, 48
+  orig: 108, 48
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 698, 725
+  size: 270, 292
+  orig: 270, 292
+  offset: 0, 0
+  index: -1
+juri
+  rotate: false
+  xy: 2, 2
+  size: 694, 1015
+  orig: 694, 1015
+  offset: 0, 0
+  index: -1

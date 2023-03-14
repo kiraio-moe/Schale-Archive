@@ -1,0 +1,97 @@
+
+ibuki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 300, 5
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 594, 388
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 200, 5
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 101, 3
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 594, 464
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 400, 7
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 2
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+07_Interest
+  rotate: true
+  xy: 594, 553
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+08_become sulky
+  rotate: false
+  xy: 501, 7
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+09_exciting
+  rotate: true
+  xy: 594, 651
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 674, 662
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 594, 736
+  size: 220, 159
+  orig: 222, 159
+  offset: 1, 0
+  index: -1
+ibuki
+  rotate: false
+  xy: 2, 90
+  size: 590, 866
+  orig: 590, 866
+  offset: 0, 0
+  index: -1

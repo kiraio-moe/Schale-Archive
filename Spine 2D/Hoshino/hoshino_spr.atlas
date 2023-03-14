@@ -1,0 +1,174 @@
+
+hoshino_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 514, 716
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 898, 784
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 514, 818
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 770, 705
+  size: 126, 105
+  orig: 126, 105
+  offset: 0, 0
+  index: -1
+04_embarrased
+  rotate: false
+  xy: 2, 754
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 449, 916
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 833, 912
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+07_difficult 1
+  rotate: false
+  xy: 130, 728
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+08_difficult 2
+  rotate: false
+  xy: 258, 728
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+09_difficult 3
+  rotate: false
+  xy: 577, 913
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+10_shy 1
+  rotate: false
+  xy: 386, 720
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+11_shy 2
+  rotate: false
+  xy: 770, 812
+  size: 126, 98
+  orig: 126, 98
+  offset: 0, 0
+  index: -1
+12_shout 2
+  rotate: false
+  xy: 2, 856
+  size: 126, 91
+  orig: 126, 91
+  offset: 0, 0
+  index: -1
+13_worry
+  rotate: false
+  xy: 130, 830
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+14_ calm smile
+  rotate: false
+  xy: 642, 818
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+15_trick 1
+  rotate: false
+  xy: 705, 913
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+16_trick 2
+  rotate: false
+  xy: 258, 830
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+17_boring
+  rotate: false
+  xy: 386, 822
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 642, 716
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+halo 1
+  rotate: false
+  xy: 190, 924
+  size: 257, 77
+  orig: 257, 77
+  offset: 0, 0
+  index: -1
+halo 2
+  rotate: false
+  xy: 82, 949
+  size: 106, 52
+  orig: 106, 52
+  offset: 0, 0
+  index: -1
+halo 3
+  rotate: false
+  xy: 2, 962
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+hoshino
+  rotate: true
+  xy: 2, 62
+  size: 581, 999
+  orig: 581, 999
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: true
+  xy: 898, 645
+  size: 137, 101
+  orig: 137, 101
+  offset: 0, 0
+  index: -1

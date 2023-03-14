@@ -1,0 +1,132 @@
+
+satsuki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 641, 71
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 681, 147
+  size: 127, 81
+  orig: 127, 81
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 947, 95
+  size: 127, 75
+  orig: 127, 75
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 588, 296
+  size: 127, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 699, 906
+  size: 127, 117
+  orig: 127, 117
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 553, 165
+  size: 127, 113
+  orig: 127, 113
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 894, 906
+  size: 127, 116
+  orig: 127, 116
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 905
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 423, 743
+  size: 127, 116
+  orig: 127, 116
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 681, 230
+  size: 127, 116
+  orig: 127, 116
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 513, 86
+  size: 127, 77
+  orig: 127, 77
+  offset: 0, 0
+  index: -1
+CH0080
+  rotate: false
+  xy: 2, 85
+  size: 707, 938
+  orig: 707, 1447
+  offset: 0, 0
+  index: -1
+CH00802
+  rotate: 180
+  xy: 669, 348
+  size: 353, 567
+  orig: 707, 1447
+  offset: 165, 880
+  index: -1
+default
+  rotate: false
+  xy: 810, 138
+  size: 127, 80
+  orig: 127, 80
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 770, 62
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: 270
+  xy: 433, 617
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: false
+  xy: 408, 861
+  size: 223, 162
+  orig: 223, 162
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: false
+  xy: 810, 221
+  size: 212, 150
+  orig: 212, 150
+  offset: 0, 0
+  index: -1

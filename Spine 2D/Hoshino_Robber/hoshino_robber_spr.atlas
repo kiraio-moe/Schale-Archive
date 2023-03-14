@@ -1,0 +1,111 @@
+
+hoshino_robber_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 130, 834
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 907, 881
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 779, 914
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 525, 815
+  size: 126, 105
+  orig: 126, 105
+  offset: 0, 0
+  index: -1
+04_embarrased
+  rotate: false
+  xy: 2, 853
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 527, 922
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 655, 918
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 258, 828
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+halo 1
+  rotate: false
+  xy: 268, 930
+  size: 257, 77
+  orig: 257, 77
+  offset: 0, 0
+  index: -1
+halo 2
+  rotate: false
+  xy: 82, 955
+  size: 106, 52
+  orig: 106, 52
+  offset: 0, 0
+  index: -1
+halo 3
+  rotate: false
+  xy: 2, 968
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+hoshino_robber
+  rotate: true
+  xy: 2, 313
+  size: 439, 937
+  orig: 439, 937
+  offset: 0, 0
+  index: -1
+object_ahoge
+  rotate: false
+  xy: 190, 936
+  size: 76, 71
+  orig: 76, 71
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: false
+  xy: 386, 827
+  size: 137, 101
+  orig: 137, 101
+  offset: 0, 0
+  index: -1
+object_mask
+  rotate: true
+  xy: 653, 754
+  size: 158, 215
+  orig: 158, 215
+  offset: 0, 0
+  index: -1

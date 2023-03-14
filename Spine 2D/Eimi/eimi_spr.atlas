@@ -1,0 +1,90 @@
+
+eimi_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 867
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 618, 927
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 799, 923
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+03_ex
+  rotate: false
+  xy: 2, 944
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 891, 923
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 433, 929
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+04_ex
+  rotate: false
+  xy: 94, 944
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 186, 933
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 525, 928
+  size: 91, 70
+  orig: 91, 70
+  offset: 0, 0
+  index: -1
+character
+  rotate: true
+  xy: 2, 275
+  size: 590, 996
+  orig: 590, 996
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 709, 927
+  size: 88, 71
+  orig: 88, 71
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 277, 933
+  size: 154, 65
+  orig: 154, 65
+  offset: 0, 0
+  index: -1

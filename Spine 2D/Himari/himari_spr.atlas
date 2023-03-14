@@ -1,0 +1,139 @@
+
+himari_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 1524, 461
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 1126, 66
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 296, 67
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 1508, 115
+  size: 98, 70
+  orig: 98, 70
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 83, 677
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 1496, 186
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1413, 62
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+10_etc
+  rotate: false
+  xy: 1318, 37
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+11_etc
+  rotate: false
+  xy: 361, 128
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1
+12_etc
+  rotate: false
+  xy: 197, 16
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+7_etc
+  rotate: false
+  xy: 1508, 41
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+8_etc
+  rotate: true
+  xy: 1515, 558
+  size: 96, 68
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+9_etc
+  rotate: true
+  xy: 396, 21
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+CH0159
+  rotate: false
+  xy: 2, 192
+  size: 884, 557
+  orig: 884, 1079
+  offset: 0, 0
+  index: -1
+CH015922
+  rotate: false
+  xy: 780, 138
+  size: 828, 611
+  orig: 884, 1079
+  offset: 56, 468
+  index: -1
+eyeclose2
+  rotate: false
+  xy: 1222, 66
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 63
+  size: 232, 132
+  orig: 232, 132
+  offset: 0, 0
+  index: -1
+hologram_normal
+  rotate: true
+  xy: 887, 12
+  size: 448, 240
+  orig: 448, 277
+  offset: 0, 37
+  index: -1
+hologram_screen
+  rotate: 180
+  xy: 467, 3
+  size: 448, 235
+  orig: 448, 277
+  offset: 0, 42
+  index: -1

@@ -1,0 +1,153 @@
+
+erika_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 385, 750
+  size: 130, 96
+  orig: 175, 317
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 311, 81
+  size: 124, 91
+  orig: 175, 319
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 680, 731
+  size: 124, 99
+  orig: 175, 319
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 397, 649
+  size: 123, 99
+  orig: 175, 320
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 371, 396
+  size: 127, 91
+  orig: 178, 321
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 683, 831
+  size: 133, 100
+  orig: 175, 330
+  offset: 0, 0
+  index: -1
+06_deparassed
+  rotate: 180
+  xy: 2, 115
+  size: 133, 85
+  orig: 178, 323
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 311, 174
+  size: 178, 322
+  orig: 178, 322
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 437, 79
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+09
+  rotate: 270
+  xy: 2, 349
+  size: 128, 89
+  orig: 178, 323
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 673, 85
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 787, 85
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 186, 121
+  size: 124, 91
+  orig: 178, 327
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 889, 502
+  size: 133, 91
+  orig: 175, 321
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 635, 167
+  size: 175, 321
+  orig: 175, 321
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 891, 412
+  size: 131, 89
+  orig: 175, 320
+  offset: 0, 0
+  index: -1
+erika
+  rotate: false
+  xy: 2, 348
+  size: 504, 675
+  orig: 640, 1328
+  offset: 136, 653
+  index: -1
+erika2
+  rotate: false
+  xy: 374, 344
+  size: 627, 679
+  orig: 640, 1328
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 555, 84
+  size: 116, 81
+  orig: 116, 81
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 674, 932
+  size: 149, 90
+  orig: 149, 90
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 200
+  size: 305, 146
+  orig: 305, 146
+  offset: 0, 0
+  index: -1

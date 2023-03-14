@@ -1,0 +1,90 @@
+
+sakurako_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 809, 547
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 677, 813
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 677, 679
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 677, 545
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+04_embarrassd
+  rotate: true
+  xy: 677, 413
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 677, 281
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 809, 813
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 809, 679
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 811, 413
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 2
+  size: 306, 234
+  orig: 306, 234
+  offset: 0, 0
+  index: -1
+sakurako_1
+  rotate: false
+  xy: 2, 238
+  size: 673, 707
+  orig: 673, 707
+  offset: 0, 0
+  index: -1
+sakurako_2
+  rotate: true
+  xy: 310, 12
+  size: 224, 590
+  orig: 224, 590
+  offset: 0, 0
+  index: -1

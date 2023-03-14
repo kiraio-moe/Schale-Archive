@@ -1,0 +1,209 @@
+
+akari_newyear_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 1887, 787
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 2, 378
+  size: 96, 82
+  orig: 96, 82
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 532, 457
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 973, 787
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 973, 700
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+04_embarassed_sweat
+  rotate: false
+  xy: 500, 866
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 1950, 378
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 1919, 616
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+07_wink
+  rotate: false
+  xy: 1791, 378
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+08_tasty
+  rotate: false
+  xy: 1665, 619
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+09_tasty smile
+  rotate: false
+  xy: 1712, 533
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+10_sly 1
+  rotate: false
+  xy: 1696, 447
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+11_sly 2
+  rotate: false
+  xy: 1919, 699
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+12_excited
+  rotate: false
+  xy: 442, 387
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+12_excited_dropshadow
+  rotate: false
+  xy: 353, 315
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1
+12_excited_eyebrow
+  rotate: false
+  xy: 1379, 841
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+12_excited_heighlight
+  rotate: false
+  xy: 441, 852
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+CH0196
+  rotate: 180
+  xy: 466, 288
+  size: 506, 588
+  orig: 506, 1210
+  offset: 0, 0
+  index: -1
+CH01962
+  rotate: false
+  xy: 2, 225
+  size: 506, 651
+  orig: 506, 1210
+  offset: 0, 559
+  index: -1
+eyeclose
+  rotate: false
+  xy: 1370, 541
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+fence
+  rotate: true
+  xy: 1417, 275
+  size: 600, 333
+  orig: 600, 333
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 242, 62
+  size: 850, 225
+  orig: 850, 225
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 1693, 326
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+grass1
+  rotate: 180
+  xy: 828, 278
+  size: 434, 225
+  orig: 434, 226
+  offset: 0, 0
+  index: -1
+grass2
+  rotate: false
+  xy: 1844, 452
+  size: 202, 155
+  orig: 202, 156
+  offset: 0, 0
+  index: -1
+halo
+  rotate: 270
+  xy: 1747, 602
+  size: 273, 170
+  orig: 273, 170
+  offset: 0, 0
+  index: -1
+stonelantern
+  rotate: true
+  xy: 1375, 4
+  size: 297, 500
+  orig: 297, 500
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 2, 3
+  size: 119, 485
+  orig: 750, 906
+  offset: 400, 0
+  index: -1
+tree2
+  rotate: true
+  xy: 973, 125
+  size: 750, 487
+  orig: 750, 906
+  offset: 0, 419
+  index: -1

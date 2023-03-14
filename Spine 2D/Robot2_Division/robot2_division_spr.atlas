@@ -1,0 +1,20 @@
+
+robot2_division_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 534, 502
+  size: 360, 475
+  orig: 360, 475
+  offset: 0, 0
+  index: -1
+robot2_division
+  rotate: false
+  xy: 2, 2
+  size: 530, 975
+  orig: 530, 975
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+fubuki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_eyeclose
+  rotate: false
+  xy: 543, 636
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 551, 531
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 555, 135
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 578, 744
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: true
+  xy: 589, 350
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 572, 240
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 653, 638
+  size: 104, 92
+  orig: 104, 92
+  offset: 0, 0
+  index: -1
+07_other
+  rotate: false
+  xy: 524, 28
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+08_other
+  rotate: false
+  xy: 466, 741
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+09_other
+  rotate: false
+  xy: 2, 623
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+10_other
+  rotate: false
+  xy: 353, 733
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+CH0141
+  rotate: false
+  xy: 2, 3
+  size: 593, 987
+  orig: 593, 987
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 352, 559
+  size: 189, 172
+  orig: 189, 172
+  offset: 0, 0
+  index: -1
+default
+  rotate: true
+  xy: 636, 25
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: true
+  xy: 350, 847
+  size: 144, 321
+  orig: 144, 321
+  offset: 0, 0
+  index: -1

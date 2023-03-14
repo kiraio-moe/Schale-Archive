@@ -1,0 +1,13 @@
+
+utahaturret_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+utahaturret
+  rotate: false
+  xy: 2, 2
+  size: 954, 1011
+  orig: 954, 1011
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+maki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 775, 351
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 775, 654
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 775, 755
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 775, 553
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 825, 252
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+05_depressed
+  rotate: true
+  xy: 876, 69
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+06_serious
+  rotate: false
+  xy: 825, 167
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 775, 452
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 775, 21
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: true
+  xy: 775, 857
+  size: 142, 112
+  orig: 142, 112
+  offset: 0, 0
+  index: -1
+halo1
+  rotate: true
+  xy: 775, 109
+  size: 240, 48
+  orig: 240, 48
+  offset: 0, 0
+  index: -1
+halo2
+  rotate: false
+  xy: 876, 21
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+maki
+  rotate: false
+  xy: 2, 2
+  size: 771, 997
+  orig: 771, 997
+  offset: 0, 0
+  index: -1

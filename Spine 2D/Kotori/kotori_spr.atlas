@@ -1,0 +1,76 @@
+
+kotori_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 868
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 868
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 330, 868
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 494, 868
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 658, 868
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 822, 868
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 2, 728
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 166, 868
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 166, 716
+  size: 164, 150
+  orig: 164, 150
+  offset: 0, 0
+  index: -1
+kotlin
+  rotate: true
+  xy: 2, 156
+  size: 558, 1004
+  orig: 558, 1004
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+kuzunoha_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_respond
+  rotate: true
+  xy: 702, 143
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 81, 746
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 119, 284
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 674, 875
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 693, 3
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 485
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 147
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 363, 274
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 122, 513
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 394
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+NP0038
+  rotate: false
+  xy: 2, 339
+  size: 752, 633
+  orig: 752, 1242
+  offset: 0, 455
+  index: -1
+NP00389
+  rotate: false
+  xy: 125, 9
+  size: 628, 507
+  orig: 752, 1242
+  offset: 27, 0
+  index: -1
+default
+  rotate: true
+  xy: 707, 779
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 694, 489
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 2, 577
+  size: 119, 103
+  orig: 119, 103
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: false
+  xy: 2, 839
+  size: 161, 132
+  orig: 161, 132
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: true
+  xy: 733, 239
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+normal
+  rotate: true
+  xy: 732, 683
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+petal_01
+  rotate: false
+  xy: 2, 105
+  size: 268, 313
+  orig: 269, 313
+  offset: 0, 0
+  index: -1
+petal_02
+  rotate: false
+  xy: 2, 827
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1

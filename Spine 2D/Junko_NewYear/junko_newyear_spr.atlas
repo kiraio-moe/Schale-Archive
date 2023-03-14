@@ -1,0 +1,160 @@
+
+junko_newyear_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 681, 204
+  size: 119, 95
+  orig: 119, 95
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 88, 90
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 923, 360
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 697, 26
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 923, 238
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 697, 118
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 802, 302
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 573, 38
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 576, 116
+  size: 119, 86
+  orig: 119, 86
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 802, 206
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 923, 117
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 210, 81
+  size: 119, 83
+  orig: 119, 83
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 819, 85
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 905, 28
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 452, 67
+  size: 119, 80
+  orig: 119, 80
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 330, 73
+  size: 119, 81
+  orig: 119, 81
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 2, 109
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 108, 3
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+CH0192
+  rotate: false
+  xy: 2, 148
+  size: 677, 746
+  orig: 677, 1145
+  offset: 0, 0
+  index: -1
+CH01923
+  rotate: false
+  xy: 531, 440
+  size: 485, 455
+  orig: 677, 1145
+  offset: 45, 690
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 4
+  size: 105, 84
+  orig: 105, 84
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 685
+  size: 151, 209
+  orig: 152, 209
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+mashiro_swimsuit_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 1251, 36
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 947, 35
+  size: 111, 83
+  orig: 111, 83
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 834, 40
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 1481, 95
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 719, 130
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 719, 41
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1366, 94
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 1366, 14
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+diroama_background
+  rotate: false
+  xy: 2, 2
+  size: 716, 654
+  orig: 716, 654
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 1481, 14
+  size: 108, 78
+  orig: 108, 78
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 313, 31
+  size: 230, 55
+  orig: 230, 55
+  offset: 0, 0
+  index: -1
+mashiro_swimsuit
+  rotate: true
+  xy: 693, 72
+  size: 522, 993
+  orig: 522, 993
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+serika_newyear_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 722, 113
+  size: 124, 97
+  orig: 124, 97
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 99
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 2, 99
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 7, 4
+  size: 118, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 898, 125
+  size: 123, 98
+  orig: 123, 98
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 619, 22
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 3, 196
+  size: 124, 100
+  orig: 124, 100
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 581, 115
+  size: 138, 98
+  orig: 138, 98
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 891, 421
+  size: 124, 100
+  orig: 124, 100
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 857, 667
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 847, 546
+  size: 142, 119
+  orig: 142, 119
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 847, 33
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 136, 4
+  size: 124, 86
+  orig: 124, 86
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 492, 24
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 366, 56
+  size: 124, 92
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+Hair_Cover
+  rotate: true
+  xy: 426, 218
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+Halo_01
+  rotate: false
+  xy: 372, 149
+  size: 207, 66
+  orig: 207, 66
+  offset: 0, 0
+  index: -1
+Halo_02
+  rotate: false
+  xy: 2, 781
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 924, 228
+  size: 117, 97
+  orig: 117, 97
+  offset: 0, 0
+  index: -1
+serika_newyear
+  rotate: false
+  xy: 2, 91
+  size: 532, 721
+  orig: 532, 1253
+  offset: 0, 532
+  index: -1
+serika_newyear_copy
+  rotate: false
+  xy: 468, 210
+  size: 455, 601
+  orig: 532, 1253
+  offset: 33, 0
+  index: -1

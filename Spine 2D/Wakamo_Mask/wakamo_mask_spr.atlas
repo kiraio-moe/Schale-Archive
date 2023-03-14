@@ -1,0 +1,20 @@
+
+wakamo_mask_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: false
+  xy: 804, 791
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1
+wakamo
+  rotate: false
+  xy: 2, 27
+  size: 800, 972
+  orig: 800, 972
+  offset: 0, 0
+  index: -1

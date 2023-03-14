@@ -1,0 +1,97 @@
+
+hina_pajama_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 78, 546
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 78, 546
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 92, 713
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 169, 792
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 85, 797
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 149, 916
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 91, 619
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+NP0009
+  rotate: 270
+  xy: 2, 4
+  size: 455, 612
+  orig: 648, 1169
+  offset: 193, 557
+  index: -1
+NP0009_copy
+  rotate: false
+  xy: 2, 320
+  size: 648, 666
+  orig: 648, 1169
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 474
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+halo_2
+  rotate: true
+  xy: 2, 546
+  size: 357, 88
+  orig: 357, 89
+  offset: 0, 1
+  index: -1
+halo_3
+  rotate: false
+  xy: 2, 12
+  size: 153, 32
+  orig: 153, 32
+  offset: 0, 0
+  index: -1
+halo_5
+  rotate: false
+  xy: 2, 937
+  size: 68, 48
+  orig: 70, 50
+  offset: 1, 1
+  index: -1

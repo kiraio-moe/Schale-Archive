@@ -1,0 +1,118 @@
+
+mimori_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 2, 276
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 2, 276
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 459, 668
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 570, 728
+  size: 111, 79
+  orig: 111, 79
+  offset: 0, 0
+  index: -1
+03_smile2
+  rotate: false
+  xy: 185, 633
+  size: 116, 82
+  orig: 116, 82
+  offset: 0, 0
+  index: -1
+03_smile3
+  rotate: false
+  xy: 108, 716
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 207, 801
+  size: 110, 83
+  orig: 110, 83
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 461, 808
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+05_serious_mouthclose
+  rotate: false
+  xy: 671, 946
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 572, 812
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 90, 801
+  size: 116, 84
+  orig: 116, 84
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 195
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 452, 891
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+halo_glow
+  rotate: false
+  xy: 59, 886
+  size: 222, 136
+  orig: 222, 136
+  offset: 0, 0
+  index: -1
+mimori_00
+  rotate: false
+  xy: 2, 355
+  size: 798, 668
+  orig: 798, 668
+  offset: 0, 0
+  index: -1
+mimori_01
+  rotate: true
+  xy: 360, 3
+  size: 547, 546
+  orig: 547, 546
+  offset: 0, 0
+  index: -1

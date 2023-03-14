@@ -1,0 +1,34 @@
+
+pmcdirector_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 736, 246
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+pmcdirector_1
+  rotate: false
+  xy: 2, 2
+  size: 732, 1005
+  orig: 732, 1005
+  offset: 0, 0
+  index: -1
+pmcdirector_2
+  rotate: false
+  xy: 736, 641
+  size: 241, 366
+  orig: 241, 366
+  offset: 0, 0
+  index: -1
+pmcdirector_3
+  rotate: false
+  xy: 736, 306
+  size: 215, 333
+  orig: 215, 333
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+maki_gym_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 2, 544
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 399, 677
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 272, 689
+  size: 125, 113
+  orig: 125, 113
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 579, 90
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 676, 470
+  size: 122, 106
+  orig: 122, 106
+  offset: 0, 0
+  index: -1
+05_depressed
+  rotate: true
+  xy: 703, 593
+  size: 121, 97
+  orig: 121, 97
+  offset: 0, 0
+  index: -1
+06_serious
+  rotate: true
+  xy: 691, 94
+  size: 121, 105
+  orig: 121, 105
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 622, 217
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+NP0050
+  rotate: false
+  xy: 2, 44
+  size: 285, 758
+  orig: 395, 1250
+  offset: 0, 0
+  index: -1
+NP0050999
+  rotate: false
+  xy: 279, 144
+  size: 395, 539
+  orig: 395, 1250
+  offset: 0, 711
+  index: -1
+eyeclose
+  rotate: true
+  xy: 661, 343
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 522, 659
+  size: 179, 142
+  orig: 179, 142
+  offset: 0, 0
+  index: -1
+halo 01
+  rotate: false
+  xy: 274, 79
+  size: 303, 63
+  orig: 303, 63
+  offset: 0, 0
+  index: -1
+halo 02
+  rotate: false
+  xy: 2, 482
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+yoheki_normal1_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: false
+  xy: 235, 893
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+mask_1
+  rotate: false
+  xy: 2, 895
+  size: 113, 70
+  orig: 113, 70
+  offset: 0, 0
+  index: -1
+mask_2
+  rotate: false
+  xy: 117, 895
+  size: 116, 70
+  orig: 116, 70
+  offset: 0, 0
+  index: -1
+yoheki_normal1
+  rotate: true
+  xy: 2, 359
+  size: 532, 963
+  orig: 532, 963
+  offset: 0, 0
+  index: -1

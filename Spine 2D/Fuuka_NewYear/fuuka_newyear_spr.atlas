@@ -1,0 +1,188 @@
+
+fuuka_newyear_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 1461, 231
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+00_eye close2
+  rotate: false
+  xy: 1461, 140
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 1461, 49
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 1337, 157
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 1585, 213
+  size: 111, 95
+  orig: 111, 95
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 1082, 46
+  size: 128, 95
+  orig: 128, 95
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 1585, 33
+  size: 122, 86
+  orig: 122, 86
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 1710, 101
+  size: 110, 81
+  orig: 110, 81
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1585, 121
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 27
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1337, 62
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 2, 521
+  size: 111, 85
+  orig: 111, 85
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 1719, 513
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 415
+  size: 122, 101
+  orig: 122, 101
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 171
+  size: 122, 101
+  orig: 122, 101
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1212, 60
+  size: 122, 95
+  orig: 122, 95
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1698, 213
+  size: 122, 81
+  orig: 122, 81
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 1730, 626
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 1726, 789
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 958, 35
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+CH0177
+  rotate: false
+  xy: 1370, 310
+  size: 366, 590
+  orig: 428, 1305
+  offset: 55, 715
+  index: -1
+CH01773
+  rotate: false
+  xy: 965, 137
+  size: 428, 763
+  orig: 428, 1305
+  offset: 0, 0
+  index: -1
+diorama
+  rotate: false
+  xy: 2, 11
+  size: 577, 888
+  orig: 1048, 888
+  offset: 471, 0
+  index: -1
+diorama2
+  rotate: 180
+  xy: 470, 26
+  size: 502, 867
+  orig: 1048, 888
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 821, 4
+  size: 135, 97
+  orig: 135, 97
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 853, 725
+  size: 236, 174
+  orig: 236, 174
+  offset: 0, 0
+  index: -1

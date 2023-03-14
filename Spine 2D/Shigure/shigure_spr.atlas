@@ -1,0 +1,132 @@
+
+shigure_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 461, 854
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 442, 932
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 369, 840
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 334, 735
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 158, 843
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 582
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 115, 768
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 423, 758
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 353, 923
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 414, 652
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 323, 634
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+11_eyeclose02
+  rotate: true
+  xy: 505, 668
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+blush
+  rotate: false
+  xy: 2, 756
+  size: 112, 85
+  orig: 112, 85
+  offset: 0, 0
+  index: -1
+blush_plus
+  rotate: false
+  xy: 2, 669
+  size: 112, 85
+  orig: 112, 85
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 504, 301
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: true
+  xy: 341, 4
+  size: 252, 236
+  orig: 252, 236
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 843
+  size: 154, 166
+  orig: 154, 166
+  offset: 0, 0
+  index: -1
+shigure
+  rotate: false
+  xy: 2, 17
+  size: 522, 992
+  orig: 522, 992
+  offset: 0, 0
+  index: -1

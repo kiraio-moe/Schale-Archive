@@ -1,0 +1,160 @@
+
+serina_nurse_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_blush
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+01_blush
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+02_blush
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+03_blush
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+04_blush
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+05_blush
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+06blush
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+07_blush
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+blush_ec
+  rotate: false
+  xy: 2, 807
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 548, 3
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 639, 201
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 59
+  size: 129, 112
+  orig: 129, 112
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 678, 68
+  size: 131, 100
+  orig: 131, 100
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: true
+  xy: 133, 38
+  size: 134, 106
+  orig: 134, 106
+  offset: 0, 0
+  index: -1
+04_sweat
+  rotate: false
+  xy: 2, 789
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 2, 328
+  size: 137, 113
+  orig: 137, 113
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 678, 473
+  size: 131, 98
+  orig: 131, 98
+  offset: 0, 0
+  index: -1
+07_shout
+  rotate: false
+  xy: 2, 173
+  size: 133, 121
+  orig: 133, 121
+  offset: 0, 0
+  index: -1
+NP0075
+  rotate: false
+  xy: 2, 248
+  size: 526, 604
+  orig: 526, 1302
+  offset: 0, 698
+  index: -1
+NP00759
+  rotate: 180
+  xy: 426, 116
+  size: 283, 736
+  orig: 526, 1302
+  offset: 109, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 659, 337
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 245, 68
+  size: 301, 182
+  orig: 301, 182
+  offset: 0, 0
+  index: -1

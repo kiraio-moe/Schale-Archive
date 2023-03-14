@@ -1,0 +1,13 @@
+
+market_animal2_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+market_animal2
+  rotate: false
+  xy: 2, 2
+  size: 541, 871
+  orig: 541, 871
+  offset: 0, 0
+  index: -1

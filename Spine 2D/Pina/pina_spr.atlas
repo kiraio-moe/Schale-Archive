@@ -1,0 +1,111 @@
+
+pina_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 394, 517
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 394, 517
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 652, 502
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 823
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 284, 86
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 394, 434
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 739, 510
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+07_mischief
+  rotate: false
+  xy: 284, 163
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+08_pity
+  rotate: false
+  xy: 656, 583
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 237
+  size: 390, 520
+  orig: 390, 520
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: true
+  xy: 2, 18
+  size: 217, 280
+  orig: 217, 280
+  offset: 0, 0
+  index: -1
+Halo_Blur
+  rotate: true
+  xy: 394, 18
+  size: 235, 287
+  orig: 235, 287
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 88, 783
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+pina_00
+  rotate: false
+  xy: 2, 432
+  size: 1002, 573
+  orig: 1002, 573
+  offset: 0, 0
+  index: -1
+pina_01
+  rotate: 270
+  xy: 433, 220
+  size: 578, 534
+  orig: 578, 534
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+kaitenranger_yellow_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: true
+  xy: 821, 774
+  size: 218, 73
+  orig: 218, 73
+  offset: 0, 0
+  index: -1
+kaitenranger_yellow
+  rotate: false
+  xy: 2, 2
+  size: 817, 990
+  orig: 817, 990
+  offset: 0, 0
+  index: -1
