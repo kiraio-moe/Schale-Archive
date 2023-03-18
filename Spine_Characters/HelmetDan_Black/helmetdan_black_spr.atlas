@@ -1,20 +1,20 @@
 
-helmetdan_red1_spr.png
+helmetdan_black_spr.png
 size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 halo
   rotate: false
-  xy: 2, 867
-  size: 142, 86
-  orig: 142, 86
+  xy: 2, 892
+  size: 156, 75
+  orig: 156, 75
   offset: 0, 0
   index: -1
-helmetdan_red1
+helmetdan_black1
   rotate: true
-  xy: 2, 481
-  size: 384, 951
-  orig: 384, 951
+  xy: 2, 469
+  size: 421, 965
+  orig: 421, 965
   offset: 0, 0
   index: -1

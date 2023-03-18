@@ -1,13 +1,13 @@
 
-Citizen_animal6_bandagespr.png
+amas_robot_spr.png
 size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Citizen_animal6_bandage
+NP0085
   rotate: false
-  xy: 2, 2
-  size: 551, 782
-  orig: 551, 782
+  xy: 2, 3
+  size: 747, 685
+  orig: 747, 685
   offset: 0, 0
   index: -1
