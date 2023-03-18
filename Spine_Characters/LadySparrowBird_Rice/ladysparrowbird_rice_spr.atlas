@@ -1,0 +1,13 @@
+
+ladysparrowbird_rice_spr.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0087
+  rotate: false
+  xy: 2, 2
+  size: 462, 588
+  orig: 462, 588
+  offset: 0, 0
+  index: -1

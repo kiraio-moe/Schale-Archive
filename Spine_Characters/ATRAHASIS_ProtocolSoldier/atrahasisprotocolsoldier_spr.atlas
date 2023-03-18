@@ -1,0 +1,111 @@
+
+atrahasisprotocolsoldier_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt_1
+  rotate: false
+  xy: 945, 16
+  size: 404, 424
+  orig: 404, 425
+  offset: 0, 1
+  index: -1
+01_defualt_1_same source
+  rotate: 180
+  xy: 1199, 102
+  size: 404, 425
+  orig: 404, 425
+  offset: 0, 0
+  index: -1
+01_defualt_2_same source
+  rotate: false
+  xy: 1586, 389
+  size: 186, 278
+  orig: 187, 279
+  offset: 0, 0
+  index: -1
+00_defualt_2
+  rotate: false
+  xy: 1586, 389
+  size: 186, 278
+  orig: 187, 279
+  offset: 0, 0
+  index: -1
+01_defualt_3_same source
+  rotate: 180
+  xy: 1439, 699
+  size: 201, 272
+  orig: 201, 272
+  offset: 0, 0
+  index: -1
+00_defualt_3
+  rotate: 180
+  xy: 1439, 699
+  size: 201, 272
+  orig: 201, 272
+  offset: 0, 0
+  index: -1
+02_defualt_1_same source
+  rotate: true
+  xy: 2, 14
+  size: 404, 425
+  orig: 404, 425
+  offset: 0, 0
+  index: -1
+02_defualt_2_same source
+  rotate: 180
+  xy: 820, 4
+  size: 187, 278
+  orig: 187, 279
+  offset: 0, 0
+  index: -1
+02_defualt_3_same source
+  rotate: false
+  xy: 1439, 525
+  size: 200, 271
+  orig: 201, 272
+  offset: 1, 1
+  index: -1
+02_light on_effect_1
+  rotate: false
+  xy: 611, 63
+  size: 216, 216
+  orig: 216, 217
+  offset: 0, 0
+  index: -1
+02_light on_effect_2
+  rotate: false
+  xy: 1050, 532
+  size: 388, 438
+  orig: 388, 438
+  offset: 0, 0
+  index: -1
+02_light on_effect_3
+  rotate: false
+  xy: 1470, 19
+  size: 192, 254
+  orig: 192, 254
+  offset: 0, 0
+  index: -1
+02_light on_effect_4
+  rotate: false
+  xy: 1519, 324
+  size: 172, 274
+  orig: 173, 274
+  offset: 1, 0
+  index: -1
+NP0091
+  rotate: true
+  xy: 2, 280
+  size: 690, 1046
+  orig: 690, 1046
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 428, 18
+  size: 181, 219
+  orig: 181, 219
+  offset: 0, 0
+  index: -1

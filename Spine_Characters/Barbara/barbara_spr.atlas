@@ -1,0 +1,34 @@
+
+barbara_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barbara
+  rotate: 180
+  xy: 2, 265
+  size: 1478, 715
+  orig: 1478, 1196
+  offset: 0, 0
+  index: -1
+Barbara1
+  rotate: 270
+  xy: 1292, 3
+  size: 977, 712
+  orig: 1478, 1196
+  offset: 391, 484
+  index: -1
+halo
+  rotate: false
+  xy: 2, 698
+  size: 197, 137
+  orig: 197, 137
+  offset: 0, 0
+  index: -1
+halo line
+  rotate: false
+  xy: 2, 837
+  size: 201, 142
+  orig: 201, 142
+  offset: 0, 0
+  index: -1

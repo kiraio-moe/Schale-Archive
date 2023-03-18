@@ -1,0 +1,34 @@
+
+presidentkaisercorporation_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0096
+  rotate: false
+  xy: 2, 436
+  size: 588, 578
+  orig: 588, 1312
+  offset: 0, 0
+  index: -1
+NP00967
+  rotate: true
+  xy: 158, 4
+  size: 588, 552
+  orig: 588, 1312
+  offset: 0, 760
+  index: -1
+NP00968
+  rotate: 270
+  xy: 703, 425
+  size: 588, 266
+  orig: 588, 1312
+  offset: 0, 529
+  index: -1
+light
+  rotate: false
+  xy: 304, 955
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1

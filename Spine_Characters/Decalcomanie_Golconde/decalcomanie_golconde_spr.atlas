@@ -1,0 +1,20 @@
+
+decalcomanie_golconde_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0011
+  rotate: false
+  xy: 441, 229
+  size: 515, 642
+  orig: 515, 1327
+  offset: 0, 679
+  index: -1
+NP0011_copy
+  rotate: false
+  xy: 2, 153
+  size: 493, 804
+  orig: 515, 1327
+  offset: 0, 0
+  index: -1

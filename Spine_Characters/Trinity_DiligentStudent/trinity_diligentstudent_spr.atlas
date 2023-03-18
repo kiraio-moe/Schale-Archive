@@ -1,0 +1,97 @@
+
+trinity_diligentstudent_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07
+  rotate: false
+  xy: 2, 662
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 603
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 2, 144
+  size: 201, 94
+  orig: 201, 94
+  offset: 0, 0
+  index: -1
+Trinity_Student
+  rotate: false
+  xy: 2, 238
+  size: 361, 601
+  orig: 405, 1404
+  offset: 0, 803
+  index: -1
+Trinity_Student_0
+  rotate: false
+  xy: 318, 3
+  size: 384, 835
+  orig: 405, 1404
+  offset: 0, 1
+  index: -1
+default
+  rotate: false
+  xy: 2, 576
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+depressed
+  rotate: false
+  xy: 419, 673
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+embarassed
+  rotate: false
+  xy: 434, 776
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 523
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 2, 523
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+respond
+  rotate: false
+  xy: 327, 749
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 2, 550
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 2, 634
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
