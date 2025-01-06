@@ -1,0 +1,132 @@
+
+NP0007_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: 270
+  xy: 303, 424
+  size: 156, 89
+  orig: 174, 97
+  offset: 0, 8
+  index: -1
+01_normal
+  rotate: true
+  xy: 2, 730
+  size: 134, 95
+  orig: 174, 105
+  offset: 0, 10
+  index: -1
+02_respond
+  rotate: true
+  xy: 266, 540
+  size: 139, 94
+  orig: 173, 108
+  offset: 0, 14
+  index: -1
+03_smile
+  rotate: true
+  xy: 393, 519
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 2, 866
+  size: 144, 103
+  orig: 174, 108
+  offset: 0, 5
+  index: -1
+05_serious
+  rotate: 270
+  xy: 302, 3
+  size: 128, 93
+  orig: 174, 107
+  offset: 0, 14
+  index: -1
+06_depressed
+  rotate: 270
+  xy: 331, 163
+  size: 144, 82
+  orig: 174, 97
+  offset: 0, 15
+  index: -1
+07
+  rotate: true
+  xy: 350, 891
+  size: 132, 85
+  orig: 174, 95
+  offset: 0, 10
+  index: -1
+08
+  rotate: true
+  xy: 393, 309
+  size: 136, 66
+  orig: 136, 66
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 2, 594
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 252, 679
+  size: 147, 135
+  orig: 174, 135
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 415, 202
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 397, 59
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: 270
+  xy: 359, 618
+  size: 112, 96
+  orig: 174, 105
+  offset: 0, 9
+  index: -1
+fronthair
+  rotate: true
+  xy: 389, 775
+  size: 114, 70
+  orig: 114, 70
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 248, 827
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+koharu_gym
+  rotate: false
+  xy: 2, 37
+  size: 382, 985
+  orig: 382, 985
+  offset: 0, 0
+  index: -1
+neck_cover
+  rotate: false
+  xy: 389, 736
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1

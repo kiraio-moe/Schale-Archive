@@ -1,0 +1,188 @@
+
+NP0168_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 710, 212
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 710, 467
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 710, 595
+  size: 126, 108
+  orig: 126, 108
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 602, 865
+  size: 149, 123
+  orig: 149, 123
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 819, 363
+  size: 114, 105
+  orig: 114, 105
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 819, 469
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 60
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+07_serious2
+  rotate: true
+  xy: 818, 218
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+08_gekota 1
+  rotate: true
+  xy: 820, 605
+  size: 116, 105
+  orig: 116, 105
+  offset: 0, 0
+  index: -1
+09_gekota 2
+  rotate: true
+  xy: 598, 46
+  size: 116, 123
+  orig: 116, 123
+  offset: 0, 0
+  index: -1
+10_gekota 3
+  rotate: true
+  xy: 472, 45
+  size: 144, 123
+  orig: 144, 123
+  offset: 0, 0
+  index: -1
+11_relax smile
+  rotate: false
+  xy: 322, 84
+  size: 149, 120
+  orig: 149, 120
+  offset: 0, 0
+  index: -1
+12_dissatisfaction 1
+  rotate: true
+  xy: 264, 543
+  size: 119, 102
+  orig: 119, 102
+  offset: 0, 0
+  index: -1
+13_dissatisfaction 2
+  rotate: true
+  xy: 826, 894
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+14_wink
+  rotate: false
+  xy: 124, 61
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 803, 723
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 835, 110
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 723, 92
+  size: 110, 117
+  orig: 110, 117
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 835, 3
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: 270
+  xy: 679, 723
+  size: 226, 145
+  orig: 226, 145
+  offset: 0, 0
+  index: -1
+Halo_Blur
+  rotate: false
+  xy: 356, 191
+  size: 231, 151
+  orig: 231, 151
+  offset: 0, 0
+  index: -1
+R_hand_Weapon_OFF
+  rotate: false
+  xy: 579, 163
+  size: 130, 598
+  orig: 130, 598
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 710, 339
+  size: 125, 107
+  orig: 125, 107
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: true
+  xy: 242, 786
+  size: 159, 107
+  orig: 159, 107
+  offset: 0, 0
+  index: -1
+mikoto
+  rotate: 180
+  xy: 245, 393
+  size: 379, 621
+  orig: 393, 1451
+  offset: 14, 830
+  index: -1
+mikoto_1
+  rotate: false
+  xy: 2, 161
+  size: 353, 853
+  orig: 393, 1451
+  offset: 0, 0
+  index: -1

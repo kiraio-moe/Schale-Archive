@@ -1,0 +1,20 @@
+
+NP0122_spr.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0122
+  rotate: false
+  xy: 2, 2
+  size: 196, 120
+  orig: 196, 120
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 199, 43
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1

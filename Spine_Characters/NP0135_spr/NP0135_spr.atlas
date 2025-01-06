@@ -1,0 +1,13 @@
+
+NP0135_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0135
+  rotate: false
+  xy: 2, 3
+  size: 763, 686
+  orig: 763, 686
+  offset: 0, 0
+  index: -1

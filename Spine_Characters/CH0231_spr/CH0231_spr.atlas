@@ -1,0 +1,139 @@
+
+CH0231_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 288, 539
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 618, 476
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 460, 40
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 50
+  size: 142, 112
+  orig: 142, 112
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 714, 49
+  size: 137, 103
+  orig: 137, 103
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 712, 621
+  size: 137, 105
+  orig: 137, 105
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 712, 760
+  size: 139, 98
+  orig: 139, 98
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 602, 717
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 604, 44
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 787, 327
+  size: 137, 95
+  orig: 137, 95
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 728, 473
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 703, 188
+  size: 137, 110
+  orig: 137, 110
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 676, 332
+  size: 139, 109
+  orig: 139, 109
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 146, 3
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 566, 332
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+CH0231
+  rotate: false
+  xy: 2, 143
+  size: 373, 717
+  orig: 373, 1376
+  offset: 0, 657
+  index: -1
+CH0231_2
+  rotate: 180
+  xy: 368, 158
+  size: 248, 703
+  orig: 373, 1376
+  offset: 62, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 593, 188
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 245, 30
+  size: 216, 185
+  orig: 217, 186
+  offset: 1, 1
+  index: -1

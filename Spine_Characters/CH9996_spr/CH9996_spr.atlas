@@ -1,0 +1,160 @@
+
+CH9996_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 2, 361
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 864, 300
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 411, 53
+  size: 133, 122
+  orig: 133, 122
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 888, 423
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 906, 559
+  size: 129, 116
+  orig: 129, 116
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 909, 818
+  size: 131, 111
+  orig: 131, 111
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 109
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 238
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 666, 105
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+10_embarrass2
+  rotate: false
+  xy: 802, 53
+  size: 133, 122
+  orig: 133, 122
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 132, 40
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 259, 50
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 529, 178
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 275, 165
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+Halo_base
+  rotate: true
+  xy: 668, 495
+  size: 233, 132
+  orig: 233, 132
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 853, 176
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 138, 165
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+hair_filter
+  rotate: 270
+  xy: 541, 4
+  size: 172, 119
+  orig: 172, 119
+  offset: 0, 0
+  index: -1
+light_Halo2
+  rotate: false
+  xy: 538, 301
+  size: 223, 121
+  orig: 223, 121
+  offset: 0, 0
+  index: -1
+object_hand
+  rotate: false
+  xy: 2, 5
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+ruiko_gun
+  rotate: false
+  xy: 2, 288
+  size: 530, 662
+  orig: 530, 1350
+  offset: 0, 688
+  index: -1
+ruiko_gun_1
+  rotate: 180
+  xy: 427, 228
+  size: 482, 721
+  orig: 530, 1350
+  offset: 48, 0
+  index: -1

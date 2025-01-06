@@ -1,0 +1,146 @@
+
+ayane_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 310, 946
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 310, 946
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 103, 875
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 609, 945
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 707, 944
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 209, 948
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 2, 905
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+07_
+  rotate: false
+  xy: 576, 818
+  size: 184, 124
+  orig: 184, 124
+  offset: 0, 0
+  index: -1
+08_
+  rotate: false
+  xy: 411, 946
+  size: 96, 72
+  orig: 96, 72
+  offset: 0, 0
+  index: -1
+09_
+  rotate: false
+  xy: 808, 944
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+10_
+  rotate: false
+  xy: 762, 818
+  size: 184, 124
+  orig: 184, 124
+  offset: 0, 0
+  index: -1
+11_
+  rotate: false
+  xy: 2, 749
+  size: 184, 124
+  orig: 184, 124
+  offset: 0, 0
+  index: -1
+12_
+  rotate: false
+  xy: 204, 868
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+13_
+  rotate: false
+  xy: 305, 866
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+14_
+  rotate: false
+  xy: 109, 955
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+15_
+  rotate: false
+  xy: 909, 944
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+ayane
+  rotate: true
+  xy: 2, 492
+  size: 255, 1016
+  orig: 255, 1016
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 509, 946
+  size: 98, 72
+  orig: 98, 72
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 2, 982
+  size: 105, 36
+  orig: 105, 36
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 406, 856
+  size: 168, 88
+  orig: 168, 88
+  offset: 0, 0
+  index: -1

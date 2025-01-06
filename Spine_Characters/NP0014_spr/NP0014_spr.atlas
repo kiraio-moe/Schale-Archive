@@ -1,0 +1,132 @@
+
+NP0014_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 1088, 6
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 1088, 6
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 1198, 7
+  size: 108, 100
+  orig: 108, 100
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 740
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 238, 751
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 633, 76
+  size: 107, 91
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 347, 755
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 31
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 455, 755
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+NP0014
+  rotate: false
+  xy: 742, 103
+  size: 584, 748
+  orig: 766, 1427
+  offset: 7, 0
+  index: -1
+NP0014_0
+  rotate: false
+  xy: 2, 14
+  size: 766, 836
+  orig: 766, 1427
+  offset: 0, 591
+  index: -1
+Umbrella deco
+  rotate: false
+  xy: 354, 44
+  size: 197, 307
+  orig: 197, 307
+  offset: 0, 0
+  index: -1
+Umbrella_1
+  rotate: 180
+  xy: 1299, 146
+  size: 496, 617
+  orig: 497, 617
+  offset: 1, 0
+  index: -1
+Umbrella_2
+  rotate: 270
+  xy: 475, 3
+  size: 326, 272
+  orig: 326, 272
+  offset: 0, 0
+  index: -1
+Umbrella_3
+  rotate: false
+  xy: 765, 539
+  size: 78, 312
+  orig: 79, 313
+  offset: 1, 1
+  index: -1
+eyeclose
+  rotate: false
+  xy: 978, 5
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 498, 124
+  size: 202, 235
+  orig: 202, 235
+  offset: 0, 0
+  index: -1
+sadow4444
+  rotate: false
+  xy: 125, 749
+  size: 111, 102
+  orig: 111, 102
+  offset: 0, 0
+  index: -1

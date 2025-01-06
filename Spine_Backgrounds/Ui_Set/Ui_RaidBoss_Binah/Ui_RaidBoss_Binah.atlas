@@ -1,0 +1,167 @@
+
+Ui_RaidBoss_Binah.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_bottom_back
+  rotate: false
+  xy: 260, 331
+  size: 609, 98
+  orig: 609, 98
+  offset: 0, 0
+  index: -1
+body_bottom_front
+  rotate: 180
+  xy: 2, 134
+  size: 496, 64
+  orig: 515, 65
+  offset: 16, 1
+  index: -1
+body_inner
+  rotate: true
+  xy: 2, 430
+  size: 526, 497
+  orig: 526, 497
+  offset: 0, 0
+  index: -1
+body_inner22
+  rotate: 270
+  xy: 299, 430
+  size: 526, 497
+  orig: 526, 497
+  offset: 0, 0
+  index: -1
+bodyskin_bottom_1
+  rotate: true
+  xy: 905, 25
+  size: 194, 117
+  orig: 194, 119
+  offset: 0, 0
+  index: -1
+bodyskin_bottom_2
+  rotate: true
+  xy: 875, 421
+  size: 204, 148
+  orig: 206, 151
+  offset: 2, 1
+  index: -1
+bodyskin_bottom_3
+  rotate: 270
+  xy: 2, 201
+  size: 288, 299
+  orig: 290, 300
+  offset: 0, 0
+  index: -1
+bodyskin_top_back_1
+  rotate: false
+  xy: 213, 49
+  size: 134, 84
+  orig: 164, 146
+  offset: 0, 60
+  index: -1
+bodyskin_top_back_2
+  rotate: false
+  xy: 101, 29
+  size: 123, 104
+  orig: 125, 104
+  offset: 2, 0
+  index: -1
+bodyskin_top_back_3
+  rotate: false
+  xy: 2, 190
+  size: 138, 80
+  orig: 194, 218
+  offset: 0, 136
+  index: -1
+bodyskin_top_back_4
+  rotate: true
+  xy: 250, 142
+  size: 248, 424
+  orig: 248, 509
+  offset: 0, 85
+  index: -1
+bodyskin_top_front_1
+  rotate: true
+  xy: 13, 4
+  size: 129, 143
+  orig: 131, 146
+  offset: 2, 1
+  index: -1
+bodyskin_top_front_2
+  rotate: 270
+  xy: 673, 38
+  size: 158, 200
+  orig: 189, 202
+  offset: 29, 1
+  index: -1
+bodyskin_top_front_3
+  rotate: 270
+  xy: 744, 126
+  size: 157, 215
+  orig: 158, 218
+  offset: 0, 1
+  index: -1
+bodyskin_top_front_4
+  rotate: false
+  xy: 835, 476
+  size: 165, 479
+  orig: 165, 480
+  offset: 0, 1
+  index: -1
+cheek_1
+  rotate: false
+  xy: 830, 888
+  size: 101, 67
+  orig: 101, 67
+  offset: 0, 0
+  index: -1
+cheek_2
+  rotate: 180
+  xy: 496, 46
+  size: 253, 109
+  orig: 254, 112
+  offset: 0, 2
+  index: -1
+eye_1
+  rotate: false
+  xy: 2, 931
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 28, 935
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+eyehole
+  rotate: false
+  xy: 846, 810
+  size: 101, 40
+  orig: 102, 43
+  offset: 0, 1
+  index: -1
+halo
+  rotate: false
+  xy: 496, 229
+  size: 247, 99
+  orig: 247, 99
+  offset: 0, 0
+  index: -1
+head_bottom
+  rotate: false
+  xy: 755, 240
+  size: 267, 150
+  orig: 283, 150
+  offset: 13, 0
+  index: -1
+head_top
+  rotate: false
+  xy: 641, 705
+  size: 306, 251
+  orig: 311, 252
+  offset: 2, 0
+  index: -1

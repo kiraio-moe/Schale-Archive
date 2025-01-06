@@ -1,0 +1,209 @@
+
+NP0048_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 606, 422
+  size: 130, 96
+  orig: 130, 96
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 606, 422
+  size: 130, 96
+  orig: 130, 96
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 821, 884
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 869, 361
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: true
+  xy: 869, 490
+  size: 130, 98
+  orig: 130, 98
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 734, 296
+  size: 130, 93
+  orig: 130, 93
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 737, 651
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+07_
+  rotate: true
+  xy: 927, 886
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+07_flush_color
+  rotate: false
+  xy: 435, 325
+  size: 164, 74
+  orig: 164, 74
+  offset: 0, 0
+  index: -1
+11_flush_color
+  rotate: false
+  xy: 435, 325
+  size: 164, 74
+  orig: 164, 74
+  offset: 0, 0
+  index: -1
+07_flush_line
+  rotate: true
+  xy: 970, 635
+  size: 119, 40
+  orig: 119, 40
+  offset: 0, 0
+  index: -1
+11_flush_line
+  rotate: true
+  xy: 970, 635
+  size: 119, 40
+  orig: 119, 40
+  offset: 0, 0
+  index: -1
+08_
+  rotate: false
+  xy: 606, 324
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+09_
+  rotate: false
+  xy: 606, 550
+  size: 130, 99
+  orig: 130, 99
+  offset: 0, 0
+  index: -1
+10_
+  rotate: true
+  xy: 869, 621
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+11_
+  rotate: false
+  xy: 304, 304
+  size: 130, 95
+  orig: 130, 95
+  offset: 0, 0
+  index: -1
+11_tears
+  rotate: false
+  xy: 606, 660
+  size: 114, 28
+  orig: 114, 28
+  offset: 0, 0
+  index: -1
+12_
+  rotate: true
+  xy: 821, 753
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+13_
+  rotate: false
+  xy: 606, 690
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+14_
+  rotate: true
+  xy: 927, 757
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+15_
+  rotate: false
+  xy: 737, 520
+  size: 130, 99
+  orig: 130, 99
+  offset: 0, 0
+  index: -1
+NP0048
+  rotate: false
+  xy: 304, 400
+  size: 300, 614
+  orig: 300, 1310
+  offset: 0, 696
+  index: -1
+NP0048999
+  rotate: false
+  xy: 2, 288
+  size: 300, 726
+  orig: 300, 1310
+  offset: 0, 0
+  index: -1
+eyeclose2
+  rotate: false
+  xy: 737, 391
+  size: 130, 96
+  orig: 130, 96
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 435, 262
+  size: 134, 60
+  orig: 134, 60
+  offset: 0, 0
+  index: -1
+galsses_defualt
+  rotate: false
+  xy: 571, 272
+  size: 137, 50
+  orig: 137, 50
+  offset: 0, 0
+  index: -1
+galsses_embarrassed
+  rotate: false
+  xy: 866, 300
+  size: 137, 59
+  orig: 137, 59
+  offset: 0, 0
+  index: -1
+halo 1
+  rotate: true
+  xy: 722, 845
+  size: 168, 97
+  orig: 168, 97
+  offset: 0, 0
+  index: -1
+halo 2
+  rotate: true
+  xy: 606, 795
+  size: 218, 114
+  orig: 218, 114
+  offset: 0, 0
+  index: -1

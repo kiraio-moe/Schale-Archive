@@ -1,0 +1,146 @@
+
+NP0129_spr.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_eye close
+  rotate: true
+  xy: 905, 84
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 734, 42
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 734, 42
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 648, 41
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 41
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 522, 277
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 84, 39
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 905, 170
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 600, 9
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 905, 34
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 310
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 326, 14
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 734, 4
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 820, 5
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 905, 252
+  size: 94, 77
+  orig: 94, 77
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 472, 9
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 169, 20
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 403, 7
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+Ain
+  rotate: true
+  xy: 2, 52
+  size: 295, 519
+  orig: 305, 885
+  offset: 10, 366
+  index: -1
+Ain2
+  rotate: 270
+  xy: 520, 43
+  size: 304, 383
+  orig: 305, 885
+  offset: 0, 0
+  index: -1

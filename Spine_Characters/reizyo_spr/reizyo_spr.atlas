@@ -1,0 +1,174 @@
+
+reizyo_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 646, 114
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 646, 114
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+00_eyeclose
+  rotate: false
+  xy: 315, 88
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 816, 673
+  size: 102, 78
+  orig: 102, 78
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 106, 89
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+04_embrassed
+  rotate: false
+  xy: 2, 199
+  size: 111, 75
+  orig: 111, 75
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 825, 249
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 210, 89
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+07_etc
+  rotate: false
+  xy: 783, 592
+  size: 102, 79
+  orig: 102, 79
+  offset: 0, 0
+  index: -1
+08_etc
+  rotate: true
+  xy: 568, 136
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+09_etc
+  rotate: false
+  xy: 365, 407
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+10_etc
+  rotate: false
+  xy: 370, 311
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+11_etc
+  rotate: false
+  xy: 825, 75
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+12_etc
+  rotate: false
+  xy: 546, 65
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+13_etc
+  rotate: false
+  xy: 2, 123
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+14_etc
+  rotate: true
+  xy: 114, 177
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+15_etc
+  rotate: true
+  xy: 840, 777
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+16_etc
+  rotate: false
+  xy: 443, 93
+  size: 101, 75
+  orig: 101, 75
+  offset: 0, 0
+  index: -1
+17_etc
+  rotate: true
+  xy: 844, 146
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+18_etc
+  rotate: true
+  xy: 751, 90
+  size: 95, 72
+  orig: 95, 72
+  offset: 0, 0
+  index: -1
+Reizyo
+  rotate: 180
+  xy: 417, 169
+  size: 425, 755
+  orig: 469, 1373
+  offset: 0, 0
+  index: -1
+Reizyo_0
+  rotate: false
+  xy: 2, 276
+  size: 469, 648
+  orig: 469, 1373
+  offset: 0, 725
+  index: -1
+halo
+  rotate: true
+  xy: 757, 354
+  size: 236, 129
+  orig: 236, 129
+  offset: 0, 0
+  index: -1
+halo_glow
+  rotate: false
+  xy: 203, 165
+  size: 238, 131
+  orig: 238, 131
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+NP0165_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0165
+  rotate: false
+  xy: 2, 276
+  size: 616, 649
+  orig: 616, 1059
+  offset: 0, 410
+  index: -1
+NP0165_1
+  rotate: true
+  xy: 565, 3
+  size: 451, 457
+  orig: 616, 1059
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+ibuki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 120, 151
+  size: 116, 90
+  orig: 116, 90
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 120, 242
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 93
+  size: 116, 103
+  orig: 116, 103
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 2, 477
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 652, 742
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 62, 917
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+07_Interest
+  rotate: false
+  xy: 779, 833
+  size: 116, 90
+  orig: 116, 90
+  offset: 0, 0
+  index: -1
+08_become sulky
+  rotate: false
+  xy: 776, 644
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+09_exciting
+  rotate: false
+  xy: 803, 938
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+10_44
+  rotate: false
+  xy: 120, 61
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+11_depressed2
+  rotate: false
+  xy: 2, 197
+  size: 116, 105
+  orig: 116, 105
+  offset: 0, 0
+  index: -1
+12_depressed3
+  rotate: false
+  xy: 286, 881
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 659, 586
+  size: 116, 98
+  orig: 116, 98
+  offset: 0, 0
+  index: -1
+14_panic
+  rotate: false
+  xy: 567, 916
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+15_Kidding
+  rotate: false
+  xy: 776, 551
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+16_drowsy
+  rotate: false
+  xy: 664, 497
+  size: 107, 88
+  orig: 107, 88
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 779, 746
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+99_eyeclose
+  rotate: false
+  xy: 237, 151
+  size: 107, 90
+  orig: 107, 90
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 685, 925
+  size: 116, 98
+  orig: 116, 98
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 305
+  size: 262, 189
+  orig: 262, 189
+  offset: 0, 0
+  index: -1
+ibuki
+  rotate: 180
+  xy: 295, 3
+  size: 687, 509
+  orig: 687, 1002
+  offset: 0, 493
+  index: -1
+ibuki2
+  rotate: false
+  xy: 2, 468
+  size: 687, 555
+  orig: 687, 1002
+  offset: 0, 0
+  index: -1

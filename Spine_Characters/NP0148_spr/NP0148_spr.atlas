@@ -1,0 +1,174 @@
+
+NP0148_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 116, 274
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+00_defualt_eyelight
+  rotate: false
+  xy: 2, 993
+  size: 60, 6
+  orig: 60, 6
+  offset: 0, 0
+  index: -1
+00_eyeclose
+  rotate: false
+  xy: 646, 688
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 681, 852
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 108, 59
+  size: 113, 70
+  orig: 113, 70
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 649, 619
+  size: 113, 67
+  orig: 113, 67
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 210
+  size: 113, 75
+  orig: 113, 75
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 681, 782
+  size: 113, 67
+  orig: 113, 67
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 730, 932
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 761, 714
+  size: 109, 66
+  orig: 109, 66
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 796, 867
+  size: 107, 63
+  orig: 107, 63
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 535, 674
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 538, 591
+  size: 109, 81
+  orig: 109, 81
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 113, 139
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 286
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 131
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 649, 550
+  size: 109, 68
+  orig: 109, 68
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 52
+  size: 104, 77
+  orig: 104, 77
+  offset: 0, 0
+  index: -1
+blush
+  rotate: false
+  xy: 116, 229
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+blush plus
+  rotate: false
+  xy: 538, 543
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 510, 758
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 519, 407
+  size: 142, 135
+  orig: 142, 135
+  offset: 0, 0
+  index: -1
+yukari
+  rotate: false
+  xy: 2, 291
+  size: 726, 708
+  orig: 891, 1253
+  offset: 165, 0
+  index: -1
+yukari4
+  rotate: true
+  xy: 297, 3
+  size: 687, 689
+  orig: 891, 1253
+  offset: 0, 564
+  index: -1

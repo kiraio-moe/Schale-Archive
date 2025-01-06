@@ -1,0 +1,41 @@
+
+NP0029_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_smile
+  rotate: false
+  xy: 2, 431
+  size: 40, 44
+  orig: 44, 56
+  offset: 4, 10
+  index: -1
+NP00293
+  rotate: 180
+  xy: 1106, 3
+  size: 614, 705
+  orig: 614, 1284
+  offset: 0, 1
+  index: -1
+NP0029_1
+  rotate: false
+  xy: 1549, 170
+  size: 397, 620
+  orig: 614, 1284
+  offset: 90, 663
+  index: -1
+NP0029_2
+  rotate: false
+  xy: 2, 475
+  size: 1338, 548
+  orig: 2228, 548
+  offset: 890, 0
+  index: -1
+NP0029_4
+  rotate: false
+  xy: 150, 11
+  size: 935, 547
+  orig: 2228, 548
+  offset: 0, 0
+  index: -1

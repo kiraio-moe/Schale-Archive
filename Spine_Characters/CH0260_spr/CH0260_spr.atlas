@@ -1,0 +1,195 @@
+
+CH0260_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 835, 74
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 2, 86
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 743, 163
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 90, 3
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 186, 12
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 927, 74
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+06_depressde
+  rotate: false
+  xy: 673, 4
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+07_normal_02
+  rotate: false
+  xy: 94, 85
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+08_normal_03
+  rotate: false
+  xy: 471, 32
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+09_respond_02
+  rotate: false
+  xy: 835, 162
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+10_smile_02
+  rotate: true
+  xy: 2, 285
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+11_smile_03
+  rotate: true
+  xy: 2, 168
+  size: 113, 138
+  orig: 113, 138
+  offset: 0, 0
+  index: -1
+12_smile_04
+  rotate: false
+  xy: 743, 79
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+13_embarassed_02
+  rotate: false
+  xy: 926, 460
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+14_embarassed_03
+  rotate: true
+  xy: 914, 552
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+15_embarassed_04
+  rotate: true
+  xy: 938, 364
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1
+16_embarassed_05
+  rotate: false
+  xy: 651, 157
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+17_serious_02
+  rotate: false
+  xy: 379, 15
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+18_serious_03
+  rotate: false
+  xy: 287, 14
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+19_irritate_01
+  rotate: false
+  xy: 581, 74
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+20_irritate_02
+  rotate: true
+  xy: 927, 156
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+CH0260
+  rotate: 180
+  xy: 530, 248
+  size: 427, 639
+  orig: 646, 1392
+  offset: 219, 751
+  index: -1
+CH0260_2
+  rotate: false
+  xy: 2, 95
+  size: 634, 792
+  orig: 646, 1392
+  offset: 0, 3
+  index: -1
+Whistle_01
+  rotate: false
+  xy: 887, 757
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+Whistle_02
+  rotate: false
+  xy: 901, 652
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 3
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 489, 115
+  size: 160, 177
+  orig: 164, 177
+  offset: 1, 0
+  index: -1

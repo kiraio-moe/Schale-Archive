@@ -1,0 +1,20 @@
+
+NP0115_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0115
+  rotate: false
+  xy: 2, 230
+  size: 503, 782
+  orig: 503, 1447
+  offset: 0, 0
+  index: -1
+NP01156
+  rotate: false
+  xy: 507, 317
+  size: 503, 696
+  orig: 503, 1447
+  offset: 0, 751
+  index: -1

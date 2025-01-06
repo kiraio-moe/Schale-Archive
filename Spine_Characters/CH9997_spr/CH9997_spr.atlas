@@ -1,0 +1,153 @@
+
+CH9997_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 874, 279
+  size: 131, 104
+  orig: 131, 104
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 874, 279
+  size: 131, 104
+  orig: 131, 104
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 167, 843
+  size: 163, 107
+  orig: 163, 107
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 864, 385
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 581, 288
+  size: 131, 106
+  orig: 131, 106
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 697, 163
+  size: 131, 102
+  orig: 131, 102
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 869, 613
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 403
+  size: 122, 117
+  orig: 122, 117
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 872, 494
+  size: 122, 117
+  orig: 122, 117
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 459, 134
+  size: 131, 95
+  orig: 131, 95
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 890, 735
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 876, 174
+  size: 131, 103
+  orig: 131, 103
+  offset: 0, 0
+  index: -1
+E_hair
+  rotate: 180
+  xy: 196, 3
+  size: 271, 174
+  orig: 271, 174
+  offset: 0, 0
+  index: -1
+Front_Hair
+  rotate: 180
+  xy: 555, 88
+  size: 155, 92
+  orig: 155, 92
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 378, 809
+  size: 240, 142
+  orig: 240, 142
+  offset: 0, 0
+  index: -1
+Light_Halo3
+  rotate: false
+  xy: 2, 191
+  size: 244, 139
+  orig: 244, 139
+  offset: 0, 0
+  index: -1
+R_arm_Weapon_ON
+  rotate: false
+  xy: 626, 380
+  size: 162, 279
+  orig: 206, 606
+  offset: 0, 327
+  index: -1
+R_arm_Weapon_ON_1
+  rotate: 180
+  xy: 124, 124
+  size: 136, 120
+  orig: 206, 606
+  offset: 70, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 564, 183
+  size: 131, 104
+  orig: 131, 104
+  offset: 0, 0
+  index: -1
+misaki
+  rotate: false
+  xy: 2, 179
+  size: 586, 772
+  orig: 634, 1301
+  offset: 0, 529
+  index: -1
+misaki_1
+  rotate: 180
+  xy: 477, 267
+  size: 472, 684
+  orig: 634, 1301
+  offset: 162, 0
+  index: -1

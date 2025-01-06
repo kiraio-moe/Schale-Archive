@@ -1,0 +1,265 @@
+
+Ui_RaidBoss_HoverCraft.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Flag
+  rotate: false
+  xy: 407, 299
+  size: 113, 169
+  orig: 124, 178
+  offset: 6, 5
+  index: -1
+B_Handrail
+  rotate: false
+  xy: 476, 312
+  size: 382, 162
+  orig: 394, 173
+  offset: 6, 6
+  index: -1
+B_Missile
+  rotate: false
+  xy: 914, 342
+  size: 109, 121
+  orig: 122, 131
+  offset: 7, 5
+  index: -1
+Deco_01
+  rotate: false
+  xy: 667, 955
+  size: 24, 22
+  orig: 34, 35
+  offset: 5, 6
+  index: -1
+Deco_02
+  rotate: false
+  xy: 734, 974
+  size: 39, 49
+  orig: 51, 61
+  offset: 6, 6
+  index: -1
+Deco_03
+  rotate: false
+  xy: 493, 1001
+  size: 24, 23
+  orig: 35, 35
+  offset: 6, 6
+  index: -1
+Deco_04
+  rotate: false
+  xy: 684, 959
+  size: 50, 65
+  orig: 62, 75
+  offset: 6, 5
+  index: -1
+F1_Motor
+  rotate: false
+  xy: 2, 947
+  size: 24, 24
+  orig: 38, 38
+  offset: 7, 7
+  index: -1
+F_Flag
+  rotate: false
+  xy: 824, 269
+  size: 113, 169
+  orig: 125, 179
+  offset: 6, 4
+  index: -1
+F_Handrail
+  rotate: 180
+  xy: 2, 203
+  size: 766, 185
+  orig: 782, 195
+  offset: 10, 5
+  index: -1
+F_Missile
+  rotate: false
+  xy: 243, 536
+  size: 112, 125
+  orig: 124, 136
+  offset: 5, 6
+  index: -1
+MotorBack
+  rotate: false
+  xy: 389, 471
+  size: 248, 157
+  orig: 256, 167
+  offset: 4, 6
+  index: -1
+MotorCover
+  rotate: false
+  xy: 600, 392
+  size: 387, 193
+  orig: 399, 203
+  offset: 6, 4
+  index: -1
+MotorPillar_1
+  rotate: false
+  xy: 725, 934
+  size: 65, 39
+  orig: 75, 47
+  offset: 5, 4
+  index: -1
+MotorPillar_2
+  rotate: false
+  xy: 956, 984
+  size: 66, 39
+  orig: 75, 47
+  offset: 5, 5
+  index: -1
+MotorPillar_22
+  rotate: false
+  xy: 961, 729
+  size: 61, 33
+  orig: 75, 47
+  offset: 7, 7
+  index: -1
+Motor_1
+  rotate: false
+  xy: 773, 980
+  size: 11, 43
+  orig: 21, 53
+  offset: 5, 5
+  index: -1
+Motor_10
+  rotate: false
+  xy: 9, 681
+  size: 38, 50
+  orig: 47, 60
+  offset: 4, 5
+  index: -1
+Motor_11
+  rotate: false
+  xy: 520, 984
+  size: 45, 40
+  orig: 54, 49
+  offset: 3, 4
+  index: -1
+Motor_12
+  rotate: false
+  xy: 59, 721
+  size: 51, 29
+  orig: 59, 40
+  offset: 3, 5
+  index: -1
+Motor_13
+  rotate: false
+  xy: 978, 684
+  size: 45, 22
+  orig: 59, 38
+  offset: 5, 11
+  index: -1
+Motor_14
+  rotate: false
+  xy: 198, 654
+  size: 44, 38
+  orig: 52, 47
+  offset: 3, 4
+  index: -1
+Motor_15
+  rotate: false
+  xy: 103, 678
+  size: 35, 44
+  orig: 44, 53
+  offset: 5, 4
+  index: -1
+Motor_16
+  rotate: false
+  xy: 46, 676
+  size: 28, 53
+  orig: 37, 62
+  offset: 5, 4
+  index: -1
+Motor_2
+  rotate: false
+  xy: 2, 687
+  size: 20, 37
+  orig: 30, 47
+  offset: 6, 6
+  index: -1
+Motor_3
+  rotate: false
+  xy: 243, 658
+  size: 29, 31
+  orig: 39, 42
+  offset: 5, 6
+  index: -1
+Motor_4
+  rotate: false
+  xy: 160, 678
+  size: 29, 28
+  orig: 39, 38
+  offset: 5, 5
+  index: -1
+Motor_5
+  rotate: false
+  xy: 113, 999
+  size: 36, 25
+  orig: 47, 36
+  offset: 6, 5
+  index: -1
+Motor_6
+  rotate: false
+  xy: 984, 861
+  size: 38, 43
+  orig: 50, 53
+  offset: 6, 5
+  index: -1
+Motor_7
+  rotate: false
+  xy: 950, 677
+  size: 38, 51
+  orig: 47, 59
+  offset: 3, 5
+  index: -1
+Motor_8
+  rotate: false
+  xy: 2, 728
+  size: 34, 59
+  orig: 44, 69
+  offset: 6, 6
+  index: -1
+Motor_9
+  rotate: false
+  xy: 33, 714
+  size: 26, 54
+  orig: 37, 65
+  offset: 5, 5
+  index: -1
+Ship
+  rotate: false
+  xy: 2, 525
+  size: 1020, 498
+  orig: 1026, 507
+  offset: 2, 6
+  index: -1
+Ship_02
+  rotate: false
+  xy: 571, 968
+  size: 113, 55
+  orig: 122, 66
+  offset: 5, 6
+  index: -1
+Ship_03
+  rotate: false
+  xy: 2, 971
+  size: 110, 53
+  orig: 119, 63
+  offset: 5, 5
+  index: -1
+Ship_04
+  rotate: false
+  xy: 789, 884
+  size: 217, 139
+  orig: 229, 151
+  offset: 6, 6
+  index: -1
+T_Ship
+  rotate: 180
+  xy: 2, 309
+  size: 469, 409
+  orig: 479, 419
+  offset: 5, 5
+  index: -1

@@ -1,0 +1,62 @@
+
+NP0142_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 599, 168
+  size: 167, 30
+  orig: 167, 30
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 599, 201
+  size: 167, 29
+  orig: 167, 29
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 599, 114
+  size: 145, 53
+  orig: 145, 53
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 450, 168
+  size: 147, 39
+  orig: 147, 39
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 430, 113
+  size: 167, 48
+  orig: 167, 48
+  offset: 0, 0
+  index: -1
+Descartes
+  rotate: 180
+  xy: 374, 262
+  size: 395, 544
+  orig: 432, 1403
+  offset: 37, 858
+  index: -1
+Descartes_0
+  rotate: false
+  xy: 2, 3
+  size: 430, 891
+  orig: 432, 1403
+  offset: 0, 1
+  index: -1
+hat
+  rotate: false
+  xy: 433, 3
+  size: 229, 108
+  orig: 229, 108
+  offset: 0, 0
+  index: -1

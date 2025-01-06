@@ -1,0 +1,146 @@
+
+sakurako_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: true
+  xy: 460, 80
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 129, 47
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 915, 876
+  size: 118, 77
+  orig: 118, 77
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 2, 428
+  size: 127, 73
+  orig: 127, 73
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 330, 71
+  size: 127, 84
+  orig: 127, 84
+  offset: 0, 0
+  index: -1
+06_despressed
+  rotate: true
+  xy: 918, 569
+  size: 119, 73
+  orig: 119, 73
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 608, 345
+  size: 127, 77
+  orig: 127, 77
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 787, 821
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 79
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 712, 73
+  size: 127, 83
+  orig: 127, 83
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 903, 691
+  size: 127, 73
+  orig: 127, 73
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 2, 591
+  size: 127, 80
+  orig: 127, 80
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 650, 425
+  size: 127, 75
+  orig: 127, 75
+  offset: 0, 0
+  index: -1
+Sakurako
+  rotate: false
+  xy: 2, 208
+  size: 788, 788
+  orig: 788, 1353
+  offset: 0, 565
+  index: -1
+Sakurako2
+  rotate: false
+  xy: 726, 210
+  size: 209, 609
+  orig: 788, 1353
+  offset: 346, 0
+  index: -1
+default
+  rotate: true
+  xy: 842, 91
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 918, 104
+  size: 119, 74
+  orig: 119, 74
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 26, 863
+  size: 157, 131
+  orig: 157, 131
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: 180
+  xy: 96, 124
+  size: 294, 224
+  orig: 294, 224
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: 270
+  xy: 542, 63
+  size: 280, 207
+  orig: 280, 207
+  offset: 0, 0
+  index: -1

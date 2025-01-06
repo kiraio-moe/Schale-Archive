@@ -1,0 +1,111 @@
+
+NP0182_spr.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 2, 420
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 2, 420
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 802
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 135, 677
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 545
+  size: 130, 126
+  orig: 130, 126
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 937
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 136, 878
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 672
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+NP0182
+  rotate: 180
+  xy: 1235, 168
+  size: 484, 830
+  orig: 2137, 1843
+  offset: 419, 583
+  index: -1
+NP01821
+  rotate: false
+  xy: 1208, 994
+  size: 757, 772
+  orig: 2137, 1843
+  offset: 0, 57
+  index: -1
+NP01822
+  rotate: false
+  xy: 2, 937
+  size: 1307, 1030
+  orig: 2137, 1843
+  offset: 799, 0
+  index: -1
+NP01824
+  rotate: false
+  xy: 229, 94
+  size: 1097, 966
+  orig: 2137, 1843
+  offset: 1040, 877
+  index: -1
+eyeclose
+  rotate: false
+  xy: 134, 548
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+halo 01
+  rotate: false
+  xy: 606, 1858
+  size: 213, 109
+  orig: 213, 109
+  offset: 0, 0
+  index: -1
+halo 02
+  rotate: false
+  xy: 2, 1851
+  size: 228, 115
+  orig: 228, 115
+  offset: 0, 0
+  index: -1

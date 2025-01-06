@@ -1,0 +1,146 @@
+
+NP0169_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: true
+  xy: 606, 133
+  size: 136, 107
+  orig: 136, 107
+  offset: 0, 0
+  index: -1
+default
+  rotate: true
+  xy: 606, 133
+  size: 136, 107
+  orig: 136, 107
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 173, 880
+  size: 169, 111
+  orig: 169, 111
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 783, 171
+  size: 136, 111
+  orig: 136, 111
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 468, 159
+  size: 136, 110
+  orig: 136, 110
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 296, 86
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 895, 398
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 901, 656
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 598, 271
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 921, 260
+  size: 136, 98
+  orig: 136, 98
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 402
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 99
+  size: 136, 107
+  orig: 136, 107
+  offset: 0, 0
+  index: -1
+E_hair
+  rotate: false
+  xy: 735, 3
+  size: 280, 180
+  orig: 280, 180
+  offset: 0, 0
+  index: -1
+Front_Hair
+  rotate: true
+  xy: 926, 792
+  size: 161, 95
+  orig: 161, 95
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 391, 845
+  size: 248, 146
+  orig: 248, 146
+  offset: 0, 0
+  index: -1
+Light_Halo3
+  rotate: false
+  xy: 2, 205
+  size: 253, 143
+  orig: 253, 143
+  offset: 0, 0
+  index: -1
+R_arm2_Weapon_OFF
+  rotate: false
+  xy: 645, 165
+  size: 164, 484
+  orig: 164, 484
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 159, 104
+  size: 136, 107
+  orig: 136, 107
+  offset: 0, 0
+  index: -1
+misaki
+  rotate: false
+  xy: 2, 193
+  size: 607, 799
+  orig: 656, 1346
+  offset: 0, 547
+  index: -1
+misaki_1
+  rotate: 180
+  xy: 494, 284
+  size: 489, 708
+  orig: 656, 1346
+  offset: 167, 0
+  index: -1

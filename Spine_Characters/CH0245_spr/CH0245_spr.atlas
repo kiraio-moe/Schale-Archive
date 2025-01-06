@@ -1,0 +1,181 @@
+
+CH0245_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 2, 96
+  size: 118, 87
+  orig: 118, 87
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 873, 112
+  size: 118, 87
+  orig: 118, 87
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 784, 128
+  size: 120, 87
+  orig: 120, 87
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 850, 31
+  size: 114, 80
+  orig: 114, 80
+  offset: 0, 0
+  index: -1
+04_embrassed
+  rotate: false
+  xy: 660, 172
+  size: 122, 86
+  orig: 122, 86
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 894, 201
+  size: 120, 91
+  orig: 120, 91
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 478, 67
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 887, 323
+  size: 120, 91
+  orig: 120, 91
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 249, 108
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 122, 36
+  size: 114, 81
+  orig: 114, 81
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 733, 45
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 127, 120
+  size: 120, 87
+  orig: 120, 87
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 594, 4
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 872, 737
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 870, 640
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 843, 543
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 841, 446
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 238, 30
+  size: 118, 76
+  orig: 118, 76
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 184
+  size: 123, 88
+  orig: 123, 88
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 365, 70
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+99_eyeclose
+  rotate: false
+  xy: 617, 84
+  size: 114, 87
+  orig: 114, 87
+  offset: 0, 0
+  index: -1
+CH0245
+  rotate: false
+  xy: 2, 201
+  size: 562, 659
+  orig: 562, 1209
+  offset: 0, 550
+  index: -1
+CH0245_1
+  rotate: 180
+  xy: 478, 250
+  size: 415, 610
+  orig: 562, 1209
+  offset: 71, 0
+  index: -1
+hair cover
+  rotate: false
+  xy: 2, 10
+  size: 103, 83
+  orig: 103, 83
+  offset: 0, 0
+  index: -1
+halo
+  rotate: 180
+  xy: 407, 151
+  size: 251, 122
+  orig: 251, 122
+  offset: 0, 0
+  index: -1

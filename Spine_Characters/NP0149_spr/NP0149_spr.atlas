@@ -1,0 +1,83 @@
+
+NP0149_spr.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 311
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 2, 364
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 52, 402
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 44, 372
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+04_embarssed
+  rotate: false
+  xy: 2, 376
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 29, 362
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 353
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+07_embarssed2
+  rotate: false
+  xy: 2, 398
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+NP0149
+  rotate: true
+  xy: 2, 65
+  size: 350, 534
+  orig: 360, 997
+  offset: 0, 463
+  index: -1
+NP0149_1
+  rotate: true
+  xy: 531, 85
+  size: 331, 480
+  orig: 360, 997
+  offset: 29, 0
+  index: -1
+halo
+  rotate: false
+  xy: 632, 4
+  size: 209, 105
+  orig: 209, 105
+  offset: 0, 0
+  index: -1

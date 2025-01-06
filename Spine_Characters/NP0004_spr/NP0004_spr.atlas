@@ -1,0 +1,90 @@
+
+NP0004_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 547, 888
+  size: 110, 99
+  orig: 110, 99
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 547, 888
+  size: 110, 99
+  orig: 110, 99
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 892, 877
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 871, 648
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 2, 609
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 761, 701
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 493, 701
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+eyeclose_00
+  rotate: false
+  xy: 538, 793
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+haircover
+  rotate: false
+  xy: 454, 618
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 742, 737
+  size: 251, 195
+  orig: 251, 195
+  offset: 0, 0
+  index: -1
+hanako_swim_00
+  rotate: false
+  xy: 2, 352
+  size: 544, 636
+  orig: 544, 637
+  offset: 0, 1
+  index: -1
+hanako_swim_01
+  rotate: false
+  xy: 397, 345
+  size: 544, 642
+  orig: 544, 642
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+CH0229_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 835, 122
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+00_eyeclolse
+  rotate: false
+  xy: 377, 201
+  size: 174, 124
+  orig: 174, 124
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 172, 205
+  size: 203, 141
+  orig: 203, 141
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 553, 123
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+03_smile_01
+  rotate: false
+  xy: 2, 109
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+04_embarassed_01
+  rotate: false
+  xy: 142, 107
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 553, 223
+  size: 139, 100
+  orig: 139, 100
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 662, 30
+  size: 139, 89
+  orig: 139, 89
+  offset: 0, 0
+  index: -1
+07_respond_02
+  rotate: false
+  xy: 283, 103
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+08_respond_03
+  rotate: true
+  xy: 423, 60
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+09_angry_01
+  rotate: false
+  xy: 694, 222
+  size: 139, 100
+  orig: 139, 100
+  offset: 0, 0
+  index: -1
+10_smile_02
+  rotate: false
+  xy: 521, 26
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+11_respond_04
+  rotate: true
+  xy: 851, 624
+  size: 139, 93
+  orig: 139, 93
+  offset: 0, 0
+  index: -1
+12_eyeclolse_02
+  rotate: false
+  xy: 283, 7
+  size: 136, 94
+  orig: 136, 94
+  offset: 0, 0
+  index: -1
+13_eyeclolse_03
+  rotate: false
+  xy: 823, 527
+  size: 136, 96
+  orig: 136, 96
+  offset: 0, 0
+  index: -1
+14_embarassed_02
+  rotate: false
+  xy: 835, 220
+  size: 139, 100
+  orig: 139, 100
+  offset: 0, 0
+  index: -1
+15_angry_02
+  rotate: false
+  xy: 2, 12
+  size: 139, 94
+  orig: 139, 94
+  offset: 0, 0
+  index: -1
+16_disapoint_01
+  rotate: false
+  xy: 142, 8
+  size: 139, 93
+  orig: 139, 93
+  offset: 0, 0
+  index: -1
+17_embarassed_03
+  rotate: false
+  xy: 694, 121
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+18_embarassed_04
+  rotate: false
+  xy: 2, 206
+  size: 152, 95
+  orig: 152, 95
+  offset: 0, 0
+  index: -1
+CH02233
+  rotate: false
+  xy: 2, 347
+  size: 546, 628
+  orig: 546, 1260
+  offset: 0, 632
+  index: -1
+CH0229
+  rotate: false
+  xy: 422, 321
+  size: 546, 654
+  orig: 546, 1260
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: true
+  xy: 455, 506
+  size: 140, 66
+  orig: 140, 77
+  offset: 0, 11
+  index: -1
+halo_01
+  rotate: true
+  xy: 2, 303
+  size: 195, 169
+  orig: 195, 169
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: false
+  xy: 2, 516
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1

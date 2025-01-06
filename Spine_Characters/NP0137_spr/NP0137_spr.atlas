@@ -1,0 +1,34 @@
+
+NP0137_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0137
+  rotate: false
+  xy: 2, 218
+  size: 486, 739
+  orig: 486, 1363
+  offset: 0, 624
+  index: -1
+NP01374
+  rotate: false
+  xy: 469, 294
+  size: 486, 663
+  orig: 486, 1363
+  offset: 0, 0
+  index: -1
+eye light
+  rotate: false
+  xy: 384, 402
+  size: 161, 106
+  orig: 169, 119
+  offset: 3, 7
+  index: -1
+halo
+  rotate: false
+  xy: 371, 97
+  size: 218, 211
+  orig: 218, 211
+  offset: 0, 0
+  index: -1

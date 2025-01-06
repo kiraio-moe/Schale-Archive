@@ -1,0 +1,34 @@
+
+NP0103_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0103
+  rotate: true
+  xy: 386, 4
+  size: 512, 575
+  orig: 813, 1235
+  offset: 57, 660
+  index: -1
+NP01034
+  rotate: false
+  xy: 2, 301
+  size: 795, 711
+  orig: 813, 1235
+  offset: 0, 0
+  index: -1
+halo_1
+  rotate: false
+  xy: 345, 851
+  size: 159, 161
+  orig: 159, 161
+  offset: 0, 0
+  index: -1
+halo_2
+  rotate: false
+  xy: 2, 137
+  size: 210, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1

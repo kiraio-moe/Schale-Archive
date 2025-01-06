@@ -1,0 +1,167 @@
+
+NP0164_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 1882, 313
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 1789, 553
+  size: 127, 89
+  orig: 127, 89
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 674, 105
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 895, 245
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 1138, 64
+  size: 127, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 524, 51
+  size: 127, 78
+  orig: 127, 78
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 802, 73
+  size: 127, 82
+  orig: 127, 82
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1918, 583
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 395, 61
+  size: 127, 82
+  orig: 127, 82
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 953, 333
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1918, 493
+  size: 127, 88
+  orig: 127, 88
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1852, 401
+  size: 124, 90
+  orig: 124, 90
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1008, 158
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1008, 71
+  size: 127, 84
+  orig: 127, 84
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1921, 227
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 652, 27
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+NP0164
+  rotate: 270
+  xy: 2, 26
+  size: 585, 892
+  orig: 1992, 1619
+  offset: 713, 727
+  index: -1
+NP01644
+  rotate: 180
+  xy: 1298, 86
+  size: 748, 449
+  orig: 1992, 1619
+  offset: 626, 301
+  index: -1
+NP016444
+  rotate: false
+  xy: 2, 420
+  size: 1992, 328
+  orig: 1992, 1619
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 879, 157
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 1217, 144
+  size: 126, 86
+  orig: 126, 86
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 1901, 3
+  size: 145, 86
+  orig: 145, 86
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 1082, 232
+  size: 318, 190
+  orig: 318, 190
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+NP0136_spr.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0136
+  rotate: false
+  xy: 2, 3
+  size: 478, 860
+  orig: 478, 860
+  offset: 0, 0
+  index: -1

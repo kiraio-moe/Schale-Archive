@@ -1,0 +1,174 @@
+
+nagisa_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 1022, 5
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 1022, 5
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 817, 445
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 914, 113
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 110, 24
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 988, 910
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 914, 27
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 806, 78
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 1108, 43
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 880, 903
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 880, 809
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 783, 300
+  size: 108, 85
+  orig: 108, 85
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 695, 77
+  size: 108, 85
+  orig: 108, 85
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 806, 164
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 914, 199
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 48
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 893, 286
+  size: 106, 86
+  orig: 106, 86
+  offset: 0, 0
+  index: -1
+diorama
+  rotate: true
+  xy: 33, 3
+  size: 483, 486
+  orig: 906, 1034
+  offset: 0, 548
+  index: -1
+diorama1
+  rotate: false
+  xy: 2, 193
+  size: 877, 803
+  orig: 906, 1034
+  offset: 29, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 1024, 148
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 2, 368
+  size: 131, 97
+  orig: 131, 99
+  offset: 0, 2
+  index: -1
+halo
+  rotate: false
+  xy: 415, 11
+  size: 278, 206
+  orig: 278, 206
+  offset: 0, 0
+  index: -1
+nagisa
+  rotate: false
+  xy: 810, 255
+  size: 687, 741
+  orig: 740, 1196
+  offset: 53, 455
+  index: -1
+nagisa2
+  rotate: false
+  xy: 1361, 256
+  size: 589, 670
+  orig: 740, 1196
+  offset: 0, 0
+  index: -1

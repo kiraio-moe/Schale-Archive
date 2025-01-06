@@ -1,0 +1,83 @@
+
+NP0156_spr.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 2, 425
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+00_eyeclose
+  rotate: false
+  xy: 2, 425
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 445
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 461
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 2, 461
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+04_embrassed
+  rotate: false
+  xy: 2, 483
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 431
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 438
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+NP0156
+  rotate: true
+  xy: 277, 3
+  size: 313, 512
+  orig: 333, 989
+  offset: 20, 477
+  index: -1
+NP0156_1
+  rotate: false
+  xy: 2, 5
+  size: 333, 506
+  orig: 333, 989
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 292, 269
+  size: 170, 107
+  orig: 170, 107
+  offset: 0, 0
+  index: -1

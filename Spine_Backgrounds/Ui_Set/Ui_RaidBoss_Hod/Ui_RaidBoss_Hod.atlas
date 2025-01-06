@@ -1,0 +1,209 @@
+
+Ui_RaidBoss_Hod.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_F
+  rotate: false
+  xy: 551, 631
+  size: 222, 211
+  orig: 224, 215
+  offset: 1, 1
+  index: -1
+B_Side
+  rotate: true
+  xy: 391, 356
+  size: 632, 229
+  orig: 634, 230
+  offset: 1, 1
+  index: -1
+Body1
+  rotate: false
+  xy: 2, 420
+  size: 425, 570
+  orig: 426, 572
+  offset: 0, 1
+  index: -1
+Body2
+  rotate: true
+  xy: 81, 250
+  size: 274, 355
+  orig: 274, 370
+  offset: 0, 12
+  index: -1
+Eye
+  rotate: false
+  xy: 2, 406
+  size: 101, 106
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+Eye_Back
+  rotate: false
+  xy: 2, 46
+  size: 329, 173
+  orig: 330, 173
+  offset: 0, 0
+  index: -1
+F_B
+  rotate: false
+  xy: 2, 913
+  size: 64, 76
+  orig: 65, 79
+  offset: 0, 2
+  index: -1
+F_L
+  rotate: false
+  xy: 424, 921
+  size: 90, 63
+  orig: 92, 65
+  offset: 1, 1
+  index: -1
+F_R
+  rotate: false
+  xy: 128, 195
+  size: 85, 73
+  orig: 86, 76
+  offset: 0, 2
+  index: -1
+F_T
+  rotate: false
+  xy: 188, 40
+  size: 103, 92
+  orig: 103, 95
+  offset: 0, 0
+  index: -1
+LA1
+  rotate: false
+  xy: 402, 105
+  size: 62, 108
+  orig: 68, 110
+  offset: 2, 0
+  index: -1
+LA2
+  rotate: false
+  xy: 2, 357
+  size: 60, 55
+  orig: 64, 58
+  offset: 2, 3
+  index: -1
+LA3
+  rotate: true
+  xy: 250, 193
+  size: 417, 609
+  orig: 418, 611
+  offset: 0, 1
+  index: -1
+LHand1
+  rotate: false
+  xy: 325, 12
+  size: 117, 209
+  orig: 122, 212
+  offset: 3, 2
+  index: -1
+LHand2
+  rotate: false
+  xy: 870, 494
+  size: 126, 201
+  orig: 128, 203
+  offset: 0, 1
+  index: -1
+LHand3
+  rotate: false
+  xy: 912, 622
+  size: 30, 187
+  orig: 35, 192
+  offset: 3, 3
+  index: -1
+L_Gear
+  rotate: false
+  xy: 436, 272
+  size: 168, 113
+  orig: 169, 115
+  offset: 0, 2
+  index: -1
+RA1
+  rotate: false
+  xy: 440, 11
+  size: 154, 219
+  orig: 155, 221
+  offset: 0, 1
+  index: -1
+RA2
+  rotate: false
+  xy: 559, 3
+  size: 463, 453
+  orig: 587, 468
+  offset: 0, 15
+  index: -1
+RHand1
+  rotate: false
+  xy: 541, 89
+  size: 141, 177
+  orig: 143, 180
+  offset: 0, 2
+  index: -1
+RHand2
+  rotate: false
+  xy: 805, 680
+  size: 120, 185
+  orig: 124, 190
+  offset: 0, 4
+  index: -1
+RHand3
+  rotate: false
+  xy: 595, 66
+  size: 88, 189
+  orig: 91, 193
+  offset: 1, 2
+  index: -1
+R_Gear
+  rotate: false
+  xy: 378, 522
+  size: 164, 116
+  orig: 165, 118
+  offset: 0, 2
+  index: -1
+T_Back
+  rotate: false
+  xy: 361, 647
+  size: 174, 140
+  orig: 175, 141
+  offset: 1, 0
+  index: -1
+T_LA
+  rotate: false
+  xy: 715, 806
+  size: 222, 102
+  orig: 224, 105
+  offset: 1, 2
+  index: -1
+T_LT2
+  rotate: false
+  xy: 733, 571
+  size: 159, 114
+  orig: 161, 116
+  offset: 1, 1
+  index: -1
+T_RT
+  rotate: true
+  xy: 2, 685
+  size: 147, 74
+  orig: 149, 77
+  offset: 1, 1
+  index: -1
+T_RT2
+  rotate: false
+  xy: 2, 229
+  size: 117, 96
+  orig: 117, 97
+  offset: 0, 1
+  index: -1
+haolo
+  rotate: false
+  xy: 620, 908
+  size: 340, 82
+  orig: 340, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+CH0124_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 603, 826
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 693, 914
+  size: 105, 80
+  orig: 105, 80
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 648, 15
+  size: 105, 83
+  orig: 105, 83
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 609, 207
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: true
+  xy: 549, 91
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 671, 385
+  size: 107, 82
+  orig: 107, 82
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 555, 933
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 582, 312
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 640, 100
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 646, 718
+  size: 105, 84
+  orig: 105, 84
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 555, 693
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 504, 807
+  size: 125, 98
+  orig: 125, 98
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 509, 204
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 609, 494
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 679, 614
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 540, 3
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 572, 602
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+CH0124
+  rotate: false
+  xy: 2, 36
+  size: 606, 984
+  orig: 606, 984
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: true
+  xy: 148, 921
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+galsses
+  rotate: false
+  xy: 2, 962
+  size: 124, 58
+  orig: 125, 59
+  offset: 1, 0
+  index: -1
+halo
+  rotate: false
+  xy: 361, 844
+  size: 192, 175
+  orig: 192, 175
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 2, 861
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1

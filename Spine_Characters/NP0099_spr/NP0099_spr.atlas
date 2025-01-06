@@ -1,0 +1,160 @@
+
+NP0099_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_eyeclose
+  rotate: false
+  xy: 497, 425
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 106, 610
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+00_defualt
+  rotate: false
+  xy: 106, 610
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 226, 795
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 156, 871
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 685
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 493, 501
+  size: 112, 68
+  orig: 112, 68
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 487, 644
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 226, 720
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 226, 720
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 112, 777
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 490, 570
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 769
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 603
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 112, 699
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 156, 947
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 198
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 2, 856
+  size: 152, 167
+  orig: 152, 167
+  offset: 0, 0
+  index: -1
+NP0099
+  rotate: false
+  xy: 2, 235
+  size: 502, 788
+  orig: 800, 1350
+  offset: 0, 0
+  index: -1
+NP00999
+  rotate: 180
+  xy: 423, 73
+  size: 599, 585
+  orig: 800, 1350
+  offset: 112, 765
+  index: -1
+NP009991
+  rotate: true
+  xy: 460, 690
+  size: 334, 436
+  orig: 800, 1350
+  offset: 466, 347
+  index: -1
+front hair
+  rotate: false
+  xy: 2, 109
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1

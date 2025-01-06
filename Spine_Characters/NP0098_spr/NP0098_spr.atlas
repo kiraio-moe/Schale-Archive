@@ -1,0 +1,153 @@
+
+NP0098_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 885, 425
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 683, 522
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 321, 764
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 900, 516
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 793, 519
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 615, 325
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 2, 311
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 196, 318
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 783, 420
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 757, 618
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 720, 328
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 720, 246
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+B_Halo
+  rotate: false
+  xy: 106, 303
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+B_Halo_Light
+  rotate: false
+  xy: 785, 849
+  size: 104, 109
+  orig: 104, 109
+  offset: 0, 0
+  index: -1
+F_Halo
+  rotate: false
+  xy: 865, 616
+  size: 157, 140
+  orig: 157, 140
+  offset: 0, 0
+  index: -1
+F_Halo_Light
+  rotate: false
+  xy: 610, 869
+  size: 173, 154
+  orig: 173, 154
+  offset: 0, 0
+  index: -1
+NP0098
+  rotate: false
+  xy: 2, 401
+  size: 382, 622
+  orig: 688, 1448
+  offset: 0, 826
+  index: -1
+NP00981
+  rotate: false
+  xy: 298, 176
+  size: 311, 847
+  orig: 688, 1448
+  offset: 0, 0
+  index: -1
+NP00982
+  rotate: false
+  xy: 538, 366
+  size: 465, 657
+  orig: 688, 1448
+  offset: 223, 106
+  index: -1
+eyeclose
+  rotate: false
+  xy: 885, 329
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 633, 420
+  size: 148, 100
+  orig: 148, 100
+  offset: 0, 0
+  index: -1

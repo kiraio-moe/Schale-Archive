@@ -1,0 +1,188 @@
+
+CH0243_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 487, 834
+  size: 135, 99
+  orig: 135, 99
+  offset: 0, 0
+  index: -1
+00_eye close
+  rotate: false
+  xy: 2, 206
+  size: 130, 87
+  orig: 130, 87
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 760, 751
+  size: 135, 87
+  orig: 135, 87
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 760, 839
+  size: 135, 94
+  orig: 135, 94
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 358, 775
+  size: 127, 99
+  orig: 127, 99
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 624, 834
+  size: 134, 98
+  orig: 134, 98
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 36
+  size: 135, 81
+  orig: 135, 81
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 487, 746
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+07_annoying
+  rotate: true
+  xy: 165, 637
+  size: 127, 77
+  orig: 127, 77
+  offset: 0, 0
+  index: -1
+08_smile_2
+  rotate: true
+  xy: 897, 668
+  size: 134, 78
+  orig: 134, 78
+  offset: 0, 0
+  index: -1
+08_sneer
+  rotate: false
+  xy: 760, 662
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+08_sneer_2
+  rotate: false
+  xy: 837, 574
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+09_angry
+  rotate: false
+  xy: 466, 106
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+10_embarassed_2
+  rotate: false
+  xy: 2, 119
+  size: 134, 84
+  orig: 134, 84
+  offset: 0, 0
+  index: -1
+11_embarassed_3
+  rotate: false
+  xy: 854, 487
+  size: 134, 85
+  orig: 134, 85
+  offset: 0, 0
+  index: -1
+12_Sigh
+  rotate: true
+  xy: 897, 803
+  size: 130, 82
+  orig: 130, 82
+  offset: 0, 0
+  index: -1
+13_annoying_2
+  rotate: true
+  xy: 645, 623
+  size: 121, 79
+  orig: 121, 79
+  offset: 0, 0
+  index: -1
+14_smile_3
+  rotate: false
+  xy: 624, 746
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+15_serious_2
+  rotate: false
+  xy: 166, 766
+  size: 135, 88
+  orig: 135, 88
+  offset: 0, 0
+  index: -1
+16_angry_2
+  rotate: false
+  xy: 429, 22
+  size: 134, 81
+  orig: 134, 81
+  offset: 0, 0
+  index: -1
+17_eye close_2
+  rotate: false
+  xy: 2, 295
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+CH0243_nojomi
+  rotate: false
+  xy: 2, 71
+  size: 641, 862
+  orig: 641, 1191
+  offset: 0, 329
+  index: -1
+CH0243_nojomi2
+  rotate: false
+  xy: 486, 3
+  size: 535, 613
+  orig: 641, 1191
+  offset: 106, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 868, 396
+  size: 150, 90
+  orig: 150, 90
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 108, 855
+  size: 377, 77
+  orig: 377, 77
+  offset: 0, 0
+  index: -1
+hatcover
+  rotate: false
+  xy: 138, 12
+  size: 174, 70
+  orig: 174, 70
+  offset: 0, 0
+  index: -1

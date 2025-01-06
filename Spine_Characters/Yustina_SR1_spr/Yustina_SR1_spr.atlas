@@ -1,0 +1,41 @@
+
+Yustina_SR1_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yustina_SR1
+  rotate: false
+  xy: 2, 3
+  size: 709, 995
+  orig: 709, 995
+  offset: 0, 0
+  index: -1
+eyelight
+  rotate: false
+  xy: 96, 910
+  size: 121, 86
+  orig: 121, 86
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 309, 806
+  size: 155, 149
+  orig: 157, 151
+  offset: 1, 1
+  index: -1
+particle
+  rotate: 180
+  xy: 303, 44
+  size: 422, 478
+  orig: 664, 631
+  offset: 0, 0
+  index: -1
+particle_copy
+  rotate: false
+  xy: 587, 514
+  size: 336, 459
+  orig: 664, 631
+  offset: 328, 172
+  index: -1

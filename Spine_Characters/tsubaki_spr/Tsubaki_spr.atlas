@@ -1,0 +1,104 @@
+
+Tsubaki_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defalt
+  rotate: true
+  xy: 708, 880
+  size: 99, 71
+  orig: 231, 113
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: true
+  xy: 696, 115
+  size: 90, 89
+  orig: 231, 114
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 388, 87
+  size: 104, 86
+  orig: 275, 458
+  offset: 0, 372
+  index: -1
+03_smile
+  rotate: 180
+  xy: 642, 35
+  size: 97, 83
+  orig: 275, 458
+  offset: 0, 375
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 173, 89
+  size: 109, 84
+  orig: 275, 458
+  offset: 0, 374
+  index: -1
+05_serious
+  rotate: false
+  xy: 477, 31
+  size: 97, 82
+  orig: 275, 458
+  offset: 0, 376
+  index: -1
+06_serious
+  rotate: false
+  xy: 570, 3
+  size: 98, 86
+  orig: 275, 458
+  offset: 0, 372
+  index: -1
+07
+  rotate: true
+  xy: 708, 798
+  size: 81, 74
+  orig: 272, 455
+  offset: 0, 381
+  index: -1
+08
+  rotate: false
+  xy: 708, 276
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 708, 207
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 284, 89
+  size: 103, 76
+  orig: 273, 456
+  offset: 0, 380
+  index: -1
+eyeclose
+  rotate: false
+  xy: 575, 85
+  size: 94, 84
+  orig: 231, 114
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 2, 30
+  size: 142, 169
+  orig: 142, 169
+  offset: 0, 0
+  index: -1
+tsubaki
+  rotate: false
+  xy: 2, 174
+  size: 704, 804
+  orig: 704, 804
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+CH0109_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 512, 900
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 110, 799
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 2, 886
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 109, 701
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 387, 911
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+CH0109
+  rotate: true
+  xy: 428, 536
+  size: 466, 572
+  orig: 678, 1263
+  offset: 105, 691
+  index: -1
+CH01090
+  rotate: false
+  xy: 2, 281
+  size: 678, 721
+  orig: 678, 1263
+  offset: 0, 0
+  index: -1
+emo_01
+  rotate: false
+  xy: 110, 902
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 785
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 682, 85
+  size: 450, 206
+  orig: 450, 206
+  offset: 0, 0
+  index: -1

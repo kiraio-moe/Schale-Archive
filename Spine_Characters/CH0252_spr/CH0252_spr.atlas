@@ -1,0 +1,132 @@
+
+CH0252_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10serious2
+  rotate: false
+  xy: 637, 645
+  size: 143, 86
+  orig: 143, 86
+  offset: 0, 0
+  index: -1
+11Surprise
+  rotate: false
+  xy: 2, 472
+  size: 143, 95
+  orig: 143, 95
+  offset: 0, 0
+  index: -1
+12comic
+  rotate: false
+  xy: 494, 637
+  size: 141, 94
+  orig: 141, 94
+  offset: 0, 0
+  index: -1
+3smile
+  rotate: false
+  xy: 515, 733
+  size: 143, 92
+  orig: 143, 92
+  offset: 0, 0
+  index: -1
+4 Embarassed
+  rotate: false
+  xy: 802, 773
+  size: 139, 82
+  orig: 139, 82
+  offset: 0, 0
+  index: -1
+5 serious
+  rotate: true
+  xy: 146, 628
+  size: 143, 74
+  orig: 143, 74
+  offset: 0, 0
+  index: -1
+6depressed
+  rotate: false
+  xy: 782, 647
+  size: 143, 84
+  orig: 143, 84
+  offset: 0, 0
+  index: -1
+7smile2
+  rotate: false
+  xy: 2, 671
+  size: 143, 100
+  orig: 143, 100
+  offset: 0, 0
+  index: -1
+8smile3
+  rotate: false
+  xy: 659, 733
+  size: 141, 92
+  orig: 141, 92
+  offset: 0, 0
+  index: -1
+9smile4
+  rotate: false
+  xy: 2, 569
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+CH0252
+  rotate: false
+  xy: 2, 68
+  size: 543, 882
+  orig: 551, 1481
+  offset: 0, 0
+  index: -1
+CH025244
+  rotate: false
+  xy: 449, 20
+  size: 499, 619
+  orig: 551, 1481
+  offset: 52, 862
+  index: -1
+Eyeclose
+  rotate: false
+  xy: 663, 857
+  size: 141, 92
+  orig: 141, 92
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 518, 827
+  size: 143, 92
+  orig: 143, 92
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 518, 827
+  size: 143, 92
+  orig: 143, 92
+  offset: 0, 0
+  index: -1
+hair cover
+  rotate: true
+  xy: 401, 355
+  size: 151, 80
+  orig: 151, 80
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 772
+  size: 218, 177
+  orig: 228, 177
+  offset: 10, 0
+  index: -1
+respond
+  rotate: false
+  xy: 2, 375
+  size: 143, 95
+  orig: 143, 95
+  offset: 0, 0
+  index: -1

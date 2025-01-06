@@ -1,0 +1,27 @@
+
+Yukata_StreetGhostes_MG_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Halo
+  rotate: false
+  xy: 2, 723
+  size: 189, 172
+  orig: 189, 172
+  offset: 0, 0
+  index: -1
+Yukata_StreetGhostes_MG
+  rotate: 270
+  xy: 2, 3
+  size: 404, 486
+  orig: 752, 1049
+  offset: 348, 563
+  index: -1
+Yukata_StreetGhostes_MG2
+  rotate: false
+  xy: 2, 309
+  size: 740, 587
+  orig: 752, 1049
+  offset: 0, 0
+  index: -1

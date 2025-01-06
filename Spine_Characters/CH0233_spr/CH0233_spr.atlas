@@ -1,0 +1,160 @@
+
+CH0233_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 548, 164
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+00_defualt
+  rotate: false
+  xy: 548, 164
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 2, 342
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 344, 86
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 115, 126
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 588, 740
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 228, 30
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+07_embarassed 2
+  rotate: false
+  xy: 2, 105
+  size: 111, 87
+  orig: 111, 87
+  offset: 0, 0
+  index: -1
+08_hard
+  rotate: false
+  xy: 547, 77
+  size: 111, 85
+  orig: 111, 85
+  offset: 0, 0
+  index: -1
+09_mumble
+  rotate: false
+  xy: 432, 78
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+10_zone out
+  rotate: false
+  xy: 318, 200
+  size: 113, 88
+  orig: 113, 88
+  offset: 0, 0
+  index: -1
+11_satisfied
+  rotate: false
+  xy: 228, 113
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+12_upset
+  rotate: false
+  xy: 2, 193
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+13_surprised
+  rotate: false
+  xy: 474, 741
+  size: 113, 92
+  orig: 113, 92
+  offset: 0, 0
+  index: -1
+14_worried
+  rotate: false
+  xy: 115, 29
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+99_eyeclose
+  rotate: false
+  xy: 433, 164
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+CH0233
+  rotate: false
+  xy: 2, 216
+  size: 470, 785
+  orig: 470, 1229
+  offset: 0, 444
+  index: -1
+CH0233_1
+  rotate: 180
+  xy: 421, 252
+  size: 237, 487
+  orig: 470, 1229
+  offset: 108, 0
+  index: -1
+flush
+  rotate: false
+  xy: 2, 966
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 340, 4
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 352, 916
+  size: 295, 64
+  orig: 295, 64
+  offset: 0, 0
+  index: -1
+sweat 2
+  rotate: false
+  xy: 2, 964
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+NP0161_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 1917, 332
+  size: 104, 77
+  orig: 104, 77
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 1858, 620
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 1933, 411
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 1818, 454
+  size: 114, 79
+  orig: 114, 79
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 1525, 573
+  size: 106, 81
+  orig: 106, 81
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 1952, 521
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+10_etc
+  rotate: true
+  xy: 1944, 625
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+11_etc
+  rotate: false
+  xy: 90, 641
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+12_etc
+  rotate: false
+  xy: 1843, 534
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+7_etc
+  rotate: false
+  xy: 1811, 373
+  size: 103, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+8_etc
+  rotate: false
+  xy: 1820, 98
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+9_etc
+  rotate: false
+  xy: 1176, 102
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 920, 4
+  size: 493, 263
+  orig: 493, 304
+  offset: 0, 41
+  index: -1
+default
+  rotate: false
+  xy: 1858, 253
+  size: 104, 77
+  orig: 104, 77
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 1858, 174
+  size: 104, 77
+  orig: 104, 77
+  offset: 0, 0
+  index: -1
+hair cover
+  rotate: 270
+  xy: 1546, 17
+  size: 256, 272
+  orig: 256, 272
+  offset: 0, 0
+  index: -1
+halo
+  rotate: 180
+  xy: 1267, 14
+  size: 256, 145
+  orig: 256, 145
+  offset: 0, 0
+  index: -1
+himari
+  rotate: false
+  xy: 2, 77
+  size: 972, 651
+  orig: 972, 1190
+  offset: 0, 0
+  index: -1
+himari2
+  rotate: false
+  xy: 801, 143
+  size: 800, 585
+  orig: 972, 1190
+  offset: 90, 605
+  index: -1
+screen
+  rotate: 270
+  xy: 1588, 235
+  size: 493, 269
+  orig: 493, 304
+  offset: 0, 35
+  index: -1

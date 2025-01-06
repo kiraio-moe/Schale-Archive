@@ -1,0 +1,13 @@
+
+NP0133_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0133
+  rotate: false
+  xy: 2, 3
+  size: 692, 832
+  orig: 692, 832
+  offset: 0, 0
+  index: -1

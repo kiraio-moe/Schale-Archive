@@ -1,0 +1,27 @@
+
+NP0180_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0180
+  rotate: false
+  xy: 2, 92
+  size: 491, 888
+  orig: 491, 1705
+  offset: 0, 817
+  index: -1
+NP01803
+  rotate: 180
+  xy: 491, 141
+  size: 395, 839
+  orig: 491, 1705
+  offset: 83, 0
+  index: -1
+hat
+  rotate: 180
+  xy: 520, 3
+  size: 379, 178
+  orig: 379, 178
+  offset: 0, 0
+  index: -1

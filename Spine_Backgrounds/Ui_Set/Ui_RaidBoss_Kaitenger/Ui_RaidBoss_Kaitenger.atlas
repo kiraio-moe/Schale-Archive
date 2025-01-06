@@ -1,0 +1,160 @@
+
+Ui_RaidBoss_Kaitenger.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyBottom_Back
+  rotate: true
+  xy: 880, 103
+  size: 266, 142
+  orig: 334, 172
+  offset: 0, 0
+  index: -1
+BodyBottom_Front
+  rotate: false
+  xy: 376, 618
+  size: 360, 276
+  orig: 362, 276
+  offset: 2, 0
+  index: -1
+Body_Center
+  rotate: false
+  xy: 2, 634
+  size: 378, 260
+  orig: 378, 260
+  offset: 0, 0
+  index: -1
+EyeLight
+  rotate: false
+  xy: 539, 591
+  size: 108, 27
+  orig: 108, 29
+  offset: 0, 0
+  index: -1
+FrontChest
+  rotate: false
+  xy: 529, 80
+  size: 294, 225
+  orig: 294, 225
+  offset: 0, 0
+  index: -1
+Head
+  rotate: 180
+  xy: 2, 22
+  size: 262, 238
+  orig: 263, 238
+  offset: 0, 0
+  index: -1
+LeftArm_0
+  rotate: false
+  xy: 200, 107
+  size: 315, 267
+  orig: 315, 267
+  offset: 0, 0
+  index: -1
+LeftArm_00
+  rotate: false
+  xy: 685, 300
+  size: 337, 317
+  orig: 337, 317
+  offset: 0, 0
+  index: -1
+LeftHand_1
+  rotate: false
+  xy: 737, 820
+  size: 60, 75
+  orig: 61, 77
+  offset: 0, 1
+  index: -1
+LeftHand_2
+  rotate: false
+  xy: 969, 597
+  size: 54, 102
+  orig: 56, 102
+  offset: 1, 0
+  index: -1
+LeftHand_3
+  rotate: false
+  xy: 2, 432
+  size: 52, 98
+  orig: 53, 98
+  offset: 1, 0
+  index: -1
+LeftHand_4
+  rotate: true
+  xy: 224, 8
+  size: 99, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 2, 501
+  size: 200, 134
+  orig: 201, 136
+  offset: 1, 2
+  index: -1
+RightArm
+  rotate: false
+  xy: 76, 324
+  size: 343, 319
+  orig: 343, 319
+  offset: 0, 0
+  index: -1
+RightHand_1
+  rotate: false
+  xy: 806, 215
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1
+RightHand_2
+  rotate: false
+  xy: 2, 283
+  size: 104, 112
+  orig: 106, 112
+  offset: 2, 0
+  index: -1
+RightHand_3
+  rotate: false
+  xy: 459, 569
+  size: 70, 71
+  orig: 73, 72
+  offset: 1, 1
+  index: -1
+RightHand_4
+  rotate: false
+  xy: 823, 3
+  size: 177, 181
+  orig: 177, 181
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: 180
+  xy: 408, 21
+  size: 209, 104
+  orig: 209, 105
+  offset: 0, 1
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 347, 302
+  size: 366, 379
+  orig: 367, 381
+  offset: 0, 1
+  index: -1
+Shield
+  rotate: 180
+  xy: 710, 560
+  size: 299, 335
+  orig: 300, 336
+  offset: 1, 1
+  index: -1
+Shield2
+  rotate: false
+  xy: 364, 841
+  size: 51, 53
+  orig: 53, 54
+  offset: 2, 1
+  index: -1

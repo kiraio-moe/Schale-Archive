@@ -1,0 +1,153 @@
+
+NP0054_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_eyeclose2
+  rotate: false
+  xy: 160, 351
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 576, 864
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 762, 471
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 762, 275
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 821, 856
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 864, 745
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 580, 259
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+07_baka
+  rotate: false
+  xy: 484, 252
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+08_baka2
+  rotate: false
+  xy: 762, 367
+  size: 104, 101
+  orig: 104, 101
+  offset: 0, 0
+  index: -1
+09_doya
+  rotate: true
+  xy: 2, 864
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+10_embarrass2
+  rotate: false
+  xy: 2, 346
+  size: 157, 106
+  orig: 157, 106
+  offset: 0, 0
+  index: -1
+11_smile2
+  rotate: false
+  xy: 2, 254
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+12_embarrass3
+  rotate: false
+  xy: 160, 257
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+13_ex
+  rotate: false
+  xy: 380, 268
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+14_ex2
+  rotate: false
+  xy: 273, 267
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+15_ex3
+  rotate: false
+  xy: 866, 265
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 526, 344
+  size: 234, 164
+  orig: 234, 164
+  offset: 0, 0
+  index: -1
+NP0054
+  rotate: true
+  xy: 337, 508
+  size: 417, 537
+  orig: 572, 1030
+  offset: 0, 0
+  index: -1
+NP005499
+  rotate: false
+  xy: 2, 454
+  size: 572, 513
+  orig: 572, 1030
+  offset: 0, 517
+  index: -1
+default
+  rotate: true
+  xy: 868, 359
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 294, 365
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1

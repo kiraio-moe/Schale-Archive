@@ -1,0 +1,202 @@
+
+Ui_RaidBoss_Hieronymus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_1
+  rotate: false
+  xy: 107, 781
+  size: 140, 205
+  orig: 145, 211
+  offset: 2, 3
+  index: -1
+Arm_1_2
+  rotate: 270
+  xy: 436, 4
+  size: 172, 186
+  orig: 178, 192
+  offset: 3, 4
+  index: -1
+Arm_2
+  rotate: true
+  xy: 620, 14
+  size: 141, 182
+  orig: 148, 189
+  offset: 3, 3
+  index: -1
+Arm_2_2
+  rotate: true
+  xy: 236, 10
+  size: 262, 217
+  orig: 268, 222
+  offset: 2, 3
+  index: -1
+Body_Back
+  rotate: true
+  xy: 414, 561
+  size: 424, 345
+  orig: 430, 352
+  offset: 3, 4
+  index: -1
+Body_Center
+  rotate: false
+  xy: 2, 718
+  size: 113, 267
+  orig: 122, 276
+  offset: 6, 4
+  index: -1
+Body_Front
+  rotate: 270
+  xy: 2, 67
+  size: 395, 423
+  orig: 403, 430
+  offset: 4, 4
+  index: -1
+Halo
+  rotate: false
+  xy: 5, 462
+  size: 113, 33
+  orig: 113, 37
+  offset: 0, 2
+  index: -1
+Halo_B
+  rotate: false
+  xy: 423, 175
+  size: 411, 311
+  orig: 414, 312
+  offset: 2, 1
+  index: -1
+Halo_F
+  rotate: false
+  xy: 2, 366
+  size: 714, 620
+  orig: 716, 623
+  offset: 2, 2
+  index: -1
+L_Hand
+  rotate: false
+  xy: 2, 520
+  size: 218, 288
+  orig: 225, 292
+  offset: 4, 1
+  index: -1
+L_Hand_1
+  rotate: false
+  xy: 2, 854
+  size: 32, 18
+  orig: 38, 25
+  offset: 3, 3
+  index: -1
+L_Hand_3
+  rotate: false
+  xy: 61, 577
+  size: 53, 49
+  orig: 60, 55
+  offset: 3, 3
+  index: -1
+L_Hand_4
+  rotate: false
+  xy: 199, 827
+  size: 58, 62
+  orig: 64, 69
+  offset: 4, 3
+  index: -1
+L_Hand_5
+  rotate: false
+  xy: 42, 547
+  size: 44, 52
+  orig: 55, 61
+  offset: 4, 4
+  index: -1
+Line_B_1
+  rotate: false
+  xy: 406, 932
+  size: 95, 18
+  orig: 103, 26
+  offset: 4, 4
+  index: -1
+Line_B_2
+  rotate: false
+  xy: 405, 946
+  size: 175, 38
+  orig: 181, 45
+  offset: 3, 4
+  index: -1
+Line_C_B
+  rotate: true
+  xy: 2, 212
+  size: 81, 191
+  orig: 81, 194
+  offset: 0, 0
+  index: -1
+Line_C_T
+  rotate: false
+  xy: 106, 888
+  size: 27, 97
+  orig: 35, 104
+  offset: 4, 3
+  index: -1
+Line_F_1
+  rotate: false
+  xy: 106, 655
+  size: 158, 80
+  orig: 166, 88
+  offset: 4, 4
+  index: -1
+Line_F_2
+  rotate: false
+  xy: 2, 344
+  size: 137, 71
+  orig: 145, 79
+  offset: 4, 4
+  index: -1
+Line_F_T
+  rotate: false
+  xy: 174, 759
+  size: 53, 94
+  orig: 61, 100
+  offset: 4, 3
+  index: -1
+R_Hand
+  rotate: true
+  xy: 40, 13
+  size: 148, 267
+  orig: 154, 273
+  offset: 2, 2
+  index: -1
+R_Hand_1
+  rotate: false
+  xy: 2, 827
+  size: 21, 26
+  orig: 29, 32
+  offset: 4, 3
+  index: -1
+R_Hand_2
+  rotate: false
+  xy: 2, 657
+  size: 59, 61
+  orig: 64, 68
+  offset: 2, 3
+  index: -1
+R_Hand_3
+  rotate: false
+  xy: 133, 923
+  size: 62, 63
+  orig: 68, 70
+  offset: 3, 3
+  index: -1
+R_Hand_4
+  rotate: false
+  xy: 81, 824
+  size: 56, 65
+  orig: 64, 73
+  offset: 4, 4
+  index: -1
+R_Hand_5
+  rotate: false
+  xy: 205, 871
+  size: 48, 53
+  orig: 54, 60
+  offset: 4, 4
+  index: -1

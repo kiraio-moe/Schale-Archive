@@ -1,0 +1,139 @@
+
+CH0251_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: true
+  xy: 882, 501
+  size: 130, 107
+  orig: 130, 107
+  offset: 0, 0
+  index: -1
+default
+  rotate: true
+  xy: 882, 501
+  size: 130, 107
+  orig: 130, 107
+  offset: 0, 0
+  index: -1
+02_repond
+  rotate: false
+  xy: 874, 893
+  size: 130, 111
+  orig: 130, 111
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 866, 320
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 813, 633
+  size: 136, 120
+  orig: 136, 120
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 333, 83
+  size: 131, 116
+  orig: 131, 116
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 63, 75
+  size: 135, 112
+  orig: 135, 112
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 200, 77
+  size: 131, 116
+  orig: 131, 116
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 845, 771
+  size: 135, 111
+  orig: 135, 111
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 466, 73
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 877, 183
+  size: 135, 112
+  orig: 135, 112
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 749, 347
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 466, 186
+  size: 137, 129
+  orig: 137, 129
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 760, 494
+  size: 137, 120
+  orig: 137, 120
+  offset: 0, 0
+  index: -1
+CH0251
+  rotate: false
+  xy: 2, 185
+  size: 463, 820
+  orig: 525, 1466
+  offset: 62, 0
+  index: -1
+CH02513
+  rotate: false
+  xy: 347, 317
+  size: 525, 688
+  orig: 525, 1466
+  offset: 0, 778
+  index: -1
+eyeclose
+  rotate: false
+  xy: 852, 75
+  size: 129, 107
+  orig: 129, 107
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: true
+  xy: 320, 431
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: false
+  xy: 638, 158
+  size: 237, 187
+  orig: 237, 187
+  offset: 0, 0
+  index: -1

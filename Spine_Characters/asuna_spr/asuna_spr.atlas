@@ -1,0 +1,90 @@
+
+asuna_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defalt
+  rotate: false
+  xy: 451, 920
+  size: 109, 79
+  orig: 145, 79
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 2, 828
+  size: 111, 83
+  orig: 145, 83
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 337, 915
+  size: 113, 85
+  orig: 145, 85
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 503, 853
+  size: 114, 66
+  orig: 145, 66
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 2, 912
+  size: 115, 87
+  orig: 145, 87
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 390, 830
+  size: 121, 84
+  orig: 145, 84
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 118, 832
+  size: 115, 84
+  orig: 145, 84
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: false
+  xy: 2, 524
+  size: 624, 476
+  orig: 624, 891
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 95
+  size: 624, 444
+  orig: 624, 891
+  offset: 0, 447
+  index: -1
+eyeclose
+  rotate: false
+  xy: 118, 917
+  size: 117, 83
+  orig: 145, 83
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 446, 3
+  size: 240, 271
+  orig: 240, 271
+  offset: 0, 0
+  index: -1
+object_fronthair
+  rotate: false
+  xy: 513, 786
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1

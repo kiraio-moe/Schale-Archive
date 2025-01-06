@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains [Blue Archive](https://bluearchive.nexon.com/home "Blue Archive") game assets. For now it only contains Character Skeletal Animation (Spine) aka Live 2D assets used in a story dialogue.
+This repository contains [Blue Archive](https://bluearchive.nexon.com/home "Blue Archive") game assets.
 
 ## Known Missing Characters Spine
 
@@ -19,7 +19,7 @@ This repository contains [Blue Archive](https://bluearchive.nexon.com/home "Blue
 
 ## How to Properly Import Character to Spine Editor
 
-- First, you need Spine Editor at least v3.8.x and later because Blue Archive character spine is produced in Spine Editor v.4.3.8.96.
+- First, you need Spine Editor at least v3.8.x and later.
 - Create a new project.
 - Delete the default skeleton in `Hierarchy` on the right.
 - Click Spine logo on top left, then select `Import Data`.
@@ -35,18 +35,13 @@ This repository contains [Blue Archive](https://bluearchive.nexon.com/home "Blue
 - Find asset bundle file `.bundle` then extract it using [Asset Studio](https://github.com/Perfare/AssetStudio/releases "Asset Studio").
 - How to extract the asset bundle? You search that on the internet.
 
-## Notes
-
-- If you change the character image (`.png`) name, don't forget to also rename the other files.  
-  Then open and edit `.atlas` file, on the second line change the name to the current character image `.png`.
-
 ## Contribute
 
-Any contibutions is warmly welcome~ What can you do?
+Any contibutions is warmly welcome! What can you do?
 
 - Add missing characters.
-- Fix character name.
-- Add other assets related to Live 2D assets.
+- Track character name.
+- Add other assets related to the Live 2D assets.
 
 ## Huge Thanks
 
@@ -54,6 +49,6 @@ Special thanks for [Blue Archive Indonesia Community](https://www.facebook.com/g
 
 ## Disclaimer
 
-Any game assets and resources in this repository is the property and copyright of Nexon, NEXON Games Co., Ltd.
+Any game assets/resources in this repository is the property and copyright of Nexon, NEXON Games Co., Ltd.
 
-I don't own or trade this assets in any possible ways. I use this under [Fair Use](https://en.wikipedia.org/wiki/Fair_use "Fair Use") agreement.
+I don't own or trade this assets in any ways. Used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use "Fair Use") agreement.

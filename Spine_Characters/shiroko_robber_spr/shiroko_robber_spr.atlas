@@ -1,0 +1,174 @@
+
+shiroko_robber_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 472, 94
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 472, 94
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 594, 119
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 350, 91
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+04_embarrassed
+  rotate: false
+  xy: 712, 702
+  size: 120, 89
+  orig: 120, 89
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 472, 12
+  size: 119, 81
+  orig: 119, 81
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 889, 169
+  size: 119, 88
+  orig: 119, 88
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 228, 87
+  size: 120, 84
+  orig: 120, 84
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 4
+  size: 112, 77
+  orig: 112, 77
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 889, 83
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 68, 684
+  size: 119, 103
+  orig: 119, 103
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 707, 793
+  size: 119, 103
+  orig: 119, 103
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 716, 41
+  size: 120, 84
+  orig: 120, 84
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 2, 96
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 767, 127
+  size: 120, 87
+  orig: 120, 87
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 89, 84
+  size: 120, 84
+  orig: 120, 84
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 594, 34
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 2, 789
+  size: 119, 108
+  orig: 119, 108
+  offset: 0, 0
+  index: -1
+Hair_Cover
+  rotate: false
+  xy: 571, 840
+  size: 124, 57
+  orig: 124, 57
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 350, 4
+  size: 108, 85
+  orig: 108, 85
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 627, 208
+  size: 260, 112
+  orig: 260, 112
+  offset: 0, 0
+  index: -1
+object_mask
+  rotate: false
+  xy: 532, 634
+  size: 178, 207
+  orig: 179, 207
+  offset: 0, 0
+  index: -1
+siroko2
+  rotate: true
+  xy: 490, 260
+  size: 482, 508
+  orig: 623, 1208
+  offset: 105, 700
+  index: -1
+siroko3
+  rotate: false
+  xy: 2, 170
+  size: 623, 727
+  orig: 623, 1208
+  offset: 0, 0
+  index: -1

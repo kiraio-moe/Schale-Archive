@@ -1,0 +1,146 @@
+
+CH0235_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 602, 543
+  size: 117, 96
+  orig: 117, 96
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 740, 243
+  size: 117, 87
+  orig: 117, 87
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 3
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 650, 124
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 647, 260
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 691, 5
+  size: 117, 88
+  orig: 117, 88
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 790, 480
+  size: 117, 85
+  orig: 117, 85
+  offset: 0, 0
+  index: -1
+07_respond_2
+  rotate: false
+  xy: 744, 124
+  size: 117, 87
+  orig: 117, 87
+  offset: 0, 0
+  index: -1
+08_smile_2
+  rotate: true
+  xy: 781, 5
+  size: 117, 87
+  orig: 117, 87
+  offset: 0, 0
+  index: -1
+09_depressed_2
+  rotate: false
+  xy: 790, 598
+  size: 117, 85
+  orig: 117, 85
+  offset: 0, 0
+  index: -1
+10_pouting
+  rotate: true
+  xy: 700, 538
+  size: 117, 88
+  orig: 117, 88
+  offset: 0, 0
+  index: -1
+11_surprise
+  rotate: true
+  xy: 690, 379
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+12_sad
+  rotate: true
+  xy: 830, 213
+  size: 117, 84
+  orig: 117, 84
+  offset: 0, 0
+  index: -1
+99_eye close
+  rotate: true
+  xy: 784, 361
+  size: 117, 87
+  orig: 117, 87
+  offset: 0, 0
+  index: -1
+CH0235
+  rotate: false
+  xy: 2, 14
+  size: 438, 699
+  orig: 438, 1152
+  offset: 0, 453
+  index: -1
+CH0235_1
+  rotate: 180
+  xy: 380, 38
+  size: 323, 512
+  orig: 438, 1152
+  offset: 82, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 442, 550
+  size: 158, 109
+  orig: 158, 109
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: true
+  xy: 2, 97
+  size: 236, 50
+  orig: 236, 50
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: false
+  xy: 333, 661
+  size: 237, 51
+  orig: 237, 51
+  offset: 0, 0
+  index: -1
+halo_03
+  rotate: true
+  xy: 862, 124
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1

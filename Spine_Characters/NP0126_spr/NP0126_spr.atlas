@@ -1,0 +1,13 @@
+
+NP0126_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0126_og
+  rotate: false
+  xy: 2, 3
+  size: 919, 784
+  orig: 919, 784
+  offset: 0, 0
+  index: -1

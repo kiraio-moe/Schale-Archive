@@ -1,0 +1,153 @@
+
+NP0059_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_respond
+  rotate: false
+  xy: 869, 267
+  size: 128, 104
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 884, 764
+  size: 128, 109
+  orig: 128, 162
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 884, 634
+  size: 128, 115
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 564, 171
+  size: 128, 112
+  orig: 128, 164
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 697, 318
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 884, 505
+  size: 128, 109
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 164, 204
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 697, 188
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+10
+  rotate: 180
+  xy: 762, 89
+  size: 128, 121
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 113
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 164, 112
+  size: 130, 90
+  orig: 130, 90
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 893, 372
+  size: 130, 101
+  orig: 130, 101
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 884, 894
+  size: 129, 120
+  orig: 129, 120
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 433, 184
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 892, 173
+  size: 129, 91
+  orig: 129, 91
+  offset: 0, 0
+  index: -1
+NP0059
+  rotate: false
+  xy: 2, 333
+  size: 439, 690
+  orig: 439, 1237
+  offset: 0, 0
+  index: -1
+NP005999
+  rotate: false
+  xy: 443, 447
+  size: 439, 576
+  orig: 439, 1237
+  offset: 0, 661
+  index: -1
+default
+  rotate: true
+  xy: 327, 203
+  size: 128, 105
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 327, 203
+  size: 128, 105
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: true
+  xy: 2, 204
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 443, 285
+  size: 253, 161
+  orig: 253, 161
+  offset: 0, 0
+  index: -1

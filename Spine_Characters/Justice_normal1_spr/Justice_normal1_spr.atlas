@@ -1,0 +1,69 @@
+
+Justice_normal1_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 279, 6
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 298, 10
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 279, 14
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 279, 21
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 366, 28
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+07_shame
+  rotate: false
+  xy: 279, 36
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 279, 75
+  size: 148, 126
+  orig: 148, 126
+  offset: 0, 0
+  index: -1
+justice_normal1
+  rotate: false
+  xy: 279, 203
+  size: 275, 424
+  orig: 275, 1023
+  offset: 0, 599
+  index: -1
+justice_normal2
+  rotate: false
+  xy: 2, 3
+  size: 275, 624
+  orig: 275, 1023
+  offset: 0, 0
+  index: -1

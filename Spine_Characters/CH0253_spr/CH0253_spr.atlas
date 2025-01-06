@@ -1,0 +1,160 @@
+
+CH0253_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 807, 429
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+00_eyeclose
+  rotate: false
+  xy: 813, 502
+  size: 104, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 779, 90
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 891, 155
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 829, 575
+  size: 105, 70
+  orig: 105, 70
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: true
+  xy: 2, 354
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 845, 262
+  size: 106, 69
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 238, 88
+  size: 101, 67
+  orig: 101, 67
+  offset: 0, 0
+  index: -1
+07_anger
+  rotate: false
+  xy: 477, 461
+  size: 108, 118
+  orig: 108, 118
+  offset: 0, 0
+  index: -1
+08_ibukilove
+  rotate: false
+  xy: 730, 262
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+09_ibukilove2
+  rotate: false
+  xy: 799, 349
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+10_evilsmile
+  rotate: false
+  xy: 779, 158
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1
+11_scared
+  rotate: false
+  xy: 2, 591
+  size: 108, 127
+  orig: 108, 127
+  offset: 0, 0
+  index: -1
+12_serious2
+  rotate: false
+  xy: 478, 586
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+13_smile2
+  rotate: false
+  xy: 89, 352
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+14_embarassed2
+  rotate: false
+  xy: 257, 887
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+15_groggy
+  rotate: false
+  xy: 2, 719
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+16_Proud
+  rotate: true
+  xy: 483, 856
+  size: 102, 70
+  orig: 102, 70
+  offset: 0, 0
+  index: -1
+CH0253
+  rotate: false
+  xy: 443, 373
+  size: 500, 587
+  orig: 655, 1375
+  offset: 49, 787
+  index: -1
+CH0253_2
+  rotate: 180
+  xy: 156, 120
+  size: 623, 341
+  orig: 655, 1375
+  offset: 32, 461
+  index: -1
+CH0253_3
+  rotate: false
+  xy: 2, 460
+  size: 480, 500
+  orig: 655, 1375
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 141
+  size: 254, 217
+  orig: 255, 219
+  offset: 1, 1
+  index: -1

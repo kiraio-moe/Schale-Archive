@@ -1,0 +1,146 @@
+
+CH0238_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 435, 130
+  size: 119, 86
+  orig: 119, 86
+  offset: 0, 0
+  index: -1
+01_nomal
+  rotate: false
+  xy: 435, 130
+  size: 119, 86
+  orig: 119, 86
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 815
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 470, 915
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 354, 918
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 919, 438
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 237, 918
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 699, 578
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 121, 917
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 254, 412
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 74, 727
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 919, 553
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 723, 916
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 908
+  size: 118, 103
+  orig: 118, 103
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 673, 133
+  size: 116, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+CH0238
+  rotate: true
+  xy: 416, 180
+  size: 488, 501
+  orig: 739, 1246
+  offset: 168, 745
+  index: -1
+CH0238_2
+  rotate: false
+  xy: 2, 504
+  size: 737, 508
+  orig: 739, 1246
+  offset: 2, 256
+  index: -1
+CH0238_3
+  rotate: true
+  xy: 2, 115
+  size: 405, 432
+  orig: 739, 1246
+  offset: 160, 2
+  index: -1
+eyeclose
+  rotate: false
+  xy: 555, 171
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1
+halo_Light
+  rotate: 270
+  xy: 710, 616
+  size: 346, 300
+  orig: 346, 300
+  offset: 0, 0
+  index: -1

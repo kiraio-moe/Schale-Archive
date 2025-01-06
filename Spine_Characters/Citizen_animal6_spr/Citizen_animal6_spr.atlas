@@ -1,0 +1,13 @@
+
+Citizen_animal6_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Citizen_animal6
+  rotate: false
+  xy: 2, 2
+  size: 551, 800
+  orig: 551, 800
+  offset: 0, 0
+  index: -1

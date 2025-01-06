@@ -1,0 +1,27 @@
+
+NP0094_spr.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 21
+  size: 95, 19
+  orig: 95, 19
+  offset: 0, 0
+  index: -1
+01_depressed
+  rotate: true
+  xy: 2, 42
+  size: 109, 30
+  orig: 109, 30
+  offset: 0, 0
+  index: -1
+NP0094
+  rotate: false
+  xy: 2, 3
+  size: 351, 395
+  orig: 351, 395
+  offset: 0, 0
+  index: -1

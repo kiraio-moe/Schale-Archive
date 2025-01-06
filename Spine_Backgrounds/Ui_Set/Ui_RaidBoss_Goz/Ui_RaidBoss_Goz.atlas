@@ -1,0 +1,265 @@
+
+Ui_RaidBoss_Goz.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L_B
+  rotate: true
+  xy: 559, 99
+  size: 109, 158
+  orig: 121, 167
+  offset: 6, 4
+  index: -1
+Arm_L_F
+  rotate: true
+  xy: 2, 245
+  size: 349, 295
+  orig: 363, 303
+  offset: 6, 2
+  index: -1
+Arm_R_B
+  rotate: true
+  xy: 711, 147
+  size: 247, 311
+  orig: 259, 322
+  offset: 6, 4
+  index: -1
+Arm_R_F
+  rotate: true
+  xy: 531, 396
+  size: 132, 131
+  orig: 142, 142
+  offset: 6, 6
+  index: -1
+Body
+  rotate: 180
+  xy: 575, 474
+  size: 448, 468
+  orig: 455, 477
+  offset: 4, 5
+  index: -1
+Cape_B
+  rotate: false
+  xy: 2, 540
+  size: 596, 403
+  orig: 606, 414
+  offset: 5, 5
+  index: -1
+Cape_S_L
+  rotate: false
+  xy: 540, 4
+  size: 191, 90
+  orig: 201, 96
+  offset: 3, 2
+  index: -1
+Cape_S_R
+  rotate: false
+  xy: 2, 40
+  size: 170, 45
+  orig: 179, 57
+  offset: 6, 6
+  index: -1
+DecoFlower
+  rotate: false
+  xy: 225, 373
+  size: 111, 120
+  orig: 123, 132
+  offset: 6, 6
+  index: -1
+Eyeball_BG_L
+  rotate: false
+  xy: 976, 912
+  size: 45, 30
+  orig: 59, 44
+  offset: 7, 7
+  index: -1
+Eyeball_BG_R
+  rotate: false
+  xy: 567, 733
+  size: 41, 30
+  orig: 54, 43
+  offset: 7, 6
+  index: -1
+Eyeball_L
+  rotate: false
+  xy: 2, 768
+  size: 31, 34
+  orig: 44, 44
+  offset: 6, 5
+  index: -1
+Eyeball_R
+  rotate: false
+  xy: 978, 841
+  size: 29, 33
+  orig: 43, 43
+  offset: 7, 5
+  index: -1
+Face
+  rotate: false
+  xy: 622, 304
+  size: 299, 170
+  orig: 310, 187
+  offset: 5, 11
+  index: -1
+Gla_Lens
+  rotate: false
+  xy: 2, 597
+  size: 64, 65
+  orig: 74, 74
+  offset: 5, 5
+  index: -1
+Gla_Line
+  rotate: false
+  xy: 1006, 811
+  size: 16, 103
+  orig: 31, 117
+  offset: 7, 7
+  index: -1
+Gla_Outline
+  rotate: false
+  xy: 576, 763
+  size: 70, 64
+  orig: 81, 76
+  offset: 5, 6
+  index: -1
+Hand_L
+  rotate: 270
+  xy: 730, 32
+  size: 125, 146
+  orig: 150, 156
+  offset: 2, 6
+  index: -1
+Hand_L_1
+  rotate: 180
+  xy: 210, 20
+  size: 135, 95
+  orig: 146, 103
+  offset: 6, 4
+  index: -1
+Hand_L_2
+  rotate: false
+  xy: 720, 252
+  size: 135, 78
+  orig: 149, 88
+  offset: 6, 5
+  index: -1
+Hand_L_3
+  rotate: true
+  xy: 934, 745
+  size: 114, 89
+  orig: 124, 94
+  offset: 5, 3
+  index: -1
+Hand_L_4
+  rotate: false
+  xy: 346, 177
+  size: 106, 61
+  orig: 113, 69
+  offset: 3, 5
+  index: -1
+Hand_L_5
+  rotate: false
+  xy: 931, 420
+  size: 91, 84
+  orig: 103, 94
+  offset: 5, 6
+  index: -1
+Hand_R
+  rotate: 270
+  xy: 873, 101
+  size: 164, 149
+  orig: 174, 158
+  offset: 5, 3
+  index: -1
+Hat_B
+  rotate: false
+  xy: 415, 153
+  size: 333, 127
+  orig: 344, 138
+  offset: 5, 4
+  index: -1
+Hat_F
+  rotate: false
+  xy: 245, 328
+  size: 331, 251
+  orig: 344, 264
+  offset: 7, 6
+  index: -1
+Jacket_L
+  rotate: true
+  xy: 2, 101
+  size: 195, 322
+  orig: 204, 330
+  offset: 4, 3
+  index: -1
+Jacket_R
+  rotate: true
+  xy: 285, 167
+  size: 199, 365
+  orig: 210, 373
+  offset: 6, 4
+  index: -1
+Mouse_T
+  rotate: false
+  xy: 106, 6
+  size: 138, 50
+  orig: 150, 63
+  offset: 6, 6
+  index: -1
+Mus_L
+  rotate: false
+  xy: 598, 922
+  size: 31, 20
+  orig: 42, 31
+  offset: 6, 6
+  index: -1
+Mus_R
+  rotate: false
+  xy: 635, 816
+  size: 30, 22
+  orig: 41, 31
+  offset: 5, 4
+  index: -1
+Nose
+  rotate: false
+  xy: 630, 929
+  size: 24, 13
+  orig: 37, 26
+  offset: 7, 6
+  index: -1
+Ribbon
+  rotate: 180
+  xy: 329, 85
+  size: 208, 99
+  orig: 219, 109
+  offset: 6, 5
+  index: -1
+Staff
+  rotate: true
+  xy: 407, 26
+  size: 86, 167
+  orig: 92, 172
+  offset: 4, 0
+  index: -1
+Teeth
+  rotate: false
+  xy: 870, 26
+  size: 152, 82
+  orig: 158, 93
+  offset: 1, 6
+  index: -1
+fur_L
+  rotate: 180
+  xy: 2, 76
+  size: 210, 93
+  orig: 221, 105
+  offset: 6, 6
+  index: -1
+fur_R
+  rotate: 270
+  xy: 2, 288
+  size: 197, 124
+  orig: 206, 134
+  offset: 4, 5
+  index: -1

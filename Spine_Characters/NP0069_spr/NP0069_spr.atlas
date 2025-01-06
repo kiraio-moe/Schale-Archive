@@ -1,0 +1,83 @@
+
+NP0069_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: false
+  xy: 706, 537
+  size: 164, 157
+  orig: 164, 157
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 2, 166
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: true
+  xy: 2, 166
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 320, 124
+  size: 143, 157
+  orig: 143, 157
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 161, 136
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 712, 377
+  size: 164, 157
+  orig: 164, 157
+  offset: 0, 0
+  index: -1
+06_shout
+  rotate: false
+  xy: 303, 288
+  size: 164, 157
+  orig: 164, 157
+  offset: 0, 0
+  index: -1
+NP0069
+  rotate: false
+  xy: 2, 318
+  size: 452, 571
+  orig: 452, 1156
+  offset: 0, 585
+  index: -1
+NP006999
+  rotate: 180
+  xy: 445, 268
+  size: 269, 620
+  orig: 452, 1156
+  offset: 102, 0
+  index: -1
+eyeclose2
+  rotate: false
+  xy: 715, 218
+  size: 164, 157
+  orig: 164, 157
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 710, 696
+  size: 192, 176
+  orig: 192, 176
+  offset: 0, 0
+  index: -1

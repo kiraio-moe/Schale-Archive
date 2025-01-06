@@ -1,0 +1,160 @@
+
+CH0217_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_Default
+  rotate: true
+  xy: 445, 324
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+00_Eyeclose
+  rotate: false
+  xy: 740, 813
+  size: 117, 89
+  orig: 117, 89
+  offset: 0, 0
+  index: -1
+01_Normal
+  rotate: false
+  xy: 717, 381
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+02_Respond
+  rotate: false
+  xy: 647, 290
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1
+03_Smile
+  rotate: true
+  xy: 820, 143
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+04_Embarassed
+  rotate: true
+  xy: 820, 571
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+05_Serious
+  rotate: false
+  xy: 699, 706
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+06_Depressed
+  rotate: true
+  xy: 820, 693
+  size: 119, 86
+  orig: 119, 86
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 740, 904
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 256, 927
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 380, 925
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 820, 21
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 60, 312
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 771, 293
+  size: 119, 87
+  orig: 119, 87
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 405
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+CH0217
+  rotate: true
+  xy: 2, 4
+  size: 336, 664
+  orig: 666, 1291
+  offset: 132, 0
+  index: -1
+CH0217_0
+  rotate: false
+  xy: 2, 258
+  size: 666, 759
+  orig: 666, 1291
+  offset: 0, 532
+  index: -1
+Front_hair
+  rotate: true
+  xy: 2, 515
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+Halo_01
+  rotate: true
+  xy: 667, 60
+  size: 201, 151
+  orig: 201, 151
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: true
+  xy: 865, 296
+  size: 274, 82
+  orig: 274, 82
+  offset: 0, 0
+  index: -1
+Hat_Combat
+  rotate: false
+  xy: 465, 726
+  size: 273, 292
+  orig: 273, 292
+  offset: 0, 0
+  index: -1
+Hat_Normal
+  rotate: 270
+  xy: 566, 451
+  size: 274, 252
+  orig: 274, 252
+  offset: 0, 0
+  index: -1

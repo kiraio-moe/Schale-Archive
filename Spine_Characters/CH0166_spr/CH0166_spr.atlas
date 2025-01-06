@@ -1,0 +1,132 @@
+
+CH0166_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 895, 629
+  size: 113, 74
+  orig: 113, 74
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 781, 31
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 896, 98
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 896, 22
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 377, 473
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 433
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 648, 26
+  size: 109, 73
+  orig: 109, 73
+  offset: 0, 0
+  index: -1
+07_respond_02
+  rotate: false
+  xy: 898, 172
+  size: 111, 73
+  orig: 111, 73
+  offset: 0, 0
+  index: -1
+08_angry
+  rotate: false
+  xy: 518, 623
+  size: 113, 80
+  orig: 113, 80
+  offset: 0, 0
+  index: -1
+09_respond_03
+  rotate: false
+  xy: 2, 508
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+10_smile_02
+  rotate: false
+  xy: 213, 625
+  size: 107, 78
+  orig: 107, 78
+  offset: 0, 0
+  index: -1
+11_embarassed_02
+  rotate: false
+  xy: 404, 622
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 2, 3
+  size: 507, 700
+  orig: 651, 1195
+  offset: 55, 0
+  index: -1
+character_0
+  rotate: true
+  xy: 458, 51
+  size: 651, 552
+  orig: 651, 1195
+  offset: 0, 642
+  index: -1
+eye close
+  rotate: true
+  xy: 2, 16
+  size: 106, 71
+  orig: 106, 71
+  offset: 0, 0
+  index: -1
+fonthair
+  rotate: true
+  xy: 205, 496
+  size: 127, 62
+  orig: 127, 62
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 452, 548
+  size: 147, 74
+  orig: 147, 74
+  offset: 0, 0
+  index: -1
+halo_0
+  rotate: false
+  xy: 632, 101
+  size: 265, 124
+  orig: 265, 124
+  offset: 0, 0
+  index: -1

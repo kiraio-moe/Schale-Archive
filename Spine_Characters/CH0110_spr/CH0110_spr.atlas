@@ -1,0 +1,174 @@
+
+CH0110_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 261, 267
+  size: 121, 103
+  orig: 121, 103
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 834, 882
+  size: 121, 91
+  orig: 121, 91
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 711, 922
+  size: 121, 101
+  orig: 121, 101
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 569, 922
+  size: 140, 101
+  orig: 140, 101
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 255, 57
+  size: 121, 95
+  orig: 121, 95
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 698, 837
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 840, 789
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+07_surprise
+  rotate: false
+  xy: 138, 265
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+08_impatience 1
+  rotate: false
+  xy: 160, 153
+  size: 121, 103
+  orig: 121, 103
+  offset: 0, 0
+  index: -1
+09_impatience 2
+  rotate: false
+  xy: 2, 25
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+10_expectation
+  rotate: false
+  xy: 555, 749
+  size: 140, 106
+  orig: 140, 106
+  offset: 0, 0
+  index: -1
+11_discontent
+  rotate: true
+  xy: 931, 667
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+12_tasty 1
+  rotate: false
+  xy: 763, 520
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+13_tasty 2
+  rotate: false
+  xy: 698, 749
+  size: 140, 87
+  orig: 140, 87
+  offset: 0, 0
+  index: -1
+14_fright
+  rotate: false
+  xy: 132, 23
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+15_embarassed 2
+  rotate: false
+  xy: 283, 167
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+16_embarassed 3
+  rotate: false
+  xy: 2, 264
+  size: 135, 105
+  orig: 135, 105
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 808, 624
+  size: 121, 92
+  orig: 121, 92
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 378, 63
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+CH0110(umika)
+  rotate: false
+  xy: 2, 371
+  size: 662, 652
+  orig: 662, 1331
+  offset: 0, 679
+  index: -1
+CH0110(umika)_01
+  rotate: false
+  xy: 400, 3
+  size: 612, 690
+  orig: 662, 1331
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 823, 426
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 2, 126
+  size: 157, 136
+  orig: 157, 136
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 371
+  size: 191, 171
+  orig: 191, 171
+  offset: 0, 0
+  index: -1

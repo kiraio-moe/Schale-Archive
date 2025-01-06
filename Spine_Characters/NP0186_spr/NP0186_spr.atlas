@@ -1,0 +1,118 @@
+
+NP0186_spr.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 2, 1891
+  size: 95, 50
+  orig: 95, 51
+  offset: 0, 1
+  index: -1
+NP0186
+  rotate: 270
+  xy: 518, 299
+  size: 771, 989
+  orig: 771, 989
+  offset: 0, 0
+  index: -1
+NP0186_glow
+  rotate: true
+  xy: 768, 25
+  size: 492, 668
+  orig: 492, 904
+  offset: 0, 236
+  index: -1
+diorama_back_glow
+  rotate: true
+  xy: 1124, 845
+  size: 1192, 546
+  orig: 1192, 1276
+  offset: 0, 0
+  index: -1
+diorama_back_glow_2
+  rotate: false
+  xy: 67, 3
+  size: 606, 784
+  orig: 1192, 1276
+  offset: 105, 492
+  index: -1
+diorama_back_glow_3
+  rotate: false
+  xy: 1459, 441
+  size: 564, 671
+  orig: 1192, 1276
+  offset: 609, 472
+  index: -1
+diorama_front
+  rotate: false
+  xy: 2, 762
+  size: 1154, 1273
+  orig: 1155, 1273
+  offset: 1, 0
+  index: -1
+eyeglow_blue
+  rotate: false
+  xy: 124, 1996
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+eyeglow_yellow
+  rotate: false
+  xy: 2, 1860
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 2, 1941
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+halo 1
+  rotate: false
+  xy: 348, 928
+  size: 401, 137
+  orig: 403, 140
+  offset: 0, 2
+  index: -1
+halo 1_glow
+  rotate: false
+  xy: 119, 1910
+  size: 149, 81
+  orig: 153, 85
+  offset: 2, 2
+  index: -1
+halo 2
+  rotate: false
+  xy: 213, 1963
+  size: 142, 72
+  orig: 144, 73
+  offset: 2, 1
+  index: -1
+halo 2_glow
+  rotate: false
+  xy: 347, 1079
+  size: 412, 149
+  orig: 413, 152
+  offset: 0, 2
+  index: -1
+symbol
+  rotate: false
+  xy: 927, 1486
+  size: 196, 181
+  orig: 198, 183
+  offset: 2, 0
+  index: -1
+symbol_base_glow
+  rotate: false
+  xy: 2, 1549
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1

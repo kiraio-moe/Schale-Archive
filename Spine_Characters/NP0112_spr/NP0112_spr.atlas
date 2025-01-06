@@ -1,0 +1,139 @@
+
+NP0112_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 1904, 92
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 1847, 456
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 1904, 178
+  size: 118, 84
+  orig: 118, 84
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 1404, 356
+  size: 124, 86
+  orig: 124, 86
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 1673, 198
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 1790, 172
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+10_etc
+  rotate: false
+  xy: 1839, 265
+  size: 112, 95
+  orig: 112, 95
+  offset: 0, 0
+  index: -1
+11_etc
+  rotate: false
+  xy: 106, 732
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+12_etc
+  rotate: false
+  xy: 1844, 362
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+7_etc
+  rotate: false
+  xy: 1673, 110
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1
+8_etc
+  rotate: false
+  xy: 2, 43
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+9_etc
+  rotate: false
+  xy: 1666, 26
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+NP01112
+  rotate: 270
+  xy: 1029, 59
+  size: 768, 577
+  orig: 1060, 1322
+  offset: 200, 745
+  index: -1
+NP011123
+  rotate: false
+  xy: 2, 3
+  size: 1060, 824
+  orig: 1060, 1322
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 1564, 289
+  size: 538, 284
+  orig: 538, 331
+  offset: 0, 47
+  index: -1
+default
+  rotate: false
+  xy: 1788, 86
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+eyeclose2
+  rotate: false
+  xy: 969, 59
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 1827, 549
+  size: 278, 158
+  orig: 278, 158
+  offset: 0, 0
+  index: -1
+screen
+  rotate: false
+  xy: 1134, 20
+  size: 538, 293
+  orig: 538, 331
+  offset: 0, 38
+  index: -1

@@ -1,0 +1,13 @@
+
+Citizen_animal5_eyepatch_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Citizen_animal5_eyepatch
+  rotate: false
+  xy: 2, 3
+  size: 557, 921
+  orig: 557, 921
+  offset: 0, 0
+  index: -1

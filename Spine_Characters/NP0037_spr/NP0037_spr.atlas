@@ -1,0 +1,181 @@
+
+NP0037_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 2, 373
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+00_eye close
+  rotate: true
+  xy: 461, 839
+  size: 123, 106
+  orig: 123, 106
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 878, 310
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 251
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+02_tear
+  rotate: false
+  xy: 2, 962
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 374, 262
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 498, 256
+  size: 123, 114
+  orig: 123, 114
+  offset: 0, 0
+  index: -1
+04_sweat
+  rotate: false
+  xy: 2, 924
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 252, 163
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 878, 202
+  size: 123, 107
+  orig: 123, 107
+  offset: 0, 0
+  index: -1
+07_etc
+  rotate: false
+  xy: 116, 901
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1
+07_sweat
+  rotate: false
+  xy: 2, 904
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+08_etc
+  rotate: false
+  xy: 252, 264
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+08_sweat 1
+  rotate: false
+  xy: 2, 943
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+08_sweat 2
+  rotate: false
+  xy: 2, 884
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+09_etc
+  rotate: false
+  xy: 2, 532
+  size: 118, 120
+  orig: 118, 120
+  offset: 0, 0
+  index: -1
+09_tear
+  rotate: false
+  xy: 2, 991
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+10_etc
+  rotate: true
+  xy: 472, 687
+  size: 123, 105
+  orig: 123, 105
+  offset: 0, 0
+  index: -1
+11_etc
+  rotate: false
+  xy: 124, 252
+  size: 126, 114
+  orig: 126, 114
+  offset: 0, 0
+  index: -1
+HairCover
+  rotate: false
+  xy: 2, 199
+  size: 167, 51
+  orig: 167, 51
+  offset: 0, 0
+  index: -1
+NP0037
+  rotate: false
+  xy: 519, 417
+  size: 489, 591
+  orig: 657, 1193
+  offset: 137, 602
+  index: -1
+NP00378
+  rotate: false
+  xy: 2, 372
+  size: 657, 637
+  orig: 657, 1193
+  offset: 0, 0
+  index: -1
+flush_000
+  rotate: false
+  xy: 376, 224
+  size: 119, 36
+  orig: 119, 36
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 629, 169
+  size: 246, 247
+  orig: 246, 247
+  offset: 0, 0
+  index: -1
+tear
+  rotate: false
+  xy: 2, 977
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1

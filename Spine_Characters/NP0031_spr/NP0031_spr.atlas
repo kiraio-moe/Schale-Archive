@@ -1,0 +1,55 @@
+
+NP0031_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 259, 987
+  size: 161, 36
+  orig: 161, 36
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 489, 902
+  size: 161, 35
+  orig: 161, 35
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 908
+  size: 141, 57
+  orig: 141, 57
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 489, 939
+  size: 143, 43
+  orig: 143, 43
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 238, 926
+  size: 162, 53
+  orig: 162, 53
+  offset: 0, 0
+  index: -1
+Descartes_01
+  rotate: true
+  xy: 365, 3
+  size: 500, 630
+  orig: 624, 1285
+  offset: 48, 651
+  index: -1
+Descartes_02
+  rotate: false
+  xy: 2, 352
+  size: 620, 671
+  orig: 624, 1285
+  offset: 4, 2
+  index: -1

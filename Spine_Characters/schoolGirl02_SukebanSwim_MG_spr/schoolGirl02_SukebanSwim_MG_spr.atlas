@@ -1,0 +1,90 @@
+
+schoolGirl02_SukebanSwim_MG_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 123, 670
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+00_default
+  rotate: false
+  xy: 123, 670
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 186, 917
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 424, 878
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 92, 878
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 350, 823
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 114, 732
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 103, 806
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+SchoolGirl02_SukebanSwim_MG_1
+  rotate: 180
+  xy: 579, 385
+  size: 411, 606
+  orig: 411, 606
+  offset: 0, 0
+  index: -1
+SchoolGirl02_SukebanSwim_MG_2
+  rotate: false
+  xy: 2, 321
+  size: 730, 671
+  orig: 730, 671
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 442, 936
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 334, 687
+  size: 187, 134
+  orig: 187, 134
+  offset: 0, 0
+  index: -1

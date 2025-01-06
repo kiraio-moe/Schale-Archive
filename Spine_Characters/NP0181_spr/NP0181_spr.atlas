@@ -1,0 +1,83 @@
+
+NP0181_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0181
+  rotate: false
+  xy: 2, 8
+  size: 538, 920
+  orig: 538, 1702
+  offset: 0, 782
+  index: -1
+NP01812
+  rotate: 180
+  xy: 492, 47
+  size: 371, 882
+  orig: 538, 1702
+  offset: 44, 0
+  index: -1
+angry
+  rotate: false
+  xy: 410, 156
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+default
+  rotate: true
+  xy: 815, 206
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+depressed
+  rotate: true
+  xy: 829, 324
+  size: 117, 98
+  orig: 117, 98
+  offset: 0, 0
+  index: -1
+embrassed
+  rotate: true
+  xy: 810, 777
+  size: 123, 98
+  orig: 123, 98
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 286, 35
+  size: 259, 119
+  orig: 259, 119
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 147, 9
+  size: 126, 96
+  orig: 126, 96
+  offset: 0, 0
+  index: -1
+respond
+  rotate: false
+  xy: 436, 285
+  size: 128, 101
+  orig: 128, 101
+  offset: 0, 0
+  index: -1
+serious
+  rotate: true
+  xy: 827, 656
+  size: 119, 97
+  orig: 119, 97
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 448, 390
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+CH0219_spr.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 1114, 570
+  size: 128, 91
+  orig: 128, 91
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 1885, 648
+  size: 128, 92
+  orig: 128, 92
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 1730, 839
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 1885, 555
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 1860, 843
+  size: 128, 101
+  orig: 128, 101
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 1860, 741
+  size: 128, 101
+  orig: 128, 101
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1581, 823
+  size: 147, 121
+  orig: 147, 121
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1756, 646
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+character
+  rotate: 180
+  xy: 1129, 140
+  size: 494, 805
+  orig: 494, 1252
+  offset: 0, 0
+  index: -1
+character_0
+  rotate: 180
+  xy: 1593, 4
+  size: 454, 466
+  orig: 494, 1252
+  offset: 36, 786
+  index: -1
+default
+  rotate: false
+  xy: 1626, 650
+  size: 128, 98
+  orig: 128, 98
+  offset: 0, 0
+  index: -1
+diorama
+  rotate: false
+  xy: 2, 116
+  size: 1139, 828
+  orig: 1139, 828
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 1626, 557
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 1641, 750
+  size: 217, 73
+  orig: 217, 73
+  offset: 0, 0
+  index: -1

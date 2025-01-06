@@ -1,0 +1,160 @@
+
+NP0170_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_normal
+  rotate: false
+  xy: 655, 560
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: true
+  xy: 889, 494
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 877, 123
+  size: 133, 122
+  orig: 133, 122
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: true
+  xy: 885, 631
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 272, 16
+  size: 129, 116
+  orig: 129, 116
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: false
+  xy: 402, 21
+  size: 131, 111
+  orig: 131, 111
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 746, 119
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 608, 437
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 363, 134
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+10_embarrass2
+  rotate: false
+  xy: 2, 84
+  size: 133, 122
+  orig: 133, 122
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 566, 79
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 136, 80
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 871, 371
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 227, 194
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+Halo_base
+  rotate: 180
+  xy: 515, 203
+  size: 233, 132
+  orig: 233, 132
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 2, 345
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 855, 247
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+hair_filter
+  rotate: false
+  xy: 693, 3
+  size: 172, 119
+  orig: 172, 119
+  offset: 0, 0
+  index: -1
+light_Halo2
+  rotate: 180
+  xy: 2, 207
+  size: 223, 121
+  orig: 223, 121
+  offset: 0, 0
+  index: -1
+object_hand
+  rotate: true
+  xy: 906, 858
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+ruiko
+  rotate: false
+  xy: 2, 317
+  size: 530, 656
+  orig: 530, 1350
+  offset: 0, 694
+  index: -1
+ruiko_1
+  rotate: 180
+  xy: 425, 257
+  size: 486, 716
+  orig: 530, 1350
+  offset: 44, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+CH0254_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_defualt
+  rotate: false
+  xy: 2, 692
+  size: 123, 95
+  orig: 123, 95
+  offset: 0, 0
+  index: -1
+00_eyeclose
+  rotate: true
+  xy: 524, 311
+  size: 122, 85
+  orig: 122, 85
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 396, 22
+  size: 123, 94
+  orig: 123, 94
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 2, 888
+  size: 123, 100
+  orig: 123, 100
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 790
+  size: 124, 97
+  orig: 124, 97
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 535, 435
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: true
+  xy: 521, 4
+  size: 123, 81
+  orig: 123, 81
+  offset: 0, 0
+  index: -1
+06_depressed_01
+  rotate: false
+  xy: 398, 896
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+06_depressed_02
+  rotate: false
+  xy: 423, 803
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+07_shy
+  rotate: true
+  xy: 547, 761
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 523, 628
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 547, 874
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 428, 534
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: true
+  xy: 374, 129
+  size: 215, 215
+  orig: 215, 216
+  offset: 0, 1
+  index: -1
+blush
+  rotate: true
+  xy: 127, 875
+  size: 112, 43
+  orig: 112, 43
+  offset: 0, 0
+  index: -1
+blush_plus
+  rotate: true
+  xy: 127, 761
+  size: 112, 41
+  orig: 112, 41
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 2, 18
+  size: 531, 969
+  orig: 531, 969
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 390, 627
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1

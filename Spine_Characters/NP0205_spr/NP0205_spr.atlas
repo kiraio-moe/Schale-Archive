@@ -1,0 +1,97 @@
+
+NP0205_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 649
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 2, 727
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 421
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 349
+  size: 87, 71
+  orig: 87, 71
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 572
+  size: 88, 75
+  orig: 88, 75
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 496
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 153, 906
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+NP0009
+  rotate: 180
+  xy: 532, 3
+  size: 490, 662
+  orig: 699, 1263
+  offset: 209, 601
+  index: -1
+NP0009_copy
+  rotate: false
+  xy: 2, 261
+  size: 699, 720
+  orig: 699, 1263
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 805
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+halo_2
+  rotate: false
+  xy: 484, 650
+  size: 385, 95
+  orig: 385, 96
+  offset: 0, 1
+  index: -1
+halo_3
+  rotate: false
+  xy: 90, 769
+  size: 165, 34
+  orig: 165, 34
+  offset: 0, 0
+  index: -1
+halo_5
+  rotate: false
+  xy: 2, 928
+  size: 73, 51
+  orig: 76, 54
+  offset: 1, 2
+  index: -1

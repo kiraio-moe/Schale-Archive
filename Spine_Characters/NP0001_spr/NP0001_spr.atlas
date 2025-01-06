@@ -1,0 +1,111 @@
+
+NP0001_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: false
+  xy: 499, 811
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: false
+  xy: 499, 811
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 186, 809
+  size: 115, 83
+  orig: 115, 83
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: false
+  xy: 2, 632
+  size: 116, 84
+  orig: 116, 84
+  offset: 0, 0
+  index: -1
+04_embarrass
+  rotate: false
+  xy: 616, 815
+  size: 115, 77
+  orig: 115, 77
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 2, 219
+  size: 114, 80
+  orig: 114, 80
+  offset: 0, 0
+  index: -1
+06_embarrassed
+  rotate: false
+  xy: 2, 60
+  size: 114, 74
+  orig: 114, 74
+  offset: 0, 0
+  index: -1
+07_embarrass 2
+  rotate: false
+  xy: 186, 732
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+08_smile 2
+  rotate: false
+  xy: 119, 629
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+Character Halo
+  rotate: false
+  xy: 2, 717
+  size: 182, 175
+  orig: 182, 175
+  offset: 0, 0
+  index: -1
+HairCover
+  rotate: false
+  xy: 602, 756
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+azusa_gym_00
+  rotate: 270
+  xy: 393, 57
+  size: 384, 498
+  orig: 384, 498
+  offset: 0, 0
+  index: -1
+azusa_gym_01
+  rotate: false
+  xy: 2, 164
+  size: 846, 729
+  orig: 846, 729
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 136
+  size: 108, 81
+  orig: 108, 81
+  offset: 0, 0
+  index: -1
+gas mask
+  rotate: false
+  xy: 2, 301
+  size: 159, 149
+  orig: 167, 149
+  offset: 8, 0
+  index: -1

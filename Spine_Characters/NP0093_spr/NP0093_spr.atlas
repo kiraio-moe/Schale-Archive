@@ -1,0 +1,27 @@
+
+NP0093_spr.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_default
+  rotate: true
+  xy: 33, 41
+  size: 96, 20
+  orig: 96, 20
+  offset: 0, 0
+  index: -1
+01_depressed
+  rotate: true
+  xy: 2, 91
+  size: 109, 30
+  orig: 109, 30
+  offset: 0, 0
+  index: -1
+NP0093
+  rotate: false
+  xy: 2, 3
+  size: 383, 406
+  orig: 383, 406
+  offset: 0, 0
+  index: -1
